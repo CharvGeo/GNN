@@ -116,19 +116,33 @@
   "videos": [
     {
       "id": "E19y5dPxwhY",
-      "url": "https://www.youtube.com/watch?v=E19y5dPxwhY"
+      "url": "https://www.youtube.com/watch?v=E19y5dPxwhY",
+      "title": "Ο ΟΡΥΚΤΟΣ ΜΑΣ ΠΛΟΥΤΟΣ = Η ΑΙΤΙΑ ΤΟΥ \"ΧΡΕΟΥΣ\"",
+      "thumbnail": "https://i.ytimg.com/vi/E19y5dPxwhY/hqdefault.jpg",
+      "author": "GreekTerminator",
+      "metadataStatus": "available",
+      "metadataCheckedAt": "2026-10-08"
     },
     {
       "id": "Yxw812tnhUs",
-      "url": "https://www.youtube.com/watch?v=Yxw812tnhUs"
+      "url": "https://www.youtube.com/watch?v=Yxw812tnhUs",
+      "metadataStatus": "unavailable",
+      "metadataCheckedAt": "2026-10-08"
     },
     {
       "id": "3TqdwtXSqrM",
-      "url": "https://www.youtube.com/watch?v=3TqdwtXSqrM"
+      "url": "https://www.youtube.com/watch?v=3TqdwtXSqrM",
+      "title": "Ο Σπύρος Δρυμιλής στο Extra 3",
+      "thumbnail": "https://i.ytimg.com/vi/3TqdwtXSqrM/hqdefault.jpg",
+      "author": "ampalos000",
+      "metadataStatus": "available",
+      "metadataCheckedAt": "2026-10-08"
     },
     {
       "id": "1rKoxplF3jk",
-      "url": "https://www.youtube.com/watch?v=1rKoxplF3jk"
+      "url": "https://www.youtube.com/watch?v=1rKoxplF3jk",
+      "metadataStatus": "unavailable",
+      "metadataCheckedAt": "2026-10-08"
     }
   ]
 }
