@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gnn-archive.gardenoasis2.chatgpt.site/sitemap.xml
