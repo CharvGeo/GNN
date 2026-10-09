@@ -32,6 +32,6 @@ The Blogger recovery contains ten excerpts from May 2012, not the complete histo
 
 ## External headlines
 
-The homepage shows RSS headlines from Kathimerini, Naftemporiki and ERT News, with small publisher thumbnails where available. A GitHub Actions workflow refreshes the public JSON snapshot approximately every 15 minutes (scheduled runs can be delayed). The browser checks that snapshot periodically and keeps the last successful copy. Original article links open on the publisher site.
+The homepage shows RSS headlines from Kathimerini, Naftemporiki, ERT News, Olympia.gr and Onsports.gr, with small publisher thumbnails where available. A GitHub Actions workflow refreshes the public JSON snapshot approximately every 15 minutes (scheduled runs can be delayed). The browser checks that snapshot periodically and keeps the last successful copy. Original article links open on the publisher site.
 
 Refresh manually with node refresh-feed-snapshot.mjs, then rebuild. Run node check-feeds.mjs and node check-date.mjs for validation. The homepage date updates continuously in the Europe/Athens timezone; article edition dates remain historical.

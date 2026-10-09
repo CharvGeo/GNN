@@ -6,7 +6,9 @@ from email.utils import parsedate_to_datetime
 sources = [
  ('kathimerini','https://www.kathimerini.gr/infeeds/rss/nx-rss-feed.xml'),
  ('naftemporiki','https://www.naftemporiki.gr/feed/'),
- ('ert','https://www.ertnews.gr/feed/')]
+ ('ert','https://www.ertnews.gr/feed/'),
+ ('olympia','https://www.olympia.gr/feed/'),
+ ('onsports','https://feeds.feedburner.com/onsports/allnews')]
 target = Path('dist/feed-snapshot.json')
 state = json.loads(target.read_text(encoding='utf-8')) if target.exists() else {'feeds':[]}
 state['feeds'] = [f for f in state['feeds'] if f['id'] in dict(sources)]

@@ -2,7 +2,7 @@ import {SOURCES,REFRESH_MS,cleanItems,headlines} from './feed-utils.mjs';
 const root=document.querySelector('#external-feed');
 if(root){
  const list=root.querySelector('.feed-items'),status=root.querySelector('.feed-status');
- const key='gnn-external-feeds-v2';
+ const key='gnn-external-feeds-v3';
  let state=JSON.parse(document.querySelector('#feed-snapshot').textContent),busy=false,lastAttempt=0;
  try{const cached=JSON.parse(localStorage.getItem(key));if(cached?.feeds?.length&&Date.parse(cached.savedAt)>Date.parse(state.savedAt)){state=cached;const checks=SOURCES.map(s=>Date.parse(cached.feeds.find(f=>f.id===s.id)?.checkedAt));if(checks.every(Number.isFinite))lastAttempt=Math.min(...checks);}}catch{}
  const time=new Intl.DateTimeFormat('el-GR',{timeZone:'Europe/Athens',day:'2-digit',month:'2-digit',hour:'2-digit',minute:'2-digit',hourCycle:'h23'});

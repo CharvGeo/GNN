@@ -1,7 +1,9 @@
 export const SOURCES=[
  {id:'kathimerini',name:'Καθημερινή',url:'https://www.kathimerini.gr/infeeds/rss/nx-rss-feed.xml',host:'kathimerini.gr'},
  {id:'naftemporiki',name:'Ναυτεμπορική',url:'https://www.naftemporiki.gr/feed/',host:'naftemporiki.gr'},
- {id:'ert',name:'ΕΡΤ News',url:'https://www.ertnews.gr/feed/',host:'ertnews.gr'}
+ {id:'ert',name:'ΕΡΤ News',url:'https://www.ertnews.gr/feed/',host:'ertnews.gr'},
+ {id:'olympia',name:'Olympia.gr',url:'https://www.olympia.gr/feed/',host:'olympia.gr'},
+ {id:'onsports',name:'Onsports.gr',url:'https://feeds.feedburner.com/onsports/allnews',host:'onsports.gr'}
 ];
 export const REFRESH_MS=15*60*1000;
 export function cleanItems(items,source){
