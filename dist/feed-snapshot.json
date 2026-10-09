@@ -1,117 +1,203 @@
 {
   "feeds": [
     {
-      "id": "olympia",
+      "id": "kathimerini",
       "items": [
         {
-          "title": "Χαμός με την δήλωση αγαπημένης τραγουδίστριας για τον Φίλιππο Καμπούρη: Χάλασα ένα χιλιάρικο για αυτόν προεκλογικά και δεν μου κέρασε ούτε πορτοκαλάδα",
-          "url": "https://www.olympia.gr/1670381/viral/chamos-me-tin-dilosi-agapimenis-tragoydistrias-gia-ton-filippo-kampoyri-chalasa-ena-chiliariko-gia-ayton-proeklogika-kai-den-moy-kerase-oyte-portokalada/",
-          "publishedAt": "2026-10-08T19:00:47.000Z"
+          "title": "Θεσσαλονίκη: Φωτιά σε διαμέρισμα – Στο νοσοκομείο με εγκαύματα 30χρονη",
+          "url": "https://www.kathimerini.gr/society/564510286/thessaloniki-fotia-se-diamerisma-sto-nosokomeio-me-egkaymata-30chroni/",
+          "publishedAt": "2026-10-09T06:44:38+00:00",
+          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/fotia-1.jpeg"
         },
         {
-          "title": "Οι επικές αναφορές Ρούμπιο στην Αρχαία Ελλάδα: Μεγάλη δημοσιότητα στις ΗΠΑ, αλλά με το βλέμμα στις φιλοτουρκικές εξοπλιστικές θέσεις",
-          "url": "https://www.olympia.gr/1670380/apopsi/oi-epikes-anafores-roympio-stin-archaia-ellada-megali-dimosiotita-stis-ipa-alla-me-to-vlemma-stis-filotoyrkikes-exoplistikes-theseis/",
-          "publishedAt": "2026-10-08T18:40:44.000Z"
+          "title": "Μόλις το 47% των Ελλήνων εργαζομένων θεωρεί ότι αμείβεται δίκαια",
+          "url": "https://www.kathimerini.gr/economy/local/564509752/molis-to-47-ton-ellinon-ergazomenon-theorei-oti-ameivetai-dikaia/",
+          "publishedAt": "2026-10-09T06:28:00+00:00",
+          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/727c61100b755985cca62082f299abf4_aishutterstock_2698166121-1.jpg"
         },
         {
-          "title": "Ισόβια στον 36χρονο από τον Πύργο για τη δολοφονία του Πολωνού καθηγητή στην Αγία Παρασκευή",
-          "url": "https://www.olympia.gr/1670379/ellada/isovia-ston-36chrono-apo-ton-pyrgo-gia-ti-dolofonia-toy-polonoy-kathigiti-stin-agia-paraskeyi/",
-          "publishedAt": "2026-10-08T18:20:19.000Z"
+          "title": "Στο Σαν Ντιέγκο μετά από 11 μήνες το αεροπλανοφόρο Lincoln – Αγκαλιές και δάκρυα χαράς στο λιμάνι",
+          "url": "https://www.kathimerini.gr/world/564510187/sto-san-ntiegko-meta-apo-11-mines-to-aeroplanoforo-lincoln-agkalies-kai-dakrya-charas-sto-limani/",
+          "publishedAt": "2026-10-09T06:27:40+00:00",
+          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/2026-10-08T210503Z_962855659_RC28ZNA2VSZR_RTRMADP_3_USA-MILITARY-CONDITIONS-USS-LINCOLN-scaled-1.jpg"
         },
         {
-          "title": "Η κυβέρνηση Τραμπ κηρύσσει τον πόλεμο στην Microsoft και σε άλλους κολοσσούς αναφορικά με τους μετανάστες εργαζόμενους",
-          "url": "https://www.olympia.gr/1670378/diethni/i-kyvernisi-tramp-kiryssei-ton-polemo-stin-microsoft-kai-se-alloys-kolossoys-anaforika-me-toys-metanastes-ergazomenoys/",
-          "publishedAt": "2026-10-08T18:00:06.000Z"
+          "title": "Εξοδος στην Αθήνα την Παρασκευή 9/10 και το Σάββατο 10/10: Νίκο Πινιέρο και Theodore",
+          "url": "https://www.kathimerini.gr/culture/agenda/564510238/exodos-stin-athina-tin-paraskeyi-9-10-kai-to-savvato-10-10-niko-piniero-kai-theodore/",
+          "publishedAt": "2026-10-09T06:19:07+00:00",
+          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/804c9427-0df6-4e1c-803f-98e621a77a19_chico_pinheiro.Ze_GAbriel-83-2_48-1.jpg"
         },
         {
-          "title": "Απάνθισμα δηλώσεων για την υποχώρηση στην Κάσο",
-          "url": "https://www.olympia.gr/1670376/apopsi/apanthisma-diloseon-gia-tin-ypochorisi-stin-kaso/",
-          "publishedAt": "2026-10-08T17:40:54.000Z"
+          "title": "Ρεκόρ κερδοφορίας λόγω AI για τη Samsung",
+          "url": "https://www.kathimerini.gr/economy/international/564509836/rekor-kerdoforias-logo-ai-gia-ti-samsung/",
+          "publishedAt": "2026-10-09T06:19:00+00:00",
+          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/f028f5ca4a1fd11d8f9c4f5900f5b142_2026-10-07T225314Z_761264956_RC2LEGAHKDMA_RTRMADP_3_SAMSUNG-ELEC-RE.jpg"
         },
         {
-          "title": "Εκτός λειτουργίας ταυτόχρονα το 199 της πυροσβεστικής και το 100 της αστυνομίας",
-          "url": "https://www.olympia.gr/1670375/ellada/ektos-leitoyrgias-taytochrona-to-199-tis-pyrosvestikis-kai-to-100-tis-astynomias/",
-          "publishedAt": "2026-10-08T17:20:34.000Z"
+          "title": "Στροφή των επενδυτών στο ασφαλές καταφύγιο των γερμανικών ομολόγων",
+          "url": "https://www.kathimerini.gr/economy/international/564509821/strofi-ton-ependyton-sto-asfales-katafygio-ton-germanikon-omologon/",
+          "publishedAt": "2026-10-09T06:09:00+00:00",
+          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/a758ad72b7b36f4a4798ca91a9527d3c_tradersshutterstock_707850085-1.jpg"
         },
         {
-          "title": "Γιατί τόσα πολλά ρωμαϊκά αγάλματα είναι ακέφαλα;",
-          "url": "https://www.olympia.gr/1670371/viral/giati-tosa-polla-romaika-agalmata-einai-akefala-4/",
-          "publishedAt": "2026-10-08T17:00:16.000Z"
+          "title": "Δημητρακόπουλος: «Η Βίσση έδωσε μοναδική υπεραξία, δεν μπορεί να της απαγορευτεί να λέει τραγούδια του Καρβέλα»",
+          "url": "https://www.kathimerini.gr/culture/music/564510184/dimitrakopoylos-i-vissi-edose-monadiki-yperaxia-den-mporei-na-tis-apagoreytei-na-leei-tragoydia-toy-karvela/",
+          "publishedAt": "2026-10-09T05:58:47+00:00",
+          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/b_vissi-karvelas-1.jpg"
         },
         {
-          "title": "Σφοδρή επίθεση του αντιπροέδρου Βανς κατά της Microsoft του Μπιλ Γκέιτς…",
-          "url": "https://www.olympia.gr/1670373/diethni/sfodri-epithesi-toy-antiproedroy-vans-kata-tis-microsoft-toy-mpil-gkeits/",
-          "publishedAt": "2026-10-08T16:40:54.000Z"
+          "title": "Τι σημαίνει για τη Βίσση το «μπλόκο» από τον Καρβέλα",
+          "url": "https://www.kathimerini.gr/culture/music/564509551/ti-simainei-gia-ti-vissi-to-mploko-apo-ton-karvela/",
+          "publishedAt": "2026-10-09T05:50:00+00:00",
+          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/cd98027c972677058270ab7123e7b206_3572664-1-1.jpg"
         },
         {
-          "title": "Ο Τσίπρας σε δηλώσεις του ονόμασε τον Αμερικανό ΥΠΕΞ Πόντιο Πιλάτο στο θέμα του καλωδίου, μεταφοράς ηλεκτρικής ενέργειας, σύνδεσης Ελλάδας Κύπρου",
-          "url": "https://www.olympia.gr/1670372/apopsi/o-tsipras-se-diloseis-toy-onomase-ton-amerikano-ypex-pontio-pilato-sto-thema-toy-kalodioy-metaforas-ilektrikis-energeias-syndesis-elladas-kyproy/",
-          "publishedAt": "2026-10-08T16:20:00.000Z"
+          "title": "Τραμπ και Ιράν παίζουν με τον χρόνο: Γιατί όλοι περιμένουν τις ενδιάμεσες εκλογές",
+          "url": "https://www.kathimerini.gr/world/564510073/tramp-kai-iran-paizoyn-me-ton-chrono-giati-oloi-perimenoyn-tis-endiameses-ekloges/",
+          "publishedAt": "2026-10-09T05:42:50+00:00",
+          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/AP26280707232376-2-1.jpg"
         },
         {
-          "title": "Το μυστήριο της ακουστικής στο θέατρο της Επιδαύρου",
-          "url": "https://www.olympia.gr/1670369/viral/to-mystirio-tis-akoystikis-sto-theatro-tis-epidayroy-2/",
-          "publishedAt": "2026-10-08T16:00:26.000Z"
+          "title": "Αυξήθηκαν κατά 8% οι πωλήσεις της «Αττικά Πολυκαταστήματα»",
+          "url": "https://www.kathimerini.gr/economy/business/564509782/ayxithikan-kata-8-oi-poliseis-tis-attika-polykatastimata/",
+          "publishedAt": "2026-10-09T05:40:00+00:00",
+          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/e25a0942abf1ced84e98faf84dc27e8e_attica_main_photo-1.jpg"
         }
       ],
-      "checkedAt": "2026-10-08T19:58:19.287Z"
+      "checkedAt": "2026-10-09T06:45:52.774134+00:00"
     },
     {
-      "id": "onsports",
+      "id": "naftemporiki",
       "items": [
         {
-          "title": "Στο T-Center ο Ντέγιαν Μποντιρόγκα: Εγκάρδια υποδοχή από την κυρία Δέσποινα Γιαννακοπούλου",
-          "url": "https://www.onsports.gr/basket/euroleague/story/874556/sto-t-center-o-degian-bontirogka-egkardia-ypodoxi-apo-tin-kyria-despoina-giannakopoylou-video",
-          "publishedAt": "2026-10-08T18:12:58.000Z"
+          "title": "Μεταλλείο Σκουριών: Η Ελλάδα ισχυροποιείται στα κρίσιμα μέταλλα",
+          "url": "https://www.naftemporiki.gr/business/2172760/metalleio-skoyrion-i-ellada-ischyropoieitai-sta-krisima-metalla/?utm_source=rss&utm_medium=rss&utm_campaign=metalleio-skoyrion-i-ellada-ischyropoieitai-sta-krisima-metalla",
+          "publishedAt": "2026-10-09T06:38:50+00:00",
+          "thumbnail": ""
         },
         {
-          "title": "Αποθέωση για “Ζοτς”-Σάρας και θερμή αγκαλιά",
-          "url": "https://www.onsports.gr/basket/euroleague/story/874555/apotheosi-gia-zots-saras-kai-thermi-agkalia",
-          "publishedAt": "2026-10-08T18:11:01.000Z"
+          "title": "Ανοησία και αντιαμερικανισμός",
+          "url": "https://www.naftemporiki.gr/opinion/2172759/anoisia-kai-antiamerikanismos/?utm_source=rss&utm_medium=rss&utm_campaign=anoisia-kai-antiamerikanismos",
+          "publishedAt": "2026-10-09T06:31:51+00:00",
+          "thumbnail": ""
         },
         {
-          "title": "Ντουμπάι – Ερυθρός Αστέρας 58-77: Τη «στραγγάλισε» στην άμυνα και πήρε σπουδαίο «διπλό»",
-          "url": "https://www.onsports.gr/basket/euroleague/story/874554/doumpai---erythros-asteras-58-77-ti-straggalise-stin-amyna-kai-pire-spoudaio-diplo",
-          "publishedAt": "2026-10-08T18:09:42.000Z"
+          "title": "Η Συλλογή του Lee Kun-Hee ταξιδεύει στην Ευρώπη με τα εγκαίνια της έκθεσης «Korea» στο Βρετανικό Μουσείο",
+          "url": "https://www.naftemporiki.gr/culture/arts/2172696/i-syllogi-toy-lee-kun-hee-taxideyei-stin-eyropi-me-ta-egkainia-tis-ekthesis-korea-sto-vretaniko-moyseio/?utm_source=rss&utm_medium=rss&utm_campaign=i-syllogi-toy-lee-kun-hee-taxideyei-stin-eyropi-me-ta-egkainia-tis-ekthesis-korea-sto-vretaniko-moyseio",
+          "publishedAt": "2026-10-09T06:31:04+00:00",
+          "thumbnail": ""
         },
         {
-          "title": "Μακάμπι - Αρμάνι 97-79: Ισοπέδωσαν τους Ιταλούς οι Ισραηλινοί και πήραν την πρώτη τους νίκη",
-          "url": "https://www.onsports.gr/basket/euroleague/story/874553/makampi-armani-97-79-isopedosan-tous-italoys-oi-israilinoi-kai-piran-tin-proti-tous-niki",
-          "publishedAt": "2026-10-08T18:08:38.000Z"
+          "title": "Γιατί είμαστε τόσο κουρασμένοι ψυχικά ενώ «δεν έχει συμβεί τίποτα»",
+          "url": "https://www.naftemporiki.gr/clickatlife/2172758/giati-eimaste-toso-koyrasmenoi-psychika-eno-den-echei-symvei-tipota/?utm_source=rss&utm_medium=rss&utm_campaign=giati-eimaste-toso-koyrasmenoi-psychika-eno-den-echei-symvei-tipota",
+          "publishedAt": "2026-10-09T06:29:17+00:00",
+          "thumbnail": ""
         },
         {
-          "title": "Ανακοίνωση Ολυμπιακού",
-          "url": "https://www.onsports.gr/basket/euroleague/story/874552/anakoinosi-olympiakoy",
-          "publishedAt": "2026-10-08T17:56:49.000Z"
+          "title": "Χρηματιστήριο: Στο 6% η διόρθωση από τις κορυφές – Τι αναμένεται για σήμερα",
+          "url": "https://www.naftemporiki.gr/finance/markets/2172752/chrimatistirio-sto-6-i-diorthosi-apo-tis-koryfes-ti-anamenetai-gia-simera/?utm_source=rss&utm_medium=rss&utm_campaign=chrimatistirio-sto-6-i-diorthosi-apo-tis-koryfes-ti-anamenetai-gia-simera",
+          "publishedAt": "2026-10-09T06:27:53+00:00",
+          "thumbnail": ""
         },
         {
-          "title": "Το μήνυμα του ΠΑΟΚ σε Παβλένκα και Άλι: «Καλή ανάρρωση και σύντομα ξανά μαζί μας»",
-          "url": "https://www.onsports.gr/podosfairo/superleague/story/874551/to-minyma-tou-paok-se-pavlenka-kai-ali-kali-anarrosi-kai-syntoma-ksana-mazi-mas",
-          "publishedAt": "2026-10-08T17:35:58.000Z"
+          "title": "Το «ιερατείο» της λιτότητας",
+          "url": "https://www.naftemporiki.gr/opinion/2172757/to-ierateio-tis-litotitas/?utm_source=rss&utm_medium=rss&utm_campaign=to-ierateio-tis-litotitas",
+          "publishedAt": "2026-10-09T06:25:17+00:00",
+          "thumbnail": ""
         },
         {
-          "title": "Παναθηναϊκός - Φενέρμπαχτσε: Με Φαλ και Ρογκαβόπουλο η 12άδα του Ομπράντοβιτς - Εκτός ο Λάρκιν",
-          "url": "https://www.onsports.gr/basket/euroleague/story/874550/panathinaikos-fenermpaxtse-me-fal-kai-rogkavopoulo-i-12ada-tou-omprantovits",
-          "publishedAt": "2026-10-08T17:16:52.000Z"
+          "title": "Βίσση – Καρβέλας: Συνεχίζεται η διαμάχη – Δημητρακόπουλος: Δεν μπορεί να υπάρξει δικαστική κρίση που θα της απαγορεύει να ερμηνεύει τραγούδια που αποτελούν πολιτιστικό ιδίωμα",
+          "url": "https://www.naftemporiki.gr/society/2172754/vissi-karvelas-synechizetai-i-diamachi-dimitrakopoylos-den-mporei-na-yparxei-dikastiki-krisi-poy-tha-tis-apagoreyei-na-ermineyei-tragoydia-poy-apoteloyn-politistiko-idioma/?utm_source=rss&utm_medium=rss&utm_campaign=vissi-karvelas-synechizetai-i-diamachi-dimitrakopoylos-den-mporei-na-yparxei-dikastiki-krisi-poy-tha-tis-apagoreyei-na-ermineyei-tragoydia-poy-apoteloyn-politistiko-idioma",
+          "publishedAt": "2026-10-09T06:25:07+00:00",
+          "thumbnail": ""
         },
         {
-          "title": "Παναθηναϊκός - Φενέρμπαχτσε: Θερμή υποδοχή στην «πρώτη» του Φαλ - Το βίντεο του Onsports",
-          "url": "https://www.onsports.gr/basket/euroleague/story/874548/panathinaikos-fenermpaxtse-thermi-ypodoxi-stin-proti-tou-fal-to-vinteo-tou-onsports",
-          "publishedAt": "2026-10-08T17:13:19.000Z"
+          "title": "Θεσσαλονίκη: Στο νοσοκομείο με έγκαυμα γυναίκα μετά από φωτιά σε διαμέρισμα",
+          "url": "https://www.naftemporiki.gr/society/2172749/thessaloniki-sto-nosokomeio-me-egkayma-gynaika-meta-apo-fotia-se-diamerisma/?utm_source=rss&utm_medium=rss&utm_campaign=thessaloniki-sto-nosokomeio-me-egkayma-gynaika-meta-apo-fotia-se-diamerisma",
+          "publishedAt": "2026-10-09T06:23:36+00:00",
+          "thumbnail": ""
         },
         {
-          "title": "Ολυμπιακός: «Βλέπουν» επιστροφή Ελ Κααμπί νωρίτερα από το αναμενόμενο στο Μαρόκο",
-          "url": "https://www.onsports.gr/podosfairo/superleague/story/874547/olympiakos-vlepoun-epistrofi-el-kaampi-noritera-apo-to-anamenomeno-sto-maroko",
-          "publishedAt": "2026-10-08T17:01:58.000Z"
+          "title": "Από τα likes στα leads: Το Marketing ως μοχλός πραγματικής επιχειρηματικής ανάπτυξης",
+          "url": "https://www.naftemporiki.gr/business/2172491/apo-ta-likes-sta-leads-to-marketing-os-mochlos-pragmatikis-epicheirimatikis-anaptyxis/?utm_source=rss&utm_medium=rss&utm_campaign=apo-ta-likes-sta-leads-to-marketing-os-mochlos-pragmatikis-epicheirimatikis-anaptyxis",
+          "publishedAt": "2026-10-09T06:22:20+00:00",
+          "thumbnail": ""
         },
         {
-          "title": "Αυτή είναι η ποινή στον Γκράνιτ Τζάκα για το πλαστό πιστοποιητικό",
-          "url": "https://www.onsports.gr/podosfairo/story/874523/afti-einai-i-poini-ston-granit-tzaka-gia-to-plasto-pistopoiitiko",
-          "publishedAt": "2026-10-08T16:56:00.000Z"
+          "title": "«Plutocracy»: Ο αστακός του Νίκου Κανόγλου στο Επιγραφικό Μουσείο",
+          "url": "https://www.naftemporiki.gr/society/2172682/plutocracy-o-astakos-toy-nikoy-kanogloy-sto-epigrafiko-moyseio/?utm_source=rss&utm_medium=rss&utm_campaign=plutocracy-o-astakos-toy-nikoy-kanogloy-sto-epigrafiko-moyseio",
+          "publishedAt": "2026-10-09T06:16:54+00:00",
+          "thumbnail": ""
         }
       ],
-      "checkedAt": "2026-10-08T19:58:19.290Z"
+      "checkedAt": "2026-10-09T06:45:52.856563+00:00"
+    },
+    {
+      "id": "ert",
+      "items": [
+        {
+          "title": "Σοβαρές καταγγελίες για φερόμενες μίζες στο Δήμο Δυτικής Λέσβου – Στο επίκεντρο ο Δήμαρχος ο οποίος απαντά με νομικές ενέργειες",
+          "url": "https://www.ertnews.gr/perifereiakoi-stathmoi/voreio_aigaio/sovares-kataggelies-gia-feromenes-mizes-sto-dimo-dytikis-lesvou-sto-epikentro-o-dimarxos-o-opoios-apanta-me-nomikes-energeies/",
+          "publishedAt": "2026-10-09T06:44:48+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/stigmiotypo-othonis-2026-10-08-235601.jpg"
+        },
+        {
+          "title": "Το Ευρωκοινοβούλιο δεν αναγνωρίζει ως νόμιμη τη νέα ρωσική κρατική Δούμα",
+          "url": "https://www.ertnews.gr/eidiseis/to-eyrokoinovoulio-den-anagnorizei-os-nomimi-ti-nea-rosiki-kratiki-douma/",
+          "publishedAt": "2026-10-09T06:31:16+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/euparl-768x480-1.jpg"
+        },
+        {
+          "title": "Χείμαρρος λάσπης σάρωσε πλούσιο προάστιο στο Σαντιάγο της Χιλής – Βρέφος ανάμεσα στους τραυματίες",
+          "url": "https://www.ertnews.gr/eidiseis/xeimarros-laspis-sarose-plousio-proastio-sto-santiago-tis-xilis-vrefos-anamesa-stous-traymaties/",
+          "publishedAt": "2026-10-09T06:31:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/xili-santiago-laspi.jpg"
+        },
+        {
+          "title": "Θεσσαλονίκη: Το Αλκαζάρ επιστρέφει στην πόλη -Το ιστορικό τέμενος Χαμζά Μπέη ανοίγει ξανά στο κοινό",
+          "url": "https://www.ertnews.gr/ert3/thessaloniki-to-alkazar-epistrefei-stin-poli-to-istoriko-temenos-xamza-mpei-anoigei-ksana-sto-koino/",
+          "publishedAt": "2026-10-09T06:25:15+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/alkazar-apodosi-l-mendoni.jpg"
+        },
+        {
+          "title": "Θεσσαλονίκη: Δύο συλλήψεις για ναρκωτικά, απείθεια και επικίνδυνη οδήγηση",
+          "url": "https://www.ertnews.gr/ert3/thessaloniki-dyo-syllipseis-gia-narkotika-apeitheia-kai-epikindyni-odigisi/",
+          "publishedAt": "2026-10-09T06:20:47+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/astynomia8-768x512-2-1.jpg"
+        },
+        {
+          "title": "Ταχιάος στο ΕΡΤnews για Κυψέλη: Υπάρχουν μεθοδεύσεις που χειραγωγούν την αγωνία των κατοίκων",
+          "url": "https://www.ertnews.gr/eidiseis/taxiaos-sto-ertnews-gia-kypseli-yparxoun-methodeyseis-pou-xeiragogoun-tin-agonia-ton-katoikon/",
+          "publishedAt": "2026-10-09T06:15:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/5298711-scaled.jpg"
+        },
+        {
+          "title": "ΗΠΑ: Νέες ναυτικές δυνάμεις και πεζοναύτες στη Μέση Ανατολή, χωρίς ακόμη οριστική απόφαση Τραμπ για πλήγμα κατά του Ιράν",
+          "url": "https://www.ertnews.gr/eidiseis/ipa-nees-naytikes-dynameis-kai-pezonaytes-sti-mesi-anatoli-xoris-akomi-oristiki-apofasi-tramp-gia-pligma-kata-tou-iran/",
+          "publishedAt": "2026-10-09T06:08:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/ap26088499284557.jpg"
+        },
+        {
+          "title": "Κυψέλη: «Μπαίνουμε στον όγδοο μήνα και περιμένουμε» – Τι ζητούν οι κάτοικοι για τις ρωγμές στα κτήρια",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/kypseli-mpainoume-ston-ogdoo-mina-kai-perimenoume-ti-zitoun-oi-katoikoi-gia-tis-rogmes-sta-ktiria/",
+          "publishedAt": "2026-10-09T05:59:58+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/07/rwgmes-kypseli.jpg"
+        },
+        {
+          "title": "Αποφασίζουν οι αλιείς μετά τη συνάντηση με τον αρμόδιο υπουργό",
+          "url": "https://www.ertnews.gr/ert3/apofasizoun-oi-alieis-meta-ti-synantisi-me-ton-armodio-ypourgo/",
+          "publishedAt": "2026-10-09T05:46:18+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/alieis-1-768x512-1.jpg"
+        },
+        {
+          "title": "Εξάρθρωση κυκλώματος λαθρεμπορίας στον Ασπρόπυργο – Τέσσερις συλλήψεις, κατασχέσεις καυσίμων, τσιγάρων και οχημάτων",
+          "url": "https://www.ertnews.gr/eidiseis/eksarthrosi-kyklomatos-lathremporias-ston-aspropyrgo-tesseris-syllipseis-katasxeseis-kaysimon-tsigaron-kai-oximaton/",
+          "publishedAt": "2026-10-09T05:35:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/aade-lathremporia.jpeg"
+        }
+      ],
+      "checkedAt": "2026-10-09T06:45:53.196720+00:00"
     }
   ],
-  "savedAt": "2026-10-08T19:58:19.290Z"
+  "savedAt": "2026-10-09T06:45:53.198320+00:00"
 }

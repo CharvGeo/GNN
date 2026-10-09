@@ -32,6 +32,6 @@ The Blogger recovery contains ten excerpts from May 2012, not the complete histo
 
 ## External headlines
 
-The homepage loads Olympia.gr and Onsports.gr RSS titles through rss2json, without an API key. It checks every 15 minutes while visible and stores the most recent successful data in browser localStorage. A source-controlled snapshot renders immediately and remains available if the external service fails. Partial failures retain each source's previous data and display a status notice. Third-party service caching and rate limits can affect freshness.
+The homepage shows RSS headlines from Kathimerini, Naftemporiki and ERT News, with small publisher thumbnails where available. A GitHub Actions workflow refreshes the public JSON snapshot approximately every 15 minutes (scheduled runs can be delayed). The browser checks that snapshot periodically and keeps the last successful copy. Original article links open on the publisher site.
 
-Refresh the deploy-time fallback with `node refresh-feed-snapshot.mjs`, then rebuild. Run `node check-feeds.mjs` for source URL and date validation checks. API responses are rendered as plain text and only links to the configured publisher domains are accepted. External headlines are not added to historical edition pages or the GNN article RSS.
+Refresh manually with node refresh-feed-snapshot.mjs, then rebuild. Run node check-feeds.mjs and node check-date.mjs for validation. The homepage date updates continuously in the Europe/Athens timezone; article edition dates remain historical.
