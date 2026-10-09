@@ -4,6 +4,12 @@
       "id": "kathimerini",
       "items": [
         {
+          "title": "Στον δρόμο της επιστροφής στο Χρηματιστήριο η ΜΕΤΚΑ",
+          "url": "https://www.kathimerini.gr/economy/business/564509812/ston-dromo-tis-epistrofis-sto-chrimatistirio-i-metka/",
+          "publishedAt": "2026-10-09T06:46:00+00:00",
+          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/1f6e35f60e564f878fdc296767684e93_METKA-1.jpg"
+        },
+        {
           "title": "Θεσσαλονίκη: Φωτιά σε διαμέρισμα – Στο νοσοκομείο με εγκαύματα 30χρονη",
           "url": "https://www.kathimerini.gr/society/564510286/thessaloniki-fotia-se-diamerisma-sto-nosokomeio-me-egkaymata-30chroni/",
           "publishedAt": "2026-10-09T06:44:38+00:00",
@@ -56,19 +62,25 @@
           "url": "https://www.kathimerini.gr/world/564510073/tramp-kai-iran-paizoyn-me-ton-chrono-giati-oloi-perimenoyn-tis-endiameses-ekloges/",
           "publishedAt": "2026-10-09T05:42:50+00:00",
           "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/AP26280707232376-2-1.jpg"
-        },
-        {
-          "title": "Αυξήθηκαν κατά 8% οι πωλήσεις της «Αττικά Πολυκαταστήματα»",
-          "url": "https://www.kathimerini.gr/economy/business/564509782/ayxithikan-kata-8-oi-poliseis-tis-attika-polykatastimata/",
-          "publishedAt": "2026-10-09T05:40:00+00:00",
-          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/e25a0942abf1ced84e98faf84dc27e8e_attica_main_photo-1.jpg"
         }
       ],
-      "checkedAt": "2026-10-09T06:45:52.774134+00:00"
+      "checkedAt": "2026-10-09T06:51:36.562163+00:00"
     },
     {
       "id": "naftemporiki",
       "items": [
+        {
+          "title": "Ο Πούτιν προσφέρει βοήθεια για τον τερματισμό του πολέμου στον Κόλπο",
+          "url": "https://www.naftemporiki.gr/kosmos/2172770/o-poytin-prosferei-voitheia-gia-ton-termatismo-toy-polemoy-ston-kolpo/?utm_source=rss&utm_medium=rss&utm_campaign=o-poytin-prosferei-voitheia-gia-ton-termatismo-toy-polemoy-ston-kolpo",
+          "publishedAt": "2026-10-09T06:49:53+00:00",
+          "thumbnail": ""
+        },
+        {
+          "title": "Ψήφος εμπιστοσύνης στην Ελλάδα η είσοδος της CMF στο ελληνικό χρηματιστήριο",
+          "url": "https://www.naftemporiki.gr/maritime/2172768/psifos-empistosynis-stin-ellada-i-eisodos-tis-cmf-sto-elliniko-chrimatistirio/?utm_source=rss&utm_medium=rss&utm_campaign=psifos-empistosynis-stin-ellada-i-eisodos-tis-cmf-sto-elliniko-chrimatistirio",
+          "publishedAt": "2026-10-09T06:49:14+00:00",
+          "thumbnail": ""
+        },
         {
           "title": "Μεταλλείο Σκουριών: Η Ελλάδα ισχυροποιείται στα κρίσιμα μέταλλα",
           "url": "https://www.naftemporiki.gr/business/2172760/metalleio-skoyrion-i-ellada-ischyropoieitai-sta-krisima-metalla/?utm_source=rss&utm_medium=rss&utm_campaign=metalleio-skoyrion-i-ellada-ischyropoieitai-sta-krisima-metalla",
@@ -116,25 +128,31 @@
           "url": "https://www.naftemporiki.gr/society/2172749/thessaloniki-sto-nosokomeio-me-egkayma-gynaika-meta-apo-fotia-se-diamerisma/?utm_source=rss&utm_medium=rss&utm_campaign=thessaloniki-sto-nosokomeio-me-egkayma-gynaika-meta-apo-fotia-se-diamerisma",
           "publishedAt": "2026-10-09T06:23:36+00:00",
           "thumbnail": ""
-        },
-        {
-          "title": "Από τα likes στα leads: Το Marketing ως μοχλός πραγματικής επιχειρηματικής ανάπτυξης",
-          "url": "https://www.naftemporiki.gr/business/2172491/apo-ta-likes-sta-leads-to-marketing-os-mochlos-pragmatikis-epicheirimatikis-anaptyxis/?utm_source=rss&utm_medium=rss&utm_campaign=apo-ta-likes-sta-leads-to-marketing-os-mochlos-pragmatikis-epicheirimatikis-anaptyxis",
-          "publishedAt": "2026-10-09T06:22:20+00:00",
-          "thumbnail": ""
-        },
-        {
-          "title": "«Plutocracy»: Ο αστακός του Νίκου Κανόγλου στο Επιγραφικό Μουσείο",
-          "url": "https://www.naftemporiki.gr/society/2172682/plutocracy-o-astakos-toy-nikoy-kanogloy-sto-epigrafiko-moyseio/?utm_source=rss&utm_medium=rss&utm_campaign=plutocracy-o-astakos-toy-nikoy-kanogloy-sto-epigrafiko-moyseio",
-          "publishedAt": "2026-10-09T06:16:54+00:00",
-          "thumbnail": ""
         }
       ],
-      "checkedAt": "2026-10-09T06:45:52.856563+00:00"
+      "checkedAt": "2026-10-09T06:51:36.793448+00:00"
     },
     {
       "id": "ert",
       "items": [
+        {
+          "title": "Πόλεμος Ρωσίας – Ουκρανίας: Δύο νεκροί και 4 τραυματίες στη περιφέρεια Μπέλγκοροντ – Ένας νεκρός και 7 τραυματίες στην Ζαπορίζια",
+          "url": "https://www.ertnews.gr/eidiseis/polemos-rosias-oukranias-dyo-nekroi-kai-4-traymaties-sti-perifereia-mpelgkoront-enas-nekros-kai-7-traymaties-stin-zaporizia/",
+          "publishedAt": "2026-10-09T06:48:18+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/07/polemos-oukrania.jpg"
+        },
+        {
+          "title": "Αλ. Καχριμάνης: Να απλοποιηθούν οι διαδικασίες για τους κτηνοτρόφους",
+          "url": "https://www.ertnews.gr/perifereiakoi-stathmoi/ioanina/al-kaxrimanis-na-aplopoiithoun-oi-diadikasies-gia-tous-ktinotrofous/",
+          "publishedAt": "2026-10-09T06:46:13+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2025/09/ioan-kaxrimanis.jpg"
+        },
+        {
+          "title": "Σύλληψη στα Ιωάννινα για απόπειρα τηλεφωνικής απάτης",
+          "url": "https://www.ertnews.gr/perifereiakoi-stathmoi/ioanina/syllipsi-sta-ioannina-gia-apopeira-tilefonikis-apatis/",
+          "publishedAt": "2026-10-09T06:45:17+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/05/tilefoniki-apati-768x512-1.jpg"
+        },
         {
           "title": "Σοβαρές καταγγελίες για φερόμενες μίζες στο Δήμο Δυτικής Λέσβου – Στο επίκεντρο ο Δήμαρχος ο οποίος απαντά με νομικές ενέργειες",
           "url": "https://www.ertnews.gr/perifereiakoi-stathmoi/voreio_aigaio/sovares-kataggelies-gia-feromenes-mizes-sto-dimo-dytikis-lesvou-sto-epikentro-o-dimarxos-o-opoios-apanta-me-nomikes-energeies/",
@@ -176,28 +194,10 @@
           "url": "https://www.ertnews.gr/eidiseis/ipa-nees-naytikes-dynameis-kai-pezonaytes-sti-mesi-anatoli-xoris-akomi-oristiki-apofasi-tramp-gia-pligma-kata-tou-iran/",
           "publishedAt": "2026-10-09T06:08:00+00:00",
           "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/ap26088499284557.jpg"
-        },
-        {
-          "title": "Κυψέλη: «Μπαίνουμε στον όγδοο μήνα και περιμένουμε» – Τι ζητούν οι κάτοικοι για τις ρωγμές στα κτήρια",
-          "url": "https://www.ertnews.gr/eidiseis/ellada/kypseli-mpainoume-ston-ogdoo-mina-kai-perimenoume-ti-zitoun-oi-katoikoi-gia-tis-rogmes-sta-ktiria/",
-          "publishedAt": "2026-10-09T05:59:58+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/07/rwgmes-kypseli.jpg"
-        },
-        {
-          "title": "Αποφασίζουν οι αλιείς μετά τη συνάντηση με τον αρμόδιο υπουργό",
-          "url": "https://www.ertnews.gr/ert3/apofasizoun-oi-alieis-meta-ti-synantisi-me-ton-armodio-ypourgo/",
-          "publishedAt": "2026-10-09T05:46:18+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/alieis-1-768x512-1.jpg"
-        },
-        {
-          "title": "Εξάρθρωση κυκλώματος λαθρεμπορίας στον Ασπρόπυργο – Τέσσερις συλλήψεις, κατασχέσεις καυσίμων, τσιγάρων και οχημάτων",
-          "url": "https://www.ertnews.gr/eidiseis/eksarthrosi-kyklomatos-lathremporias-ston-aspropyrgo-tesseris-syllipseis-katasxeseis-kaysimon-tsigaron-kai-oximaton/",
-          "publishedAt": "2026-10-09T05:35:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/aade-lathremporia.jpeg"
         }
       ],
-      "checkedAt": "2026-10-09T06:45:53.196720+00:00"
+      "checkedAt": "2026-10-09T06:51:38.068803+00:00"
     }
   ],
-  "savedAt": "2026-10-09T06:45:53.198320+00:00"
+  "savedAt": "2026-10-09T06:51:38.068814+00:00"
 }
