@@ -64,11 +64,17 @@
           "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/AP26154857259733-1.jpg"
         }
       ],
-      "checkedAt": "2026-10-09T23:27:08.616182+00:00"
+      "checkedAt": "2026-10-10T02:41:26.578272+00:00"
     },
     {
       "id": "naftemporiki",
       "items": [
+        {
+          "title": "Εορτολόγιο: Γιορτή που τιμά δύο αδέλφια σήμερα – Ποιοι γιορτάζουν Σάββατο 10 Οκτωβρίου",
+          "url": "https://www.naftemporiki.gr/society/2173119/eortologio-giorti-poy-tima-dyo-adelfia-simera-poioi-giortazoyn-savvato-10-oktovrioy/?utm_source=rss&utm_medium=rss&utm_campaign=eortologio-giorti-poy-tima-dyo-adelfia-simera-poioi-giortazoyn-savvato-10-oktovrioy",
+          "publishedAt": "2026-10-10T02:00:08+00:00",
+          "thumbnail": ""
+        },
         {
           "title": "Ό,τι υπάρχει στο  μόνιμα παγωμένο ρωσικό έδαφος μπορεί να είναι πιο τρομακτικό από την πανώλη",
           "url": "https://www.naftemporiki.gr/kosmos/2173145/oti-yparchei-sto-monima-pagomeno-rosiko-edafos-mporei-na-einai-pio-tromaktiko-apo-tin-panoli/?utm_source=rss&utm_medium=rss&utm_campaign=oti-yparchei-sto-monima-pagomeno-rosiko-edafos-mporei-na-einai-pio-tromaktiko-apo-tin-panoli",
@@ -122,81 +128,75 @@
           "url": "https://www.naftemporiki.gr/politics/2173135/oie-elliniki-katadiki-ton-epitheseon-ton-choythi-kai-ekklisi-gia-politiki-lysi-stin-yemeni/?utm_source=rss&utm_medium=rss&utm_campaign=oie-elliniki-katadiki-ton-epitheseon-ton-choythi-kai-ekklisi-gia-politiki-lysi-stin-yemeni",
           "publishedAt": "2026-10-09T20:10:00+00:00",
           "thumbnail": ""
-        },
-        {
-          "title": "Ο Τραμπ ακυρώνει την επίσκεψή του στην Αλαμπάμα λόγω του τυφώνα",
-          "url": "https://www.naftemporiki.gr/kosmos/2173134/o-tramp-akyronei-tin-episkepsi-toy-stin-alampama-logo-toy-tyfona/?utm_source=rss&utm_medium=rss&utm_campaign=o-tramp-akyronei-tin-episkepsi-toy-stin-alampama-logo-toy-tyfona",
-          "publishedAt": "2026-10-09T20:00:13+00:00",
-          "thumbnail": ""
         }
       ],
-      "checkedAt": "2026-10-09T23:27:09.211772+00:00"
+      "checkedAt": "2026-10-10T02:41:26.761625+00:00"
     },
     {
       "id": "ert",
       "items": [
         {
-          "title": "Υεμένη: Τουλάχιστον δύο νεκροί από σαουδαραβικά πλήγματα στο αεροδρόμιο της Σανάα",
-          "url": "https://www.ertnews.gr/eidiseis/yemeni-toulaxiston-dyo-nekroi-apo-saoudaravika-pligmata-sto-aerodromio-tis-sanaa/",
-          "publishedAt": "2026-10-09T23:01:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/yemen-1-768x512-1.jpg"
+          "title": "Μεξικό: Δύο ακόμη νεκροί σε φυλακή μετά τη φονική σύγκρουση με τους 10 νεκρούς",
+          "url": "https://www.ertnews.gr/eidiseis/meksiko-dyo-akomi-nekroi-se-fylaki-meta-ti-foniki-sygkrousi-me-tous-10-nekrous/",
+          "publishedAt": "2026-10-10T02:37:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/mexico.jpg"
         },
         {
-          "title": "ΣΑ ΟΗΕ – Ελλάδα: Καταδίκη των επιθέσεων των Χούθι και έκκληση για πολιτική λύση στην Υεμένη",
-          "url": "https://www.ertnews.gr/eidiseis/sa-oie-ellada-katadiki-ton-epitheseon-ton-xouthi-kai-ekklisi-gia-politiki-lysi-stin-yemeni/",
-          "publishedAt": "2026-10-09T22:45:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/04/ap26104571885353.jpg"
+          "title": "Οι πληρωμές από e-ΕΦΚΑ και ΔΥΠΑ έως τις 16 Οκτωβρίου",
+          "url": "https://www.ertnews.gr/eidiseis/oi-pliromes-apo-e-efka-kai-dypa-eos-tis-16-oktovriou/",
+          "publishedAt": "2026-10-10T02:20:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/xrima.jpg"
         },
         {
-          "title": "Πυρκαγιά στο Αιγάλεω: Κάηκε ολοσχερώς βαφείο ρούχων – Ακούστηκαν εκρήξεις πριν ξεσπάσει η φωτιά",
-          "url": "https://www.ertnews.gr/eidiseis/pyrkagia-sto-aigaleo-kaike-olosxeros-vafeio-rouxon-akoustikan-ekrikseis-prin-ksespasei-i-fotia/",
-          "publishedAt": "2026-10-09T22:31:21+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/fotia-aigaleo.png"
+          "title": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα 10 Οκτωβρίου",
+          "url": "https://www.ertnews.gr/eidiseis/eortologio-poioi-giortazoun-simera-10-oktovriou-2/",
+          "publishedAt": "2026-10-10T02:03:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/trta.jpg"
         },
         {
-          "title": "Παπαθεοδώρου στην ΕΡΤ: «Θεωρώ ότι θα πάρει μερικά χρόνια, αλλά φαίνεται ήδη η εξέλιξη στο επίπεδο της Εθνικής ομάδας» (video)",
-          "url": "https://www.ertnews.gr/athlitismos/papatheodorou-stin-ert-theoro-oti-tha-parei-merika-xronia-alla-fainetai-idi-i-ekseliksi-sto-epipedo-tis-ethnikis-omadas-video/",
-          "publishedAt": "2026-10-09T22:22:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/befunky-photo-4-1.jpg"
+          "title": "Τραμπ – Πούτιν: Συμφωνία για τη διάθεση 4,8 εκατ. τόνων ρωσικού ντίζελ στις διεθνείς αγορές – Σφοδρή αντίδραση Ζελένσκι",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/tramp-poutin-symfonia-gia-ti-diathesi-4-8-ekat-tonon-rosikou-ntizel-stis-diethneis-agores-sfodri-antidrasi-zelenski/",
+          "publishedAt": "2026-10-10T01:49:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/ap25227754662734.jpg"
         },
         {
-          "title": "Βρετανία: Συνεχίζουμε να στηρίζουμε την Ουκρανία και να πιέζουμε τη Ρωσία με κυρώσεις",
-          "url": "https://www.ertnews.gr/eidiseis/vretania-synexizoume-na-stirizoume-tin-oukrania-kai-na-piezoume-ti-rosia-me-kyroseis/",
-          "publishedAt": "2026-10-09T22:06:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/ap26236367354536-768x493-1.jpg"
+          "title": "ΗΠΑ: Δωρεά εξοπλισμού καταστολής ταραχών στη Βολιβία ενόψει νέων μαζικών κινητοποιήσεων",
+          "url": "https://www.ertnews.gr/eidiseis/ipa-dorea-eksoplismou-katastolis-taraxon-sti-volivia-enopsei-neon-mazikon-kinitopoiiseon/",
+          "publishedAt": "2026-10-10T01:33:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/bolivia.jpg"
         },
         {
-          "title": "Κλείσιμο με άνοδο για το χρηματιστήριο της Νέας Υόρκης",
-          "url": "https://www.ertnews.gr/eidiseis/kleisimo-me-anodo-gia-to-xrimatistirio-tis-neas-yorkis-4/",
-          "publishedAt": "2026-10-09T21:52:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/ap24318473158984-768x512-1-1.jpg"
+          "title": "Τραμπ: «Ανεξίτηλο στίγμα» για τη Νορβηγία η απόφαση να μη λάβει το Νόμπελ Ειρήνης",
+          "url": "https://www.ertnews.gr/eidiseis/tramp-aneksitilo-stigma-gia-ti-norvigia-i-apofasi-na-mi-lavei-to-nompel-eirinis/",
+          "publishedAt": "2026-10-10T01:21:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/donald-trump-768x512-1.jpg"
         },
         {
-          "title": "Πούτιν: Έτοιμη η Ρωσία να προμηθεύσει πετρέλαιο τις ΗΠΑ και τη διεθνή αγορά",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/poutin-etoimi-i-rosia-na-promitheysei-petrelaio-tis-ipa-kai-ti-diethni-agora/",
-          "publishedAt": "2026-10-09T21:48:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/ap25157556919604-scaled-e1749551451708-768x438-1.jpg"
+          "title": "Τουρκία: Δύο δημοσιογράφοι υπό κράτηση για δημοσιεύματα σχετικά με σκάνδαλο επενδυτικών ταμείων",
+          "url": "https://www.ertnews.gr/eidiseis/tourkia-dyo-dimosiografoi-ypo-kratisi-gia-dimosieymata-sxetika-me-skandalo-ependytikon-tameion/",
+          "publishedAt": "2026-10-10T01:07:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/tourkia.jpg"
         },
         {
-          "title": "Διπλό» με σούπερ ανατροπή η Σπόρτινγκ, 3-1 στην Μπράγκα",
-          "url": "https://www.ertnews.gr/athlitismos/diplo-me-souper-anatropi-i-sportingk-3-1-stin-mpragka/",
-          "publishedAt": "2026-10-09T21:35:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/braga-sporting-2026.jpg"
+          "title": "Υεμένη: Ευρείας κλίμακας επιχείρηση της συμμαχίας υπό τη Σαουδική Αραβία κατά των Χούθι",
+          "url": "https://www.ertnews.gr/eidiseis/yemeni-eyreias-klimakas-epixeirisi-tis-symmaxias-ypo-ti-saoudiki-aravia-kata-ton-xouthi/",
+          "publishedAt": "2026-10-10T00:49:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/yemen2.jpg"
         },
         {
-          "title": "ΗΠΑ: Ο Τραμπ επιβεβαιώνει ότι η Κέιτι Ζακαράια θα είναι η εκπρόσωπός του",
-          "url": "https://www.ertnews.gr/eidiseis/ipa-o-tramp-epivevaionei-oti-i-keiti-zakaraia-tha-einai-i-ekprosopos-tou/",
-          "publishedAt": "2026-10-09T21:28:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/ap26280620439822.jpg"
+          "title": "Βενεζουέλα: «Πράσινο φως» για τη λειτουργία του Starlink του Έλον Μασκ στη χώρα",
+          "url": "https://www.ertnews.gr/eidiseis/venezouela-prasino-fos-gia-ti-leitourgia-tou-starlink-tou-elon-mask-sti-xora/",
+          "publishedAt": "2026-10-10T00:32:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/000-b6tr7t3-768x512-1.jpg"
         },
         {
-          "title": "Μπαρτζώκας: «Αν δεν παίξεις άμυνα δεν πας μακριά στην EuroLeague»",
-          "url": "https://www.ertnews.gr/athlitismos/mpartzokas-an-den-paikseis-amyna-den-pas-makria-stin-euroleague/",
-          "publishedAt": "2026-10-09T21:16:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/bartzokas-2026.jpg"
+          "title": "Βραζιλία: Αστυνομικοί σκότωσαν άνδρα που κρατούσε 13 παιδιά ομήρους σε σχολείο",
+          "url": "https://www.ertnews.gr/eidiseis/vrazilia-astynomikoi-skotosan-andra-pou-kratouse-13-paidia-omirous-se-sxoleio/",
+          "publishedAt": "2026-10-10T00:17:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/vrazilia-omiria.jpg"
         }
       ],
-      "checkedAt": "2026-10-09T23:27:10.260621+00:00"
+      "checkedAt": "2026-10-10T02:41:27.486382+00:00"
     },
     {
       "id": "olympia",
@@ -262,11 +262,41 @@
           "thumbnail": ""
         }
       ],
-      "checkedAt": "2026-10-09T23:27:10.817682+00:00"
+      "checkedAt": "2026-10-10T02:41:27.770840+00:00"
     },
     {
       "id": "onsports",
       "items": [
+        {
+          "title": "Ολυμπιακός: Η ανακοίνωση της ΚΑΕ για τους βανδαλισμούς στη SUNEL Arena",
+          "url": "https://www.onsports.gr/basket/euroleague/story/874668/olympiakos-i-anakoinosi-tis-kae-gia-tous-vandalismoys-sti-sunel-arena",
+          "publishedAt": "2026-10-09T23:56:15+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/10/b32e6d80-711b63d1-0cb4-4bc4-82b2-25b8f71350d3.jpg?t=nVJn9wEJJcPt1UVMOavJoA"
+        },
+        {
+          "title": "UEFA: Κεκλεισμένων των θυρών θα παίξει η Σερβία",
+          "url": "https://www.onsports.gr/podosfairo/story/874652/uefa-kekleismenon-ton-thyron-tha-paiksei-i-servia",
+          "publishedAt": "2026-10-09T23:19:11+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/09/296cf595-5347047.jpg?t=1ZsJCWQmDYcVfxgiTk2mng"
+        },
+        {
+          "title": "ΑΕΚ μετά το Ολυμπιακός - Εφές: «Βάνδαλοι και κάφροι δεν έχουν καμία θέση στη SUNEL Arena»",
+          "url": "https://www.onsports.gr/basket/euroleague/story/874667/aek-meta-to-olympiakos-efes-vandaloi-kai-kafroi-den-exoun-kamia-thesi-sti-sunel-arena",
+          "publishedAt": "2026-10-09T23:02:51+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/10/beaba3ea-47ee6bcb-50a5-4800-a74e-e452397a485a-1.jpg?t=Ocz1xpkaB2c0lumdoCyFPA"
+        },
+        {
+          "title": "Εμετικά συνθήματα στις τουαλέτες της SUNEL Arena (Photos)",
+          "url": "https://www.onsports.gr/basket/euroleague/story/874665/emetika-synthimata-stis-toualetes-tis-sunel-arena-photos",
+          "publishedAt": "2026-10-09T21:42:24+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/10/e070442e-huoakpexkaa2vkn.jfif?t=wHVXQ7YznrpTQ_N6U_BE8g"
+        },
+        {
+          "title": "Μπαρτζώκας στη συν. Τύπου: «Διαψεύδω κατηγορηματικά τα σενάρια για Τζόουνς - Σημαντική η νίκη»",
+          "url": "https://www.onsports.gr/basket/euroleague/story/874664/bartzokas-sti-syn-typou-diapseydo-katigorimatika-ta-senaria-gia-tzoouns-simantiki-i-niki",
+          "publishedAt": "2026-10-09T21:31:43+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/storage/2026/10/10/e9bf3f9a-ipoundiiiiiiiiii-iiiiii-2026-10-10-002106.png?t=QlKoRudpn-nPpCQJZQwOkw"
+        },
         {
           "title": "Ολυμπιακός - Αναντολού Εφές: Τα highlights από την ισοπεδωτική νίκη των Πειραιωτών στη SUNEL Arena",
           "url": "https://www.onsports.gr/basket/euroleague/video/874663/olympiakos-anantoloy-efes-ta-highlights-apo-tin-isopedotiki-niki-ton-peiraioton-sti-sunel-arena",
@@ -296,40 +326,10 @@
           "url": "https://www.onsports.gr/podosfairo/superleague/story/874651/atromitos-i-apostoli-gia-to-mats-stin-tripoli",
           "publishedAt": "2026-10-09T20:49:14+00:00",
           "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/09/d0d79f99-5339739.jpg?t=aj27Vp19CCMjSZSva3WlbA"
-        },
-        {
-          "title": "Έβαλε... φρένο στην πορεία της Ντόρτμουντ η Βέρντερ Βρέμης",
-          "url": "https://www.onsports.gr/podosfairo/story/874659/evale-freno-stin-poreia-tis-dortmount-i-vernter-vremis",
-          "publishedAt": "2026-10-09T20:47:03+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/09/bea80cc6-ap26282726171442.jpg?t=DqtjYzH_flElvMZW55HAlA"
-        },
-        {
-          "title": "Μπασκόνια – Μπεσίκτας 84-92: Έξω πάει καλά η ομάδα της Κωνσταντινούπολης",
-          "url": "https://www.onsports.gr/basket/euroleague/story/874658/baskonia-besiktas-84-92-ekso-paei-kala-i-omada-tis-konstantinoypolis",
-          "publishedAt": "2026-10-09T20:45:19+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/09/45c4abd7-32461264.jpg?t=B36wCjn0-6Tba82X7P_SoQ"
-        },
-        {
-          "title": "ΜακΙντάιρ: «Έχουμε εξαιρετική συνεργασία με τον κόουτς Μπαρτζώκα»",
-          "url": "https://www.onsports.gr/basket/euroleague/story/874657/makintair-exoume-eksairetiki-synergasia-me-ton-koouts-bartzoka",
-          "publishedAt": "2026-10-09T20:36:49+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/09/8becf1ef-7114791.jpg?t=Mp77LgGoJjToyL4b_h0VTA"
-        },
-        {
-          "title": "Μπαρτσελόνα – Ζαλγκίρις Κάουνας 81-88: Έβγαλε χαρακτήρα στη Βαρκελώνη",
-          "url": "https://www.onsports.gr/basket/euroleague/story/874656/bartselona-zalgkiris-kaounas-81-88-evgale-xaraktira-sti-varkeloni",
-          "publishedAt": "2026-10-09T20:33:46+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/09/b9f62bed-32461336.jpg?t=GKBo1sKAUQJRC6CqXa1VTA"
-        },
-        {
-          "title": "Μοντέρο: «Είναι ωραίο όταν σε πιστεύει ο προπονητής σου - Πήραμε καλύτερες επιλογές στην επανάληψη»",
-          "url": "https://www.onsports.gr/basket/euroleague/story/874655/montero-einai-oraio-otan-se-pisteyei-o-proponitis-sou-pirame-kalyteres-epiloges-stin-epanalipsi",
-          "publishedAt": "2026-10-09T20:23:31+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/09/fdc3637e-7114902.jpg?t=ZyfWvnBIm-c4j8ZRgpPF4w"
         }
       ],
-      "checkedAt": "2026-10-09T23:27:11.087892+00:00"
+      "checkedAt": "2026-10-10T02:41:27.977882+00:00"
     }
   ],
-  "savedAt": "2026-10-09T23:27:11.087904+00:00"
+  "savedAt": "2026-10-10T02:41:27.977894+00:00"
 }
