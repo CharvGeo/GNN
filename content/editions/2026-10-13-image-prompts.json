@@ -1,0 +1,7 @@
+{
+  "tool": "Built-in generate_image",
+  "prompts": {
+    "libya-crete": "A modern offshore research vessel sailing calmly in deep blue Mediterranean open waters under bright natural daylight, clear sky, realistic editorial documentary photography, straightforward wide composition, natural daylight colors, high quality documentary photo",
+    "us-greece-diplomacy": "A formal conference room inside a neoclassical diplomatic building in Athens with marble details, large wooden meeting table, notebooks and documents, soft morning daylight through tall windows, realistic editorial stock photography, calm institutional atmosphere, no people, clean symmetrical composition"
+  }
+}
