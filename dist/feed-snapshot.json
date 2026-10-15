@@ -64,7 +64,7 @@
           "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/DOC.20261013.106732451.s22_141026syntaxeis.jpg"
         }
       ],
-      "checkedAt": "2026-10-14T22:42:58.586091+00:00"
+      "checkedAt": "2026-10-15T00:58:34.583008+00:00"
     },
     {
       "id": "naftemporiki",
@@ -130,11 +130,59 @@
           "thumbnail": ""
         }
       ],
-      "checkedAt": "2026-10-14T22:42:59.139124+00:00"
+      "checkedAt": "2026-10-15T00:58:35.166556+00:00"
     },
     {
       "id": "ert",
       "items": [
+        {
+          "title": "ΗΠΑ: Έκκληση για αποκλιμάκωση της έντασης μεταξύ Αιθιοπίας και Ερυθραίας",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/ipa-ekklisi-gia-apoklimakosi-tis-entasis-metaksy-aithiopias-kai-erythraias/",
+          "publishedAt": "2026-10-15T00:43:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/ap25192348189472-768x512-1-1-1.jpg"
+        },
+        {
+          "title": "Ρουμανία: Φωτιά σε εμπορικό πλοίο στη Μαύρη Θάλασσα – Ασφαλές το πλήρωμα",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/roumania-fotia-se-emporiko-ploio-sti-mayri-thalassa-asfales-to-pliroma/",
+          "publishedAt": "2026-10-15T00:27:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/golden-leo-768x512-1.jpg"
+        },
+        {
+          "title": "Βόρεια Κορέα: Δοκιμαστικές εκτοξεύσεις πυραύλων κρουζ από υποβρύχιο",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/voreia-korea-dokimastikes-ektokseyseis-pyraylon-krouz-apo-ypovryxio/",
+          "publishedAt": "2026-10-15T00:10:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/ap22284187669774-scaled-1-768x512-1-1.jpg"
+        },
+        {
+          "title": "Αλβανία: Συνεχίζονται τα επεισόδια στα Τίρανα – Έκκληση της κυβέρνησης για αποκλιμάκωση",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/alvania-synexizontai-ta-epeisodia-sta-tirana-ekklisi-tis-kyvernisis-gia-apoklimakosi/",
+          "publishedAt": "2026-10-14T23:53:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/ap26287733066363.jpg"
+        },
+        {
+          "title": "Λυκόβρυση: Συνελήφθησαν δύο νεαροί μετά από επεισοδιακή καταδίωξη – Εξαπάτησαν 90χρονη αφαιρώντας της τιμαλφή και μετρητά",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/lykovrysi-synelifthisan-dyo-nearoi-meta-apo-epeisodiaki-katadioksi-eksapatisan-90xroni-afairontas-tis-timalfi-kai-metrita/",
+          "publishedAt": "2026-10-14T23:38:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/dias-astynomia-paresyre-768x576-1.webp"
+        },
+        {
+          "title": "FT: Οι ΗΠΑ εξετάζουν το ξεπάγωμα ορισμένων ρωσικών περιουσιακών στοιχείων",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/ft-oi-ipa-eksetazoun-to-ksepagoma-orismenon-rosikon-periousiakon-stoixeion/",
+          "publishedAt": "2026-10-14T23:21:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/ipa-rosia-768x432-1.jpg"
+        },
+        {
+          "title": "ΗΠΑ: Κλείσιμο με πτώση στο χρηματιστήριο της Νέας Υόρκης",
+          "url": "https://www.ertnews.gr/eidiseis/ipa-kleisimo-me-ptosi-sto-xrimatistirio-tis-neas-yorkis-9/",
+          "publishedAt": "2026-10-14T23:05:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/ap26281545989503.jpg"
+        },
+        {
+          "title": "Κακοκαιρία στην Κωνσταντινούπολη: Νεκρός 14χρονος από ηλεκτροπληξία – Χιλιάδες κλήσεις για βοήθεια",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/kakokairia-stin-konstantinoupoli-nekros-14xronos-apo-ilektropliksia-xiliades-kliseis-gia-voitheia/",
+          "publishedAt": "2026-10-14T22:58:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/ap23248689481023.jpg"
+        },
         {
           "title": "CENTCOM: Οι ΗΠΑ κατέστρεψαν σκάφος συνδεόμενο με το Ιράν στον Κόλπο του Ομάν",
           "url": "https://www.ertnews.gr/eidiseis/diethni/centcom-oi-ipa-katestrepsan-skafos-syndeomeno-me-to-iran-ston-kolpo-tou-oman/",
@@ -146,61 +194,25 @@
           "url": "https://www.ertnews.gr/eidiseis/diethni/tramp-minyma-symparastasis-pros-ton-papa-leonta-eyxomai-na-ginei-grigora-kala/",
           "publishedAt": "2026-10-14T22:26:00+00:00",
           "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/000-a7n77cq-1024x336-1.jpg"
-        },
-        {
-          "title": "Βραζιλία: Οριακό προβάδισμα Μπολσονάρου έναντι του Λούλα ενόψει του β’ γύρου των εκλογών",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/vrazilia-oriako-provadisma-mpolsonarou-enanti-tou-loula-enopsei-tou-v-gyrou-ton-eklogon/",
-          "publishedAt": "2026-10-14T22:10:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/lula-bolsonaro-768x454-2.jpg"
-        },
-        {
-          "title": "Νίκολιτς: «Είμαι ικανοποιημένος από την προσπάθεια των παιδιών, άδικο το αποτέλεσμα»",
-          "url": "https://www.ertnews.gr/athlitismos/nikolits-eimai-ikanopoiimenos-apo-tin-prospatheia-ton-paidion-adiko-to-apotelesma/",
-          "publishedAt": "2026-10-14T21:56:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/nikolic-1024x576-1.jpg"
-        },
-        {
-          "title": "Ζελένσκι: «Προδομένος» από τον Τραμπ – Στο τραπέζι με τον Μπέρναμ πύραυλοι μεγάλου βεληνεκούς",
-          "url": "https://www.ertnews.gr/eidiseis/zelenski-prodomenos-apo-ton-tramp-sto-trapezi-me-ton-mpernam-pyrayloi-megalou-velinekous/",
-          "publishedAt": "2026-10-14T21:40:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/ap26287566304982.jpg"
-        },
-        {
-          "title": "Champions League: Η Παρί «γάζωσε» με 4-2 τη Σίτι στο Μάντσεστερ, η Βίλα έριξε «εξάρα» κι ο Ρούντιγκερ «λύτρωσε» τη Ρεάλ",
-          "url": "https://www.ertnews.gr/athlitismos/champions-league-i-pari-gazose-me-4-2-ti-siti-sto-mantsester-i-vila-erikse-eksara-ki-o-rountigker-lytrose-ti-real/",
-          "publishedAt": "2026-10-14T21:29:51+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/mancity-psg-2026.jpg"
-        },
-        {
-          "title": "Κωνσταντοπούλου στο ΕΡΤnews: Η κυβέρνηση διανύει τους τελευταίους μήνες διακυβέρνησης",
-          "url": "https://www.ertnews.gr/eidiseis/konstantopoulou-sto-ertnews-i-kyvernisi-dianyei-tous-teleytaious-mines-diakyvernisis/",
-          "publishedAt": "2026-10-14T21:21:35+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/konstantopoulou2.jpeg"
-        },
-        {
-          "title": "Μασκ: Η κυβέρνηση των ΗΠΑ ευθύνεται για τυχόν επιβράδυνση του στρατιωτικού δορυφορικού δικτύου του Starlink",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/mask-i-kyvernisi-ton-ipa-eythynetai-gia-tyxon-epivradynsi-tou-stratiotikou-doryforikou-diktyou-tou-starlink/",
-          "publishedAt": "2026-10-14T21:17:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/ap17200727927430.jpg"
-        },
-        {
-          "title": "Champions League: Πλήρωσε τα λάθη της η ΑΕΚ που γνώρισε την ήττα 3-1 στο Λονδίνο από την Σαχτάρ",
-          "url": "https://www.ertnews.gr/athlitismos/champions-league-plirose-ta-lathi-tis-i-aek-pou-gnorise-tin-itta-3-1-sto-londino-apo-tin-saxtar/",
-          "publishedAt": "2026-10-14T21:09:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/shakhtar-aek-2026.jpg"
-        },
-        {
-          "title": "Ζελένσκι: Υπολογίζω στη συνεργασία με τις ΗΠΑ παρότι αισθάνομαι προδομένος",
-          "url": "https://www.ertnews.gr/eidiseis/zelenski-ypologizo-sti-synergasia-me-tis-ipa-paroti-aisthanomai-prodomenos/",
-          "publishedAt": "2026-10-14T20:58:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/ap26287608501796.jpg"
         }
       ],
-      "checkedAt": "2026-10-14T22:43:00.548614+00:00"
+      "checkedAt": "2026-10-15T00:58:36.342710+00:00"
     },
     {
       "id": "olympia",
       "items": [
+        {
+          "title": "Η εξαιρετική εμφάνιση του Λακη Γαβαλα στην εκπομπή Νύχτα Αποκαλύψεων με τον Πέτρο Κουσουλο",
+          "url": "https://www.olympia.gr/1670867/viral/i-exairetiki-emfanisi-toy-laki-gavala-stin-ekpompi-nychta-apokalypseon-me-ton-petro-koysoylo/",
+          "publishedAt": "2026-10-15T00:38:22+00:00",
+          "thumbnail": ""
+        },
+        {
+          "title": "Χαμός με το αντικείμενο για την Σαρον Στόουν στο Cash or Trash",
+          "url": "https://www.olympia.gr/1670859/viral/chamos-me-to-antikeimeno-gia-tin-saron-stooyn-sto-cash-or-trash/",
+          "publishedAt": "2026-10-14T23:05:38+00:00",
+          "thumbnail": ""
+        },
         {
           "title": "Ουκρανία: Ο δήμαρχος του Κιέβου διατύπωσε βαρύτατες κατηγορίες εναντίον του Ζελένσκι και της κεντρικής εξουσίας",
           "url": "https://www.olympia.gr/1670843/diethni/oykrania-o-dimarchos-toy-kievoy-diatypose-varytates-katigories-enantion-toy-zelenski-kai-tis-kentrikis-exoysias/",
@@ -248,25 +260,49 @@
           "url": "https://www.olympia.gr/1670842/politiki/apantisi-kolafos-tis-gerovasili-se-koymoyndoyroy-gia-ti-voyleytiki-edra-ta-paidia-toy-kasselaki-den-einai-o-syriza/",
           "publishedAt": "2026-10-14T16:00:46+00:00",
           "thumbnail": ""
-        },
-        {
-          "title": "Τα απόκρυφα των ρωσικών δυνατοτήτων: Πύραυλος με βεληνεκές 6.500 χλμ",
-          "url": "https://www.olympia.gr/1670832/diethni/ta-apokryfa-ton-rosikon-dynatotiton-pyraylos-me-velinekes-6-500-chlm/",
-          "publishedAt": "2026-10-14T15:40:05+00:00",
-          "thumbnail": ""
-        },
-        {
-          "title": "Γλυπτά του Παρθενώνα: Η πρόταση του Βρετανικού Μουσείου και η ελληνική άρνηση στον δανεισμό",
-          "url": "https://www.olympia.gr/1670829/diethni/glypta-toy-parthenona-i-protasi-toy-vretanikoy-moyseioy-kai-i-elliniki-arnisi-ston-daneismo/",
-          "publishedAt": "2026-10-14T15:20:28+00:00",
-          "thumbnail": ""
         }
       ],
-      "checkedAt": "2026-10-14T22:43:01.469287+00:00"
+      "checkedAt": "2026-10-15T00:58:37.330063+00:00"
     },
     {
       "id": "onsports",
       "items": [
+        {
+          "title": "Νίκολιτς: «Χαρούμενος με την εμφάνιση, δύο αποφάσεις του διαιτητή επηρέασαν το αποτέλεσμα»",
+          "url": "https://www.onsports.gr/podosfairo/champions-league/story/875235/nikolits-xaroymenos-me-tin-emfanisi-dyo-apofaseis-tou-diaititi-epireasan-to-apotelesma",
+          "publishedAt": "2026-10-14T23:13:24+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/15/13b61f9b-7122970.jpg?t=Uuxb3kvjPR7-jHjrhFjFUA"
+        },
+        {
+          "title": "Σαχτάρ – ΑΕΚ: «Δεν αξιοποιήσαμε τις ευκαιρίες μας – Οι δηλώσεις του Μουκουντί",
+          "url": "https://www.onsports.gr/podosfairo/champions-league/story/875234/saxtar---aek-den-aksiopoiisame-tis-efkairies-mas---oi-diloseis-tou-moukounti",
+          "publishedAt": "2026-10-14T22:04:58+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/15/9b6cde4d-5384819.jpg?t=2XBmMrpxddRtDQZpOYoPCA"
+        },
+        {
+          "title": "Σαχτάρ – ΑΕΚ: «Άλλαξε το παιχνίδι ένα πέναλτι που δεν ήταν» - Οι δηλώσεις του Μάγερ",
+          "url": "https://www.onsports.gr/podosfairo/champions-league/story/875233/saxtar-aek-allakse-to-paixnidi-ena-penalti-pou-den-itan-oi-diloseis-tou-mager",
+          "publishedAt": "2026-10-14T21:59:35+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/15/ec27c4ed-5384880.jpg?t=wg-khM9MrD4dJlDhZ8hbRQ"
+        },
+        {
+          "title": "Νίκολιτς: «Το αποτέλεσμα είναι άδικο, δεν μπορώ να καταλάβω γιατί δόθηκε το πέναλτι»",
+          "url": "https://www.onsports.gr/podosfairo/champions-league/story/875232/nikolits-to-apotelesma-einai-adiko-den-boro-na-katalavaino-giati-dothike-to-penalti",
+          "publishedAt": "2026-10-14T21:47:41+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/15/88332773-5384690.jpg?t=XuS68Q8sJ9ie53LZJQYqdQ"
+        },
+        {
+          "title": "Σαχτάρ - ΑΕΚ: Τα highlights από την ήττα της «Ένωσης» στο Champions League",
+          "url": "https://www.onsports.gr/podosfairo/champions-league/video/875231/saxtar-aek-ta-highlights-apo-tin-itta-tis-enosis-sto-champions-league",
+          "publishedAt": "2026-10-14T21:43:38+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/15/f95428d1-7123011.jpg?t=PxzWTeE9PM_e0faq18JmqA"
+        },
+        {
+          "title": "Champions League: Καταιγιστική Παρί στο Έτιχαντ, σπουδαία ανατροπή της Ρεάλ - Όλα τα αποτελέσματα",
+          "url": "https://www.onsports.gr/podosfairo/champions-league/story/875230/champions-league-kataigistiki-pari-sto-etixant-spoudaia-anatropi-tis-real-ola-ta-apotelesmata",
+          "publishedAt": "2026-10-14T21:25:10+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/15/6d13188e-ap26287701049668.jpg?t=pOtBnXGcoxkYmEITraneaA"
+        },
         {
           "title": "EuroLeague Βαθμολογία: Πρώτος ο ΠΑΟ, με νίκες Χάποελ, Μπάγερν, Βίρτους «έκλεισε» η αγωνιστική",
           "url": "https://www.onsports.gr/basket/euroleague/story/875229/euroleague-vathmologia-protos-o-pao-me-nikes-xapoel-bagern-virtous-ekleise-i-agonistiki",
@@ -290,46 +326,10 @@
           "url": "https://www.onsports.gr/podosfairo/champions-league/video/875226/saxtar---aek-lathos-tou-brinioli-kai-brosta-oi-oukranoi-video",
           "publishedAt": "2026-10-14T20:53:29+00:00",
           "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/14/5bdef9b3-1792011154010-631795713-image.jpg?t=hzYsW-dAk91F_WVE5xdO6A"
-        },
-        {
-          "title": "Παρί - Βίρτους 94-96: Η Μπολόνια πήρε τη νίκη σε ματς «θρίλερ» στη Γαλλία",
-          "url": "https://www.onsports.gr/basket/euroleague/story/875225/pari-virtous-94-96-i-bolonia-pire-ti-niki-se-mats-thriler-sti-gallia",
-          "publishedAt": "2026-10-14T20:46:35+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/14/bf70764a-bologna.jpg?t=dJw3qcj8vXOwJbBph8TGnw"
-        },
-        {
-          "title": "Η λίστα του Κέντρικ Ναν: Κορυφή ο Παναθηναϊκός, σε ποια θέση έβαλε τον Ολυμπιακό",
-          "url": "https://www.onsports.gr/basket/euroleague/story/875224/i-lista-tou-kentrik-nan-koryfi-o-panathinaikos-se-poia-thesi-evale-ton-olympiako",
-          "publishedAt": "2026-10-14T20:32:16+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/14/b7459c8f-5359768.jpg?t=NoVXoF1nLquW1Ms0mjOZrA"
-        },
-        {
-          "title": "Σπανούλης: «Με ενδιαφέρει να κερδίζουμε για έναν πόντο, αρκεί να κάνουμε αυτά που θέλουμε»",
-          "url": "https://www.onsports.gr/basket/story/875223/spanoylis-me-endiaferei-na-kerdizoume-gia-enan-ponto-arkei-na-kanoume-afta-pou-theloume",
-          "publishedAt": "2026-10-14T19:56:48+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/07/fa42dc88-7112781.jpg?t=SEH0bA_Vd-k4lGcYEW-bFA"
-        },
-        {
-          "title": "Σαχτάρ – ΑΕΚ: Προηγήθηκε με Μάγερ, ισοφαρίστηκε με πέναλτι | Τα δύο γκολ του πρώτου μέρους",
-          "url": "https://www.onsports.gr/podosfairo/champions-league/video/875222/saxtar-aek-proigithike-me-mager-isofaristike-me-penalti-ta-dyo-gol-tou-protou-merous",
-          "publishedAt": "2026-10-14T19:54:40+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/14/23e275e6-7122987.jpg?t=cSpKlOC6CE-E-4NJ05z8Rg"
-        },
-        {
-          "title": "Αναντολού Εφές – Μπάγερν Μονάχου 93-101: Οι Γερμανοί «σόκαραν» τους Τούρκους",
-          "url": "https://www.onsports.gr/basket/euroleague/story/875221/anantoloy-efes-bagern-monaxou-93-101-oi-germanoi-sokaran-tous-toyrkous",
-          "publishedAt": "2026-10-14T19:43:17+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/14/d3fecb3a-hunmj80wuaapeyd.jfif?t=PFR4YqlSS5H51XTTUQD8UA"
-        },
-        {
-          "title": "Αντετοκούνμπο: «Νιώθω ότι βρισκόμουν στη ζώνη άνεσής μου για πολλά χρόνια, ήθελα μια νέα πρόκληση»",
-          "url": "https://www.onsports.gr/basket/nba/story/875171/antetokoynmpo-niotho-oti-vriskomoun-sti-zoni-anesis-mou-gia-polla-xronia-ithela-mia-nea-proklisi",
-          "publishedAt": "2026-10-14T19:42:17+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/14/66f299ca-ap26285722582361.jpg?t=YRYbN2b68PWok8fOLLabkg"
         }
       ],
-      "checkedAt": "2026-10-14T22:43:01.725631+00:00"
+      "checkedAt": "2026-10-15T00:58:37.623455+00:00"
     }
   ],
-  "savedAt": "2026-10-14T22:43:01.725645+00:00"
+  "savedAt": "2026-10-15T00:58:37.623467+00:00"
 }
