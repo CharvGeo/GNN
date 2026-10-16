@@ -64,7 +64,7 @@
           "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/AP26288622920244-1.jpg"
         }
       ],
-      "checkedAt": "2026-10-15T22:28:06.105300+00:00"
+      "checkedAt": "2026-10-16T00:41:58.129224+00:00"
     },
     {
       "id": "naftemporiki",
@@ -130,77 +130,83 @@
           "thumbnail": ""
         }
       ],
-      "checkedAt": "2026-10-15T22:28:06.714820+00:00"
+      "checkedAt": "2026-10-16T00:41:58.606985+00:00"
     },
     {
       "id": "ert",
       "items": [
         {
-          "title": "Ρωσία: Ουκρανικά drones έπληξαν βιομηχανικές εγκαταστάσεις στην περιοχή του Ροστόφ",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/rosia-oukranika-drones-epliksan-viomixanikes-egkatastaseis-stin-perioxi-tou-rostof/",
-          "publishedAt": "2026-10-15T22:20:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/ap22358704691676-768x512-2-1.jpg"
+          "title": "Το Συμβούλιο Ασφαλείας του ΟΗΕ καταδικάζει τις επιθέσεις των Χούθι κατά της Σαουδικής Αραβίας",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/to-symvoulio-asfaleias-tou-oie-katadikazei-tis-epitheseis-ton-xouthi-kata-tis-saoudikis-aravias/",
+          "publishedAt": "2026-10-16T00:32:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/ap24082531193866-768x512-1.jpg"
         },
         {
-          "title": "Κόντης: «Τεράστια χαμένη ευκαιρία, αδικήσαμε τους εαυτούς μας»",
-          "url": "https://www.ertnews.gr/athlitismos/kontis-terastia-xameni-eykairia-adikisame-tous-eaytous-mas/",
-          "publishedAt": "2026-10-15T22:12:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/kontis-2026-1.jpg"
+          "title": "Ευρωπαϊκό Συμβούλιο: Προτροπή για μέτρα α λα καρτ στην ενέργεια",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/eyropaiko-symvoulio-protropi-gia-metra-a-la-kart-stin-energeia/",
+          "publishedAt": "2026-10-16T00:15:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/49b9b5cb-63d6-40a9-ab81-494df4188961.jpg"
         },
         {
-          "title": "Βραζιλία: Μειώνεται η διαφορά μεταξύ Μπολσονάρου και Λούλα ενόψει των εκλογών της 25ης Οκτωβρίου",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/vrazilia-meionetai-i-diafora-metaksy-mpolsonarou-kai-loula-enopsei-ton-eklogon-tis-25is-oktovriou/",
-          "publishedAt": "2026-10-15T22:08:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/lula-bolsonaro-1-768x484-1-1.jpg"
+          "title": "Γκάμπια: Δώδεκα νεκροί σε ναυάγιο σκάφους με μετανάστες",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/gkampia-dodeka-nekroi-se-nayagio-skafous-me-metanastes/",
+          "publishedAt": "2026-10-15T23:58:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/images-13.jpg"
         },
         {
-          "title": "Λίβανος: Ο Μάρκο Ρούμπιο κάλεσε τον πρόεδρο Αούν να μην επιστρέψει στη Χεζμπολάχ τα κατασχεθέντα εκρηκτικά",
-          "url": "https://www.ertnews.gr/eidiseis/livanos-o-marko-roumpio-kalese-ton-proedro-aoun-na-min-epistrepsei-sti-xezmpolax-ta-katasxethenta-ekriktika/",
-          "publishedAt": "2026-10-15T22:01:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/rubio-1-scaled.jpg"
+          "title": "ΗΠΑ – Χρηματιστήριο: Κλείσιμο με άνοδο",
+          "url": "https://www.ertnews.gr/eidiseis/oikonomia/ipa-xrimatistirio-kleisimo-me-anodo-20/",
+          "publishedAt": "2026-10-15T23:41:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/ap919113928301-768x486-1-1.jpg"
         },
         {
-          "title": "Europa League: Νίκησε 4-1 η Μπενφίκα, σκόραρε και ως αλλαγή ο Παυλίδης",
-          "url": "https://www.ertnews.gr/athlitismos/europa-league-nikise-4-1-i-mpenfika-skorare-kai-os-allagi-o-paylidis/",
-          "publishedAt": "2026-10-15T21:51:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/pavlidis-benfica-celtic-2026.jpg"
+          "title": "Βρυξέλλες: Τα συμπεράσματα του Ευρωπαϊκού Συμβουλίου για το ζήτημα του ενεργειακού κόστους",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/vrykselles-ta-symperasmata-tou-eyropaikou-symvouliou-gia-to-zitima-tou-energeiakou-kostous/",
+          "publishedAt": "2026-10-15T23:34:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/ap26288302672114.jpg"
         },
         {
-          "title": "ΗΠΑ: Περιστατικό με πυροβολισμούς σε δημοτικό σχολείο – Πολλά θύματα, νεκρός ο δράστης",
-          "url": "https://www.ertnews.gr/eidiseis/ipa-peristatiko-me-pyrovolismous-se-dimotiko-sxoleio-polla-thymata-nekros-o-drastis/",
-          "publishedAt": "2026-10-15T21:37:39+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/police-oregon-scaled.jpg"
+          "title": "Η Βρετανία απειλεί να σταματήσει την έκδοση βίζας για τους Ερυθραίους αν δεν υπάρξει συνεργασία στο μεταναστευτικό",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/i-vretania-apeilei-na-stamatisei-tin-ekdosi-vizas-gia-tous-erythraious-an-den-yparksei-synergasia-sto-metanasteytiko/",
+          "publishedAt": "2026-10-15T23:25:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/britain-768x512-1-1.jpg"
         },
         {
-          "title": "Ο Μακρόν ζήτησε συμφωνία για τον προϋπολογισμό της ΕΕ πριν από το 2027, ενόψει των εκλογών σε πολλές χώρες",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/o-makron-zitise-symfonia-gia-ton-proypologismo-tis-ee-prin-apo-to-2027-enopsei-ton-eklogon-se-polles-xores/",
-          "publishedAt": "2026-10-15T21:33:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/ap26288369880350-scaled.jpg"
+          "title": "Φορτούνης: «Παίξαμε και για τον κόσμο μας που δεν μπόρεσε να βρεθεί στο γήπεδο, όσο περνάει ο καιρός θα γινόμαστε όλο και καλύτεροι»",
+          "url": "https://www.ertnews.gr/athlitismos/fortounis-paiksame-kai-gia-ton-kosmo-mas-pou-den-mporese-na-vrethei-sto-gipedo-oso-pernaei-o-kairos-tha-ginomaste-olo-kai-kalyteroi/",
+          "publishedAt": "2026-10-15T23:08:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/fortounis-2026.jpg"
         },
         {
-          "title": "Σουδάν: Πέντε παιδιά της ίδιας οικογένειας σκοτώθηκαν σε βομβαρδισμό στο Βόρειο Κορντοφάν",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/soudan-pente-paidia-tis-idias-oikogeneias-skotothikan-se-vomvardismo-sto-voreio-korntofan/",
-          "publishedAt": "2026-10-15T21:16:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/000-866d264-768x512-1.jpg"
+          "title": "Παγκόσμια Ημέρα Αναισθησίας η 16η Οκτωβρίου – Η επιστήμη που προστατεύει τη ζωή",
+          "url": "https://www.ertnews.gr/eidiseis/epistimi/evzoia/ygeia/pagkosmia-imera-anaisthisias-i-16i-oktovriou-i-epistimi-pou-prostateyei-ti-zoi/",
+          "publishedAt": "2026-10-15T23:00:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/xeirourgeio-768x432-1.jpg"
         },
         {
-          "title": "Europa League: Λύγισε στο 90′ ο ΟΦΗ στη Γαλλία με 2-1 από τη Ρεν",
-          "url": "https://www.ertnews.gr/athlitismos/europa-league-lygise-sto-90-o-ofi-sti-gallia-me-2-1-apo-ti-ren/",
-          "publishedAt": "2026-10-15T21:06:03+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/rennes-ofi-2026.jpg"
+          "title": "Σουηδία: Η κυβέρνηση ορίζει ποσόστωση για τη θανάτωση 72 λύκων το 2027 – Αντιδράσεις από περιβαλλοντικές οργανώσεις",
+          "url": "https://www.ertnews.gr/diethni/souidia-i-kyvernisi-orizei-posostosi-gia-ti-thanatosi-72-lykon-to-2027-antidraseis-apo-perivallontikes-organoseis/",
+          "publishedAt": "2026-10-15T22:51:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/likoi.jpg"
         },
         {
-          "title": "Europa League: Tεράστιο «διπλό» με 1-0 στη Μασσαλία ο Ολυμπιακός που βάζει πλώρη για πρόκριση",
-          "url": "https://www.ertnews.gr/athlitismos/europa-league-terastio-diplo-me-1-0-sti-massalia-o-olympiakos-pou-vazei-plori-gia-prokrisi/",
-          "publishedAt": "2026-10-15T20:59:13+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/marseille-olympiakos-2026.jpg"
+          "title": "Bloomberg: Η Βρετανία στέλνει περισσότερους πυραύλους Storm Shadow στην Ουκρανία",
+          "url": "https://www.ertnews.gr/eidiseis/bloomberg-i-vretania-stelnei-perissoterous-pyraylous-storm-shadow-stin-oukrania/",
+          "publishedAt": "2026-10-15T22:36:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/08/ap24326222341993.jpg"
         }
       ],
-      "checkedAt": "2026-10-15T22:28:07.777457+00:00"
+      "checkedAt": "2026-10-16T00:41:59.530268+00:00"
     },
     {
       "id": "olympia",
       "items": [
+        {
+          "title": "Αρχαια Ολυμπία: Στον τελικό του Ευρωπαϊκού Πρωταθλήματος AirBadminton η Ελλάδα!",
+          "url": "https://www.olympia.gr/1670934/ellada/archaia-olympia-ston-teliko-toy-eyropaikoy-protathlimatos-airbadminton-i-ellada/",
+          "publishedAt": "2026-10-15T22:58:57+00:00",
+          "thumbnail": ""
+        },
         {
           "title": "Η θεαματική είσοδος του Γιώργου Παρτσαλάκη στις Μπλε Ωρες",
           "url": "https://www.olympia.gr/1670932/viral/i-theamatiki-eisodos-toy-giorgoy-partsalaki-stis-mple-ores/",
@@ -254,19 +260,25 @@
           "url": "https://www.olympia.gr/1670917/amyna/to-israil-protithetai-na-kataskeyasei-vallistikoys-pyrayloys-stin-ellada/",
           "publishedAt": "2026-10-15T15:40:12+00:00",
           "thumbnail": ""
-        },
-        {
-          "title": "Γιατί η Τουρκία θέτει σε προτεραιότητα την διαπραγμάτευση για τα 6 μαχητικά F-35 που παραμένουν σε ειδική φύλαξη στις ΗΠΑ",
-          "url": "https://www.olympia.gr/1670925/diethni/giati-i-toyrkia-thetei-se-proteraiotita-tin-diapragmateysi-gia-ta-6-machitika-f-35-poy-paramenoyn-se-eidiki-fylaxi-stis-ipa/",
-          "publishedAt": "2026-10-15T15:00:00+00:00",
-          "thumbnail": ""
         }
       ],
-      "checkedAt": "2026-10-15T22:28:08.054117+00:00"
+      "checkedAt": "2026-10-16T00:41:59.727949+00:00"
     },
     {
       "id": "onsports",
       "items": [
+        {
+          "title": "Σοβαρός τραυματισμός για τον Γιούμπανκς: Τον αποδέσμευσαν οι Νικς",
+          "url": "https://www.onsports.gr/basket/nba/story/875296/sovaros-travmatismos-gia-ton-gioympanks-ton-apodesmefsan-oi-niks",
+          "publishedAt": "2026-10-15T23:15:41+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/15/7eb113d8-ap25331012272216.jpg?t=i3FwHMxnu_jmztRAmG-IOw"
+        },
+        {
+          "title": "Κόντης: «Τεράστια χαμένη ευκαιρία, 60-70 λεπτά δεν κινδυνεύαμε με μία πολύ καλή ομάδα»",
+          "url": "https://www.onsports.gr/podosfairo/europa-league/story/875337/kontis-terastia-xameni-efkairia-60-70-lepta-den-kindyneyame-me-mia-poly-kali-omada",
+          "publishedAt": "2026-10-15T21:50:16+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/16/1fb114d6-5386923.jpg?t=fku2wT_5RsnILwT89nEU9g"
+        },
         {
           "title": "Φούντας: «Δεν ήμασταν συγκεντρωμένοι τα τελευταία λεπτά»",
           "url": "https://www.onsports.gr/podosfairo/europa-league/story/875336/foyntas-den-imastan-sygkentromenoi-ta-teleftaia-lepta",
@@ -314,22 +326,10 @@
           "url": "https://www.onsports.gr/basket/story/875329/vomva-giannakopoulou-afta-pou-erxontai-sto-basket-den-tha-exoun-proigoymeno",
           "publishedAt": "2026-10-15T21:20:40+00:00",
           "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/09/07/a5bf08ed-dpg-sin.jpg?t=71ALr0mtEJBI6wIzHBNi2g"
-        },
-        {
-          "title": "Έσε: «Ο Ολυμπιακός δείχνει ότι έχει χαρακτήρα - Μπορούμε να πετύχουμε πολλά πράγματα»",
-          "url": "https://www.onsports.gr/podosfairo/europa-league/story/875328/ese-o-olympiakos-deixnei-oti-exei-xaraktira-boroyme-na-petyxoume-polla-pragmata",
-          "publishedAt": "2026-10-15T21:18:10+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/16/85ef2df5-7124000.jpg?t=IY5rhW0yW5tXrH3RIJqxSg"
-        },
-        {
-          "title": "Ρεάλ Μαδρίτης – Βιλερμπάν 111-92: Νίκη με θέαμα για τη «βασίλισσα»",
-          "url": "https://www.onsports.gr/basket/euroleague/story/875327/real-madritis---vilermpan-111-92-niki-me-theama-gia-ti-vasilissa",
-          "publishedAt": "2026-10-15T21:10:27+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/16/d58c1a92-32488153.jpg?t=wRYpRu_9oLfGPM2C9y1dhQ"
         }
       ],
-      "checkedAt": "2026-10-15T22:28:08.365712+00:00"
+      "checkedAt": "2026-10-16T00:41:59.847721+00:00"
     }
   ],
-  "savedAt": "2026-10-15T22:28:08.365727+00:00"
+  "savedAt": "2026-10-16T00:41:59.847732+00:00"
 }
