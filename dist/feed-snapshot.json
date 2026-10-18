@@ -64,7 +64,7 @@
           "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/e4-5.jpg"
         }
       ],
-      "checkedAt": "2026-10-18T21:48:21.422271+00:00"
+      "checkedAt": "2026-10-18T23:44:17.001452+00:00"
     },
     {
       "id": "naftemporiki",
@@ -130,11 +130,59 @@
           "thumbnail": ""
         }
       ],
-      "checkedAt": "2026-10-18T21:48:21.850433+00:00"
+      "checkedAt": "2026-10-18T23:44:17.520177+00:00"
     },
     {
       "id": "ert",
       "items": [
+        {
+          "title": "Πτώση στις τιμές του πετρελαίου μετά την άρση των κυρώσεων κατά της Ρωσίας",
+          "url": "https://www.ertnews.gr/eidiseis/oikonomia/ptosi-stis-times-tou-petrelaiou-meta-tin-arsi-ton-kyroseon-kata-tis-rosias/",
+          "publishedAt": "2026-10-18T23:35:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/petrelaio-6-768x512-1-1-1-1.jpg"
+        },
+        {
+          "title": "Λας Βέγκας: Ιδιωτικό αεροσκάφος βγήκε εκτός διαδρόμου και προσέκρουσε σε περίφραξη –  Καθυστερήσεις στις πτήσεις",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/las-vegkas-idiotiko-aeroskafos-vgike-ektos-diadromou-kai-prosekrouse-se-perifraksi-kathysteriseis-stis-ptiseis/",
+          "publishedAt": "2026-10-18T23:18:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/stigmiotypo-othonis-2026-10-19-011411.png"
+        },
+        {
+          "title": "Λέσβος: Χωρίς τις αισθήσεις τους εντοπίστηκαν έξι αλλοδαποί μετά από σύγκρουση σκάφους με πλωτό του Λιμενικού",
+          "url": "https://www.ertnews.gr/eidiseis/lesvos-xoris-tis-aisthiseis-tous-entopistikan-eksi-allodapoi-meta-apo-sygkrousi-skafous-me-ploto-tou-limenikou/",
+          "publishedAt": "2026-10-18T23:01:21+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/limeniko.webp"
+        },
+        {
+          "title": "Καναδάς: Τέσσερις νεκροί και 39 τραυματίες από την πυρκαγιά σε στρατιωτική βάση – 19 σε κρίσιμη κατάσταση",
+          "url": "https://www.ertnews.gr/eidiseis/kanadas-tesseris-nekroi-kai-39-traymaties-apo-tin-pyrkagia-se-stratiotiki-vasi-19-se-krisimi-katastasi/",
+          "publishedAt": "2026-10-18T22:46:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/alberta.jpg"
+        },
+        {
+          "title": "Αναγκαστική προσγείωση αεροσκάφους από Τελ Αβίβ προς Βιέννη μετά από απειλή για βόμβα",
+          "url": "https://www.ertnews.gr/eidiseis/anagkastiki-prosgeiosi-aeroskafous-apo-tel-aviv-pros-vienni-meta-apo-apeili-gia-vomva/",
+          "publishedAt": "2026-10-18T22:30:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/skynews-austrian-airlines-7380328.jpg"
+        },
+        {
+          "title": "Ουκρανία: Ένας νεκρός και δύο τραυματίες από ρωσική επίθεση στο Κίεβο –",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/oukrania-enas-nekros-kai-dyo-traymaties-apo-rosiki-epithesi-sto-kievo/",
+          "publishedAt": "2026-10-18T22:19:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/oooo-768x437-1-1-2-1.jpg"
+        },
+        {
+          "title": "Ηρακλής: «Θέλει να φύγει από την Ελλάδα ο Ματσάρι», μετά την ήττα από τον ΠΑΟΚ",
+          "url": "https://www.ertnews.gr/athlitismos/iraklis-thelei-na-fygei-apo-tin-ellada-o-matsari-meta-tin-itta-apo-ton-paok/",
+          "publishedAt": "2026-10-18T22:04:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/matsari.jpg"
+        },
+        {
+          "title": "IRGG: Στις φλόγες πετρελαιοφόρο που προσέκρουσε σε νάρκη στα Στενά του Ορμούζ",
+          "url": "https://www.ertnews.gr/eidiseis/irgg-stis-floges-petrelaioforo-pou-prosekrouse-se-narki-sta-stena-tou-ormouz/",
+          "publishedAt": "2026-10-18T21:54:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/ap26070478014685-768x512-1.jpg"
+        },
         {
           "title": "Φωταγώγηση της Βουλής των Ελλήνων για τον Μήνα Ευαισθητοποίησης για το Σύνδρομο Rett",
           "url": "https://www.ertnews.gr/eidiseis/fotagogisi-tis-voulis-ton-ellinon-gia-ton-mina-eyaisthitopoiisis-gia-to-syndromo-rett/",
@@ -142,65 +190,29 @@
           "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/img-3703-1-scaled.jpg"
         },
         {
-          "title": "Τραμπ: Η άρση των κυρώσεων κατά της Ρωσίας αποσκοπεί στη διατήρησή της στο τραπέζι των διαπραγματεύσεων – Επίθεση σε Ζελένσκι",
-          "url": "https://www.ertnews.gr/eidiseis/tramp-i-arsi-ton-kyroseon-kata-tis-rosias-aposkopei-sti-diatirisi-tis-sto-trapezi-ton-diapragmateyseon-epithesi-se-zelenski/",
+          "title": "Ο Τραμπ επιτίθεται στον Ζελένσκι και υπερασπίζεται την άρση των κυρώσεων κατά της Ρωσίας",
+          "url": "https://www.ertnews.gr/eidiseis/o-tramp-epitithetai-ston-zelenski-kai-yperaspizetai-tin-arsi-ton-kyroseon-kata-tis-rosias/",
           "publishedAt": "2026-10-18T21:25:00+00:00",
           "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/trump2.jpg"
-        },
-        {
-          "title": "Με ηγέτη τον Εμπαπέ, η Ρεάλ Μαδρίτης νίκησε με 4-1 τη Σεβίλλη",
-          "url": "https://www.ertnews.gr/eidiseis/me-igeti-ton-empape-i-real-madritis-nikise-me-4-1-ti-sevilli/",
-          "publishedAt": "2026-10-18T21:19:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/mpape.jpg"
-        },
-        {
-          "title": "Γαλλία: Στη Σαουδική Αραβία ο Ζαν-Νοέλ Μπαρό ενόψει της περιοδείας Μακρόν στον Κόλπο",
-          "url": "https://www.ertnews.gr/eidiseis/gallia-sti-saoudiki-aravia-o-zan-noel-mparo-enopsei-tis-periodeias-makron-ston-kolpo/",
-          "publishedAt": "2026-10-18T21:13:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/ap26146298277143-768x511-1.jpg"
-        },
-        {
-          "title": "Νίστρουπ: «Επιστρέψαμε στο δρόμο μας και συνεχίζουμε»",
-          "url": "https://www.ertnews.gr/athlitismos/nistroup-epistrepsame-sto-dromo-mas-kai-synexizoume/",
-          "publishedAt": "2026-10-18T21:04:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/5391308-1-1.jpg"
-        },
-        {
-          "title": "ΗΠΑ σε ΕΕ: Αντίποινα εαν περιορίστεί η πρόσβαση των αμερικανικών εταιριών στην ευρωπαϊκή αγορά",
-          "url": "https://www.ertnews.gr/eidiseis/ipa-se-ee-antipoina-ean-perioristei-i-prosvasi-ton-amerikanikon-etairion-stin-eyropaiki-agora/",
-          "publishedAt": "2026-10-18T20:58:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/ap23191584237330.jpg"
-        },
-        {
-          "title": "Σε δημόσια διαβούλευση το νομοσχέδιο με τα μέτρα της ΔΕΘ",
-          "url": "https://www.ertnews.gr/eidiseis/oikonomia/se-dimosia-diavouleysi-to-nomosxedio-me-ta-metra-tis-deth/",
-          "publishedAt": "2026-10-18T20:41:18+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/4275317-768x512-1-1.jpg"
-        },
-        {
-          "title": "Κυρίαρχος στο Σούπερ Καπ βόλεϊ ο Παναθηναϊκός, 3-0 τον Φλοίσβο (highlights)",
-          "url": "https://www.ertnews.gr/athlitismos/kyriarxos-sto-souper-kap-volei-o-panathinaikos-3-0-ton-floisvo-highlights/",
-          "publishedAt": "2026-10-18T20:39:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/volley-panathinaikos-floisvos-2026.jpg"
-        },
-        {
-          "title": "Super League: «Φαρ Ουέστ» στην Τούμπα, 2-1 ο ΠΑΟΚ τον Ηρακλή",
-          "url": "https://www.ertnews.gr/athlitismos/super-league-far-ouest-stin-toumpa-2-1-o-paok-ton-irakli/",
-          "publishedAt": "2026-10-18T20:24:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/paok-iraklis-2026.jpg"
-        },
-        {
-          "title": "Αλβανία: Η Ευρωπαϊκή Επιτροπή καταδικάζει τη βία στις φοιτητικές διαδηλώσεις",
-          "url": "https://www.ertnews.gr/eidiseis/alvania-i-eyropaiki-epitropi-katadikazei-ti-via-stis-foititikes-diadiloseis/",
-          "publishedAt": "2026-10-18T20:16:33+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/000-d3mz23x-scaled.jpg"
         }
       ],
-      "checkedAt": "2026-10-18T21:48:22.682923+00:00"
+      "checkedAt": "2026-10-18T23:44:18.429734+00:00"
     },
     {
       "id": "olympia",
       "items": [
+        {
+          "title": "Ρούμπιο: Αυτό θα είναι το προφίλ του επόμενου Αμερικανού πρέσβη στην Ελλάδα",
+          "url": "https://www.olympia.gr/1671168/diethni/roympio-ayto-tha-einai-to-profil-toy-epomenoy-amerikanoy-presvi-stin-ellada/",
+          "publishedAt": "2026-10-18T23:20:21+00:00",
+          "thumbnail": ""
+        },
+        {
+          "title": "Μάρκο Ρούμπιο: Η Ελλάδα αξίζει ισχυρό πρέσβη με πλήρη εμπιστοσύνη Τραμπ",
+          "url": "https://www.olympia.gr/1671172/diethni/marko-roympio-i-ellada-axizei-ischyro-presvi-me-pliri-empistosyni-tramp/",
+          "publishedAt": "2026-10-18T22:54:35+00:00",
+          "thumbnail": ""
+        },
         {
           "title": "Κατώτερος των περιστάσεων στο διάγγελμα του ο Εμμανουελ Μακρον",
           "url": "https://www.olympia.gr/1671162/diethni/katoteros-ton-peristaseon-sto-diaggelma-toy-o-emmanoyel-makron/",
@@ -248,21 +260,9 @@
           "url": "https://www.olympia.gr/1671145/diethni/o-gallos-dimosiografos-pol-amar-apokalyptei-tin-syntonismeni-drasi-ton-islamofasiston-tis-gallias/",
           "publishedAt": "2026-10-18T16:00:33+00:00",
           "thumbnail": ""
-        },
-        {
-          "title": "Οι επιθέσεις σε πλοία στη Μαύρη Θάλασσα επιδεινώνουν τις σχέσεις Τουρκίας-Ρωσίας",
-          "url": "https://www.olympia.gr/1671143/diethni/oi-epitheseis-se-ploia-sti-mayri-thalassa-epideinonoyn-tis-scheseis-toyrkias-rosias/",
-          "publishedAt": "2026-10-18T15:40:23+00:00",
-          "thumbnail": ""
-        },
-        {
-          "title": "Ο Bessent απαντά για τη συμφωνία Τραμπ – Πούτιν και δίνει στεγνά τους Βρετανούς",
-          "url": "https://www.olympia.gr/1671141/diethni/o-bessent-apanta-gia-ti-symfonia-tramp-poytin-kai-dinei-stegna-toys-vretanoys/",
-          "publishedAt": "2026-10-18T15:20:17+00:00",
-          "thumbnail": ""
         }
       ],
-      "checkedAt": "2026-10-18T21:48:23.088478+00:00"
+      "checkedAt": "2026-10-18T23:44:18.735859+00:00"
     },
     {
       "id": "onsports",
@@ -328,8 +328,8 @@
           "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/18/e3ef356b-7129282.jpg?t=A48LCO_X4zV7u63XRtljOA"
         }
       ],
-      "checkedAt": "2026-10-18T21:48:23.242853+00:00"
+      "checkedAt": "2026-10-18T23:44:18.872296+00:00"
     }
   ],
-  "savedAt": "2026-10-18T21:48:23.242865+00:00"
+  "savedAt": "2026-10-18T23:44:18.872308+00:00"
 }
