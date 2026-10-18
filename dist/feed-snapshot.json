@@ -4,207 +4,237 @@
       "id": "kathimerini",
       "items": [
         {
+          "title": "Ινδία: Τουλάχιστον 19 νεκροί σε ποδοπάτημα στην Καλκούτα",
+          "url": "https://www.kathimerini.gr/world/564530788/india-toylachiston-19-nekroi-se-podopatima-stin-kalkoyta/",
+          "publishedAt": "2026-10-18T05:18:37+00:00",
+          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/2026-10-18T044959Z_2022473725_RC2A5OAS9PUS_RTRMADP_3_INDIA-ACCIDENT-STAMPEDE-scaled.jpg"
+        },
+        {
+          "title": "Σαουδική Αραβία: Συντριβή ελικοπτέρου, με αποτέλεσμα να σκοτωθούν τα δύο μέλη του πληρώματος",
+          "url": "https://www.kathimerini.gr/world/564530779/saoydiki-aravia-syntrivi-elikopteroy-me-apotelesma-na-skotothoyn-ta-dyo-meli-toy-pliromatos/",
+          "publishedAt": "2026-10-18T05:07:03+00:00",
+          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/Saudi_Apache_helicopter_X.jpg"
+        },
+        {
+          "title": "Το μενού της εβδομάδας: από ζυμαρικά με φασόλια και μύδια μέχρι κοτόσουπα με τραχανά",
+          "url": "https://www.kathimerini.gr/k/gastronomos/564526987/to-menoy-tis-evdomadas-apo-zymarika-me-fasolia-kai-mydia-mechri-kotosoypa-me-trachana/",
+          "publishedAt": "2026-10-18T05:00:15+00:00",
+          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/zymarika-me-fasolia-kai-mydia-pasta-e-fagioli-con-le-cozze-gastronomos-_1_.jpg"
+        },
+        {
+          "title": "Καναδάς: Νεκροί και τραυματίες από πυρκαγιά σε στρατιωτική βάση στην Αλμπέρτα",
+          "url": "https://www.kathimerini.gr/world/564530773/kanadas-nekroi-kai-traymaties-apo-pyrkagia-se-stratiotiki-vasi-stin-almperta/",
+          "publishedAt": "2026-10-18T04:49:18+00:00",
+          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/HU4dAHWWIAAQdWh.jpg"
+        },
+        {
+          "title": "346 ημέρες πολιτικού θρίλερ πίσω από τη σαπουνόπερα",
+          "url": "https://www.kathimerini.gr/politics/564528994/346-imeres-politikoy-thriler-piso-apo-ti-sapoynopera/",
+          "publishedAt": "2026-10-18T04:39:39+00:00",
+          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/a8-11.jpg"
+        },
+        {
+          "title": "Σαν σήμερα: 18 Οκτωβρίου 1981 – Το ΠΑΣΟΚ κερδίζει στις εθνικές εκλογές",
+          "url": "https://www.kathimerini.gr/istoria/564526303/san-simera-18-oktovrioy-1981-to-pasok-kerdizei-stis-ethnikes-ekloges/",
+          "publishedAt": "2026-10-18T04:30:53+00:00",
+          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/2bb8a0be748ad9439a0f9357c03eca09_Ph3-PANEGURISMOI-STE-ThESSALONIKE-1981.jpg"
+        },
+        {
+          "title": "Καιρός: Βελτίωση, με ανάκαμψη του υδραργύρου – Πού προβλέπονται τοπικές βροχές",
+          "url": "https://www.kathimerini.gr/society/564530767/kairos-veltiosi-me-anakampsi-toy-ydrargyroy-poy-provlepontai-topikes-vroches/",
+          "publishedAt": "2026-10-18T04:26:37+00:00",
+          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/unnamed-file-74.jpg"
+        },
+        {
+          "title": "Γαλλία: 1.200 συλλήψεις στη διάρκεια των ταραχών, 150 αστυνομικοί τραυματίες",
+          "url": "https://www.kathimerini.gr/world/564530761/gallia-1-200-syllipseis-sti-diarkeia-ton-tarachon-150-astynomikoi-traymaties/",
+          "publishedAt": "2026-10-18T04:09:54+00:00",
+          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/2026-10-17T194858Z_2052360014_RC265OAMT2AD_RTRMADP_3_FRANCE-PROTEST-scaled.jpg"
+        },
+        {
+          "title": "ΗΠΑ: Δύο νεκροί κατά την εισβολή αυτοκινήτου σε γήπεδο ποδοσφαίρου στο Κάνσας",
+          "url": "https://www.kathimerini.gr/world/564530752/ipa-dyo-nekroi-kata-tin-eisvoli-aytokinitoy-se-gipedo-podosfairoy-sto-kansas/",
+          "publishedAt": "2026-10-18T04:04:52+00:00",
+          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/2026-10-18T011021Z_1169368607_RC255OAPXO36_RTRMADP_3_USA-CRASH-WICHITA.jpg"
+        },
+        {
           "title": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα 18 Οκτωβρίου",
           "url": "https://www.kathimerini.gr/eortologio/564489292/eortologio-poioi-giortazoyn-simera-18-oktovrioy/",
           "publishedAt": "2026-10-17T21:00:00+00:00",
           "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/09/18._.jpg"
-        },
-        {
-          "title": "ΗΠΑ: Γιατί η σημερινή οικονομία μοιάζει με αυτή του 2000",
-          "url": "https://www.kathimerini.gr/economy/international/564530611/ipa-giati-i-simerini-oikonomia-moiazei-me-ayti-toy-2000/",
-          "publishedAt": "2026-10-17T20:54:57+00:00",
-          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/shutterstock_2258307915_2_.jpg"
-        },
-        {
-          "title": "Βανδαλισμοί και ανομία",
-          "url": "https://www.kathimerini.gr/culture/564528508/vandalismoi-kai-anomia/",
-          "publishedAt": "2026-10-17T20:39:25+00:00",
-          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/3-2-1.jpg"
-        },
-        {
-          "title": "Η Γερμανία αλλάζει γραμμή απέναντι στην Κίνα",
-          "url": "https://www.kathimerini.gr/world/564530659/i-germania-allazei-grammi-apenanti-stin-kina/",
-          "publishedAt": "2026-10-17T20:20:18+00:00",
-          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/shutterstock_2696370513.jpg"
-        },
-        {
-          "title": "Τζέφρι Αρτσερ (1940-2026): Ο «Κατηγορούμενος» λόρδος των μπεστ σέλερ",
-          "url": "https://www.kathimerini.gr/culture/books/564528478/tzefri-artser-1940-2026-o-katigoroymenos-lordos-ton-mpest-seler/",
-          "publishedAt": "2026-10-17T20:03:09+00:00",
-          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/095a71cc128f5d730811658b739295b7_AP83398582381-1-1.jpg"
-        },
-        {
-          "title": "Λυγμικός αποχαιρετισμός στη ζωή",
-          "url": "https://www.kathimerini.gr/culture/music/564528511/lygmikos-apochairetismos-sti-zoi/",
-          "publishedAt": "2026-10-17T19:44:18+00:00",
-          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/659a8a83688bcfa463854515a10d41a4_DuncanWard-LR-photo_SimonvanBoxtel-2450-1-1.jpg"
-        },
-        {
-          "title": "Χώρος ιδεών και διαλόγου",
-          "url": "https://www.kathimerini.gr/culture/564528496/choros-ideon-kai-dialogoy/",
-          "publishedAt": "2026-10-17T19:28:00+00:00",
-          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/0027dfcfa4d34d2160665dc175b2d846_Photo-15-10-26-2-12-02-PM-1-1-1.jpg"
-        },
-        {
-          "title": "Λεκορνί: Η Γαλλία δεν θα εκφοβιστεί από τη βία",
-          "url": "https://www.kathimerini.gr/world/564530743/lekorni-i-gallia-den-tha-ekfovistei-apo-ti-via/",
-          "publishedAt": "2026-10-17T19:21:31+00:00",
-          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/lecornu-14-scaled-1.jpg"
-        },
-        {
-          "title": "Ιταλία: Διαδηλώσεις και συγκρούσεις σε μεγάλες πόλεις της χώρας",
-          "url": "https://www.kathimerini.gr/world/564530737/italia-diadiloseis-kai-sygkroyseis-se-megales-poleis-tis-choras/",
-          "publishedAt": "2026-10-17T19:08:11+00:00",
-          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/2026-10-17T182842Z_2008699065_RC245OA7P8Q2_RTRMADP_3_ITALY-PROTEST-scaled.jpg"
-        },
-        {
-          "title": "Μακρόν: «Η βία δεν έχει καμία θέση στη δημοκρατία μας»",
-          "url": "https://www.kathimerini.gr/world/564530731/makron-i-via-den-echei-kamia-thesi-sti-dimokratia-mas/",
-          "publishedAt": "2026-10-17T18:50:00+00:00",
-          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/2026-09-18T124545Z_460089590_RC2OLNAYUR4Q_RTRMADP_3_FRANCE-BUDGET-FUEL-scaled-1_1_.jpg"
         }
       ],
-      "checkedAt": "2026-10-18T00:56:19.530477+00:00"
+      "checkedAt": "2026-10-18T05:47:06.617719+00:00"
     },
     {
       "id": "naftemporiki",
       "items": [
         {
-          "title": "Λίβανος για συνομιλίες με ΗΠΑ: Στρατιωτική αντιπροσωπεία θα πιέσει για τον τερματισμό των ισραηλινών επιθέσεων",
-          "url": "https://www.naftemporiki.gr/kosmos/2176434/livanos-gia-synomilies-me-ipa-stratiotiki-antiprosopeia-tha-piesei-gia-ton-termatismo-ton-israilinon-epitheseon/?utm_source=rss&utm_medium=rss&utm_campaign=livanos-gia-synomilies-me-ipa-stratiotiki-antiprosopeia-tha-piesei-gia-ton-termatismo-ton-israilinon-epitheseon",
-          "publishedAt": "2026-10-17T20:59:27+00:00",
+          "title": "Ρωσία: Μαζική επίθεση της Ουκρανίας με drones κατά της Αγίας Πετρούπολης – Πυρκαγιά σε πετρελαϊκό τερματικό σταθμό",
+          "url": "https://www.naftemporiki.gr/kosmos/2176458/rosia-maziki-epithesi-tis-oykranias-me-drones-kata-tis-agias-petroypolis-pyrkagia-se-petrelaiko-termatiko-stathmo/?utm_source=rss&utm_medium=rss&utm_campaign=rosia-maziki-epithesi-tis-oykranias-me-drones-kata-tis-agias-petroypolis-pyrkagia-se-petrelaiko-termatiko-stathmo",
+          "publishedAt": "2026-10-18T05:39:32+00:00",
           "thumbnail": ""
         },
         {
-          "title": "Μπαρό: Το Ισραήλ να συλλάβει εποίκους που επιτέθηκαν σε Γάλλο δήμαρχο στη Δυτική Όχθη",
-          "url": "https://www.naftemporiki.gr/kosmos/2176433/mparo-to-israil-na-syllavei-epoikoys-poy-epitethikan-se-gallo-dimarcho-sti-dytiki-ochthi/?utm_source=rss&utm_medium=rss&utm_campaign=mparo-to-israil-na-syllavei-epoikoys-poy-epitethikan-se-gallo-dimarcho-sti-dytiki-ochthi",
-          "publishedAt": "2026-10-17T20:41:37+00:00",
+          "title": "Ο άνθρωπος που πούλησε πρώτος το μέλλον ως εμπόρευμα",
+          "url": "https://www.naftemporiki.gr/stories/2176450/o-anthropos-poy-poylise-protos-to-mellon-os-emporeyma/?utm_source=rss&utm_medium=rss&utm_campaign=o-anthropos-poy-poylise-protos-to-mellon-os-emporeyma",
+          "publishedAt": "2026-10-18T05:36:53+00:00",
           "thumbnail": ""
         },
         {
-          "title": "Γεωργιάδης για Γαλλία: «Μια σύμμειξη μεταναστών με ακροαριστερούς την καταστρέφουν, την εξευτελίζουν»",
-          "url": "https://www.naftemporiki.gr/politics/2176432/georgiadis-gia-gallia-mia-symmeixi-metanaston-me-akroaristeroys-tin-katastrefoyn-tin-exeytelizoyn/?utm_source=rss&utm_medium=rss&utm_campaign=georgiadis-gia-gallia-mia-symmeixi-metanaston-me-akroaristeroys-tin-katastrefoyn-tin-exeytelizoyn",
-          "publishedAt": "2026-10-17T20:37:53+00:00",
+          "title": "Ερευνητές ανέπτυξαν επαναστατική μέθοδο κατασκευής κατοικιών στον Άρη",
+          "url": "https://www.naftemporiki.gr/techscience/2176384/ereynites-aneptyxan-epanastatiki-methodo-kataskeyis-katoikion-ston-ari/?utm_source=rss&utm_medium=rss&utm_campaign=ereynites-aneptyxan-epanastatiki-methodo-kataskeyis-katoikion-ston-ari",
+          "publishedAt": "2026-10-18T05:30:48+00:00",
           "thumbnail": ""
         },
         {
-          "title": "Λεκορνί για επεισόδια στη Γαλλία: Η χώρα δεν θα εκφοβιστεί από τη βία",
-          "url": "https://www.naftemporiki.gr/kosmos/2176430/lekorni-gia-epeisodia-sti-gallia-i-chora-den-tha-ekfovistei-apo-ti-via/?utm_source=rss&utm_medium=rss&utm_campaign=lekorni-gia-epeisodia-sti-gallia-i-chora-den-tha-ekfovistei-apo-ti-via",
-          "publishedAt": "2026-10-17T20:33:49+00:00",
+          "title": "Τα πρωτοσέλιδα του κυριακάτικου Τύπου",
+          "url": "https://www.naftemporiki.gr/society/2176456/ta-protoselida-toy-kyriakatikoy-typoy-10/?utm_source=rss&utm_medium=rss&utm_campaign=ta-protoselida-toy-kyriakatikoy-typoy-10",
+          "publishedAt": "2026-10-18T05:25:48+00:00",
           "thumbnail": ""
         },
         {
-          "title": "Κοζάνη: Στο χειρουργείο εισήχθη κυνηγός μετά από αυτοτραυματισμό",
-          "url": "https://www.naftemporiki.gr/society/2176427/kozani-sto-cheiroyrgeio-eisichthik-kynigos-meta-apo-aytotraymatismo/?utm_source=rss&utm_medium=rss&utm_campaign=kozani-sto-cheiroyrgeio-eisichthik-kynigos-meta-apo-aytotraymatismo",
-          "publishedAt": "2026-10-17T20:24:38+00:00",
+          "title": "«Να σταματήσει αυτή η τρέλα»: Ο Τζέι Ντι Βανς κατηγορεί τη μετανάστευση για το χάος στους δρόμους της Γαλλίας",
+          "url": "https://www.naftemporiki.gr/kosmos/2176454/na-stamatisei-ayti-i-trela-o-tzei-nti-vans-katigorei-ti-metanasteysi-gia-to-chaos-stoys-dromoys-tis-gallias/?utm_source=rss&utm_medium=rss&utm_campaign=na-stamatisei-ayti-i-trela-o-tzei-nti-vans-katigorei-ti-metanasteysi-gia-to-chaos-stoys-dromoys-tis-gallias",
+          "publishedAt": "2026-10-18T05:21:54+00:00",
           "thumbnail": ""
         },
         {
-          "title": "Ουκρανός ΥΠΕΞ: Η υπό ρωσική κατοχή πόλη Ολέσκι αποτελεί «παγίδα θανάτου» με κατοίκους που λιμοκτονούν",
-          "url": "https://www.naftemporiki.gr/kosmos/2176425/oykranos-ypex-i-ypo-rosiki-katochi-poli-olesky-apotelei-pagida-thanatoy-me-katoikoys-poy-limoktonoyn/?utm_source=rss&utm_medium=rss&utm_campaign=oykranos-ypex-i-ypo-rosiki-katochi-poli-olesky-apotelei-pagida-thanatoy-me-katoikoys-poy-limoktonoyn",
-          "publishedAt": "2026-10-17T20:01:46+00:00",
+          "title": "Η Ελληνίδα του MIT που «μαζεύει» τη σπατάλη των data centers και της Τεχνητής Νοημοσύνης",
+          "url": "https://www.naftemporiki.gr/techscience/2176453/i-ellinida-toy-mit-poy-mazeyei-ti-spatali-ton-data-centers-kai-tis-technitis-noimosynis/?utm_source=rss&utm_medium=rss&utm_campaign=i-ellinida-toy-mit-poy-mazeyei-ti-spatali-ton-data-centers-kai-tis-technitis-noimosynis",
+          "publishedAt": "2026-10-18T05:15:00+00:00",
           "thumbnail": ""
         },
         {
-          "title": "Τραμπ: Ο πόλεμος με το Ιράν θα τελειώσει «πολύ γρήγορα» – Η αναφορά στις τιμές καυσίμων",
-          "url": "https://www.naftemporiki.gr/kosmos/2176423/tramp-o-polemos-me-to-iran-tha-teleiosei-poly-grigora-i-anafora-stis-times-kaysimon/?utm_source=rss&utm_medium=rss&utm_campaign=tramp-o-polemos-me-to-iran-tha-teleiosei-poly-grigora-i-anafora-stis-times-kaysimon",
-          "publishedAt": "2026-10-17T19:40:27+00:00",
+          "title": "Καιρός: Μικρή άνοδος της θερμοκρασίας – Πού αναμένονται τοπικές βροχές",
+          "url": "https://www.naftemporiki.gr/society/2176451/kairos-mikri-anodos-tis-thermokrasias-poy-anamenontai-topikes-vroches-2/?utm_source=rss&utm_medium=rss&utm_campaign=kairos-mikri-anodos-tis-thermokrasias-poy-anamenontai-topikes-vroches-2",
+          "publishedAt": "2026-10-18T05:06:38+00:00",
           "thumbnail": ""
         },
         {
-          "title": "Γιατί φλέγεται η Γαλλία – Πώς ξεχείλισε η οργή για τον Μακρόν",
-          "url": "https://www.naftemporiki.gr/kosmos/2176417/giati-flegetai-i-gallia-pos-xecheilise-i-orgi-gia-ton-makron/?utm_source=rss&utm_medium=rss&utm_campaign=giati-flegetai-i-gallia-pos-xecheilise-i-orgi-gia-ton-makron",
-          "publishedAt": "2026-10-17T19:23:57+00:00",
+          "title": "Σαουδική Αραβία: Συντριβή στρατιωτικού ελικοπτέρου με δύο νεκρούς – Τι υποστηρίζουν οι Χούθι",
+          "url": "https://www.naftemporiki.gr/kosmos/2176452/saoydiki-aravia-syntrivi-stratiotikoy-elikopteroy-me-dyo-nekroys-ti-ypostirizoyn-oi-choythi/?utm_source=rss&utm_medium=rss&utm_campaign=saoydiki-aravia-syntrivi-stratiotikoy-elikopteroy-me-dyo-nekroys-ti-ypostirizoyn-oi-choythi",
+          "publishedAt": "2026-10-18T05:04:48+00:00",
           "thumbnail": ""
         },
         {
-          "title": "Γαλλία: Στο Παρίσι «ολόκληροι δρόμοι καταστράφηκαν», δηλώνει ο δήμαρχος",
-          "url": "https://www.naftemporiki.gr/kosmos/2176419/gallia-sto-parisi-olokliroi-dromoi-katastrafikan-dilonei-o-dimarchos/?utm_source=rss&utm_medium=rss&utm_campaign=gallia-sto-parisi-olokliroi-dromoi-katastrafikan-dilonei-o-dimarchos",
-          "publishedAt": "2026-10-17T19:20:31+00:00",
+          "title": "Τι θα συμβεί αν οι AI agents αρχίσουν να επικοινωνούν με τη δική τους ακατανόητη για εμάς γλώσσα;",
+          "url": "https://www.naftemporiki.gr/techscience/2176381/ti-tha-symvei-an-oi-ai-agents-archisoyn-na-epikoinonoyn-me-ti-diki-toys-akatanoiti-gia-emas-glossa/?utm_source=rss&utm_medium=rss&utm_campaign=ti-tha-symvei-an-oi-ai-agents-archisoyn-na-epikoinonoyn-me-ti-diki-toys-akatanoiti-gia-emas-glossa",
+          "publishedAt": "2026-10-18T05:00:37+00:00",
           "thumbnail": ""
         },
         {
-          "title": "Μελόνι για επεισόδια Μιλάνο, Μπολόνια και Τορίνο: Το να διαδηλώνεις αποτελεί δικαίωμα, το να καταστρέφεις όχι",
-          "url": "https://www.naftemporiki.gr/kosmos/2176413/meloni-gia-epeisodia-milano-mpolonia-kai-torino-to-na-diadiloneis-apotelei-dikaioma-to-na-tis-katastrefeis-ochi/?utm_source=rss&utm_medium=rss&utm_campaign=meloni-gia-epeisodia-milano-mpolonia-kai-torino-to-na-diadiloneis-apotelei-dikaioma-to-na-tis-katastrefeis-ochi",
-          "publishedAt": "2026-10-17T18:53:02+00:00",
+          "title": "Ισότητα",
+          "url": "https://www.naftemporiki.gr/opinion/2176136/isotita/?utm_source=rss&utm_medium=rss&utm_campaign=isotita",
+          "publishedAt": "2026-10-18T05:00:09+00:00",
           "thumbnail": ""
         }
       ],
-      "checkedAt": "2026-10-18T00:56:20.292492+00:00"
+      "checkedAt": "2026-10-18T05:47:06.993167+00:00"
     },
     {
       "id": "ert",
       "items": [
         {
-          "title": "Σαουδική Αραβία: Αναχαιτίστηκαν δύο drones κοντά στο Ριάντ και την ανατολική επαρχία της χώρας",
-          "url": "https://www.ertnews.gr/eidiseis/saoudiki-aravia-anaxaitistikan-dyo-drones-konta-sto-riant-kai-tin-anatoliki-eparxia-tis-xoras/",
-          "publishedAt": "2026-10-18T00:36:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/alert-1.jpg"
+          "title": "Ρωσία: Πυρκαγιά σε πετρελαϊκό τερματικό σταθμό της Αγίας Πετρούπολης μετά από ουκρανική επίθεση",
+          "url": "https://www.ertnews.gr/eidiseis/rosia-pyrkagia-se-petrelaiko-termatiko-stathmo-tis-agias-petroupolis-meta-apo-oukraniki-epithesi/",
+          "publishedAt": "2026-10-18T05:43:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/screenshot-2026-10-18-084019.png"
         },
         {
-          "title": "Ρούμπιο: Ανησυχία για τα περιστατικά βίας από Ισραηλινούς εποίκους στη Δυτική Όχθη",
-          "url": "https://www.ertnews.gr/eidiseis/roumpio-anisyxia-gia-ta-peristatika-vias-apo-israilinous-epoikous-sti-dytiki-oxthi/",
-          "publishedAt": "2026-10-18T00:18:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/ap25192348189472-768x512-1-1-2.jpg"
+          "title": "Συμπλοκή στην πλατεία των Υψηλών Αλωνίων στην Πάτρα – Τραυματισμός 15χρονου με σουγιά",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/symploki-stin-plateia-ton-ypsilon-alonion-stin-patra-traymatismos-15xronou-me-sougia/",
+          "publishedAt": "2026-10-18T05:32:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/09/astynomia-768x426-1.png"
         },
         {
-          "title": "Χούθι: Ισχυρίζονται ότι κατέρριψαν σαουδαραβικό μη επανδρωμένο αεροσκάφος στην Υεμένη",
-          "url": "https://www.ertnews.gr/eidiseis/xouthi-isxyrizontai-oti-katerripsan-saoudaraviko-mi-epandromeno-aeroskafos-stin-yemeni/",
-          "publishedAt": "2026-10-18T00:00:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/000-66am2t6-768x512-1-1.jpg"
+          "title": "Κλιμακώνονται οι αντικυβερνητικές διαδηλώσεις στην Αλβανία: Νέο κάλεσμα για κινητοποιήσεις σήμερα – Τι μεταδίδει ο απεσταλμένος του ΕΡΤnews στα Τίρανα",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/klimakonontai-oi-antikyvernitikes-diadiloseis-stin-alvania-neo-kalesma-gia-kinitopoiiseis-simera-ti-metadidei-o-apestalmenos-tou-ertnews-sta-tirana/",
+          "publishedAt": "2026-10-18T05:21:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/ap26290667242470-scaled.jpg"
         },
         {
-          "title": "Ήττα για την Αϊντχόφεν στη Χάγη, υποχώρησε στην τρίτη θέση της Eredivisie",
-          "url": "https://www.ertnews.gr/eidiseis/itta-gia-tin-aintxofen-sti-xagi-ypoxorise-stin-triti-thesi-tis-eredivisie/",
-          "publishedAt": "2026-10-17T23:42:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/ollandia.jpg"
+          "title": "Αντιπρόεδρος ΟΛΜΕ στο ΕΡΤnews: «Παραμένει άλυτο το πρόβλημα στη Γκράβα – Πιστοποιητικά ασφαλείας για όλα τα σχολεία»",
+          "url": "https://www.ertnews.gr/eidiseis/antiproedros-olme-sto-ertnews-paramenei-alyto-to-provlima-sti-gkrava-pistopoiitika-asfaleias-gia-ola-ta-sxoleia/",
+          "publishedAt": "2026-10-18T05:12:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/5388008-scaled.jpg"
         },
         {
-          "title": "Σαουδική Αραβία: Αναχαιτίστηκαν δύο πύραυλοι των Χούθι προς το Χαμίς Μουσάιτ",
-          "url": "https://www.ertnews.gr/eidiseis/saoudiki-aravia-anaxaitistikan-dyo-pyrayloi-ton-xouthi-pros-to-xamis-mousait/",
-          "publishedAt": "2026-10-17T23:24:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/yemeni.jpg"
+          "title": "Προσωρινή αύξηση της τηλεργασίας στο 40% στον Όμιλο ΟΤΕ από αύριο Δευτέρα – Ανακούφιση εργαζομένων από τις τιμές των καυσίμων",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/prosorini-ayksisi-tis-tilergasias-sto-40-ston-omilo-ote-apo-ayrio-deytera-anakoufisi-ergazomenon-apo-tis-times-ton-kaysimon/",
+          "publishedAt": "2026-10-18T05:03:55+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/05/5094277-scaled.jpg"
         },
         {
-          "title": "Γαλλία: 1.200 συλλήψεις στη διάρκεια των ταραχών, 150 αστυνομικοί τραυματίστηκαν",
-          "url": "https://www.ertnews.gr/eidiseis/gallia-1-200-syllipseis-sti-diarkeia-ton-taraxon-150-astynomikoi-traymatistikan/",
-          "publishedAt": "2026-10-17T23:07:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/gallia.jpg"
+          "title": "Θάνατος Μαζωνάκη: Σήμερα το μνημόσυνο στην παλιά του γειτονιά – Οι δύο άξονες της έρευνας και οι τρεις ουσίες στο μικροσκόπιο των αρχών",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/thanatos-mazonaki-simera-to-mnimosyno-stin-palia-tou-geitonia-oi-dyo-aksones-tis-ereynas-kai-oi-treis-ousies-sto-mikroskopio-ton-arxon/",
+          "publishedAt": "2026-10-18T04:53:19+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/7126821-scaled.jpg"
         },
         {
-          "title": "Ρωσία: Αναχαιτίστηκαν 195 ουκρανικά drones που κατευθύνονταν προς τη Μόσχα",
-          "url": "https://www.ertnews.gr/eidiseis/rosia-anaxaitistikan-195-oukranika-drones-pou-kateythynontan-pros-ti-mosxa/",
-          "publishedAt": "2026-10-17T22:49:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/91195f62-drone.webp"
+          "title": "Στάσεις εργασίας των εργαζομένων στις Δημόσιες Οικονομικές Υπηρεσίες – Κυλιόμενο πανελλαδικό πρόγραμμα",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/staseis-ergasias-ton-ergazomenon-stis-dimosies-oikonomikes-ypiresies-kyliomeno-panelladiko-programma/",
+          "publishedAt": "2026-10-18T04:47:44+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/doy-768x490-1.jpg"
         },
         {
-          "title": "ΗΠΑ: Τουλάχιστον 2 νεκροί και πολλοί τραυματίες κατά την εισβολή αυτοκινήτου σε γήπεδο ποδοσφαίρου στο Κάνσας",
-          "url": "https://www.ertnews.gr/eidiseis/ipa-toulaxiston-2-nekroi-kai-polloi-traymaties-kata-tin-eisvoli-aytokinitou-se-gipedo-podosfairou-sto-kansas/",
-          "publishedAt": "2026-10-17T22:41:56+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/wichita.jpg"
+          "title": "Καιρός: Ανοιξιάτικο διάλειμμα πριν από τις βροχές – Η πρόγνωση της Αναστασίας Τυράσκη",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/kairos-anoiksiatiko-dialeimma-prin-apo-tis-vroxes-i-prognosi-tis-anastasias-tyraski/",
+          "publishedAt": "2026-10-18T04:33:10+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/6545497-scaled.jpg"
         },
         {
-          "title": "Ισραήλ: Ο πρεσβευτής των ΗΠΑ ζητά συλλήψεις και φυλάκιση εποίκων για την επίθεση σε φωτορεπόρτερ της Washington Post",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/israil-o-presveytis-ton-ipa-zita-syllipseis-kai-fylakisi-epoikon-gia-tin-epithesi-se-fotoreporter-tis-washington-post/",
-          "publishedAt": "2026-10-17T22:32:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/israel-6.jpg"
+          "title": "ΕΥΔΑΠ: Σε ποιες περιοχές θα γίνει σήμερα διακοπή της υδροδότησης",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/eydap-se-poies-perioxes-tha-ginei-simera-diakopi-tis-ydrodotisis/",
+          "publishedAt": "2026-10-18T04:26:19+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/07/eidap2.jpg"
         },
         {
-          "title": "LaLiga: «Κόλλησε» στο 0-0 η Βαλένθια με την Αθλέτικ Μπιλμπάο – Νέα νίκη για την Ατλέτικο",
-          "url": "https://www.ertnews.gr/athlitismos/laliga-kollise-sto-0-0-i-valenthia-me-tin-athletik-mpilmpao-nea-niki-gia-tin-atletiko/",
-          "publishedAt": "2026-10-17T22:15:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/valenthia-1.jpg"
+          "title": "ΗΠΑ: Ο Βανς κατηγορεί τη μετανάστευση για τα επεισόδια στη Γαλλία και στρέφεται κατά των Δημοκρατικών",
+          "url": "https://www.ertnews.gr/eidiseis/ipa-o-vans-katigorei-ti-metanasteysi-gia-ta-epeisodia-sti-gallia-kai-strefetai-kata-ton-dimokratikon/",
+          "publishedAt": "2026-10-18T04:14:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/vance.jpg"
         }
       ],
-      "checkedAt": "2026-10-18T00:56:21.668138+00:00"
+      "checkedAt": "2026-10-18T05:47:08.215533+00:00"
     },
     {
       "id": "olympia",
       "items": [
         {
+          "title": "Μνημόσυνο Γιώργου Μαζωνάκη: Τι ώρα ξενικά η επιμνημόσυνη δέηση στην Αγία Τριάδα",
+          "url": "https://www.olympia.gr/1671120/viral/mnimosyno-giorgoy-mazonaki-ti-ora-xenika-i-epimnimosyni-deisi-stin-agia-triada/",
+          "publishedAt": "2026-10-18T05:40:37+00:00",
+          "thumbnail": ""
+        },
+        {
           "title": "Το ελληνικό ζευγάρι που ξεσηκώνει την Αφρική με συρτάκι, ζεϊμπέκικο και σπάσιμο πιάτων",
           "url": "https://www.olympia.gr/1671089/viral/to-elliniko-zeygari-poy-xesikonei-tin-afriki-me-syrtaki-zeimpekiko-kai-spasimo-piaton/",
-          "publishedAt": "2026-10-17T21:00:15+00:00",
+          "publishedAt": "2026-10-18T05:20:15+00:00",
+          "thumbnail": ""
+        },
+        {
+          "title": "18 Οκτωβρίου 1981: Το ΠΑΣΟΚ στην κυβέρνηση ο λαός στην εξουσία",
+          "url": "https://www.olympia.gr/1671104/istoria/18-oktovrioy-1981-to-pasok-stin-kyvernisi-o-laos-stin-exoysia-3/",
+          "publishedAt": "2026-10-18T05:00:39+00:00",
+          "thumbnail": ""
+        },
+        {
+          "title": "Ισλαμιστές καλωσορίζουν το ισπανικό τηλεοπτικό συνεργείο που καλύπτει τα επεισόδια στη Γαλλία",
+          "url": "https://www.olympia.gr/1671094/diethni/islamistes-kalosorizoyn-to-ispaniko-tileoptiko-synergeio-poy-kalyptei-ta-epeisodia-sti-gallia/",
+          "publishedAt": "2026-10-18T04:40:01+00:00",
+          "thumbnail": ""
+        },
+        {
+          "title": "Ο αμερικανικός στρατός θα δοκιμάσει 15 συστήματα καταπολέμησης drones στο Μαρόκο",
+          "url": "https://www.olympia.gr/1671097/diethni/o-amerikanikos-stratos-tha-dokimasei-15-systimata-katapolemisis-drones-sto-maroko/",
+          "publishedAt": "2026-10-18T04:20:35+00:00",
+          "thumbnail": ""
+        },
+        {
+          "title": "Τα πρωτοσέλιδα των εφημερίδων σήμερα Κυριακή",
+          "url": "https://www.olympia.gr/1671096/media/ta-protoselida-ton-efimeridon-simera-kyriaki-60/",
+          "publishedAt": "2026-10-18T04:00:14+00:00",
           "thumbnail": ""
         },
         {
@@ -230,43 +260,31 @@
           "url": "https://www.olympia.gr/1671084/oikonomia/allages-ston-tropo-ypologismoy-ton-lixiprothesmon-daneion-stis-diadikasies-rythmisis-ofeilon-kai-stis-proypotheseis-dienergeias-pleistiriasmon/",
           "publishedAt": "2026-10-17T17:00:56+00:00",
           "thumbnail": ""
-        },
-        {
-          "title": "Τοξικολογικές Μαζωνάκη: Η ταυτοποίηση των αναισθητικών ανοίγει τον δρόμο για βαριές κατηγορίες",
-          "url": "https://www.olympia.gr/1671082/viral/toxikologikes-mazonaki-i-taytopoiisi-ton-anaisthitikon-anoigei-ton-dromo-gia-varies-katigories/",
-          "publishedAt": "2026-10-17T16:40:28+00:00",
-          "thumbnail": ""
-        },
-        {
-          "title": "Το κυπριακό αέριο, η Αίγυπτος και η σύνδεση με την Ευρώπη",
-          "url": "https://www.olympia.gr/1671079/diethni/to-kypriako-aerio-i-aigyptos-kai-i-syndesi-me-tin-eyropi/",
-          "publishedAt": "2026-10-17T16:20:24+00:00",
-          "thumbnail": ""
-        },
-        {
-          "title": "Μάγεψε την Μαρία Αντωνα ο Λάκης Λαζοπουλος στην πρωινή εκπομπή του Mega",
-          "url": "https://www.olympia.gr/1671071/viral/magepse-tin-maria-antona-o-lakis-lazopoylos-stin-proini-ekpompi-toy-mega/",
-          "publishedAt": "2026-10-17T16:00:06+00:00",
-          "thumbnail": ""
-        },
-        {
-          "title": "Παύλος Γερουλάνος: Το ΠΑΣΟΚ δεν ετεροπροσδιορίστηκε ποτέ και δεν θα το κάνει τώρα",
-          "url": "https://www.olympia.gr/1671077/politiki/paylos-geroylanos-to-pasok-den-eteroprosdioristike-pote-kai-den-tha-to-kanei-tora/",
-          "publishedAt": "2026-10-17T15:40:52+00:00",
-          "thumbnail": ""
-        },
-        {
-          "title": "Μόλις 29 ετών την βρήκαν νεκρή στον ακάλυπτο της πολυκατοικίας",
-          "url": "https://www.olympia.gr/1671076/ellada/molis-29-eton-tin-vrikan-nekri-ston-akalypto-tis-polykatoikias/",
-          "publishedAt": "2026-10-17T15:20:10+00:00",
-          "thumbnail": ""
         }
       ],
-      "checkedAt": "2026-10-18T00:56:22.654647+00:00"
+      "checkedAt": "2026-10-18T05:47:09.149750+00:00"
     },
     {
       "id": "onsports",
       "items": [
+        {
+          "title": "Τα επόμενα βήματα του Πουλακίδα μετά την αποδέσμευσή του από το NBA και η προοπτική του Ολυμπιακού",
+          "url": "https://www.onsports.gr/basket/euroleague/story/875531/ta-epomena-vimata-tou-poulakida-meta-tin-apodesmefsi-tou-apo-to-nba-kai-i-prooptiki-tou-olympiakoy",
+          "publishedAt": "2026-10-18T05:01:55+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/18/579c5845-hfb6bb9woaafmas.jpg?t=iarIUyQHAYMX2Nkcwoicwg"
+        },
+        {
+          "title": "Καλαμάτα - ΟΦΗ: Με ψυχολογία η «Μαύρη Θύελλα» - Επιστροφή στις νίκες ψάχνουν οι Κρητικοί",
+          "url": "https://www.onsports.gr/podosfairo/superleague/story/875490/kalamata-ofi-me-psyxologia-i-mayri-thyella-epistrofi-stis-nikes-psaxnoun-oi-kritikoi",
+          "publishedAt": "2026-10-18T04:40:11+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/17/495490cd-5386747.jpg?t=cC3nck7gAYYXYeOlq2cgmg"
+        },
+        {
+          "title": "Οι Χόρνετς αποδέσμευσαν τον Πατ Κόνατον",
+          "url": "https://www.onsports.gr/basket/nba/story/875475/oi-xornets-apodesmefsan-ton-pat-konaton",
+          "publishedAt": "2026-10-18T02:05:00+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/17/7f55fa0e-ap26055048226275.jpg?t=CWZYLWJRB3RC_kxruAiftQ"
+        },
         {
           "title": "Κερ: «Σεβόμαστε την ιδιωτικότητα του Πορζίνγκις, δεν υπάρχει κάτι νεότερο να ανακοινώσουμε»",
           "url": "https://www.onsports.gr/basket/nba/story/875524/ker-sevomaste-tin-idiotikotita-tou-porzingkis-den-yparxei-kati-neotero-na-anakoinosoume",
@@ -308,28 +326,10 @@
           "url": "https://www.onsports.gr/opinion/story/875526/akadimies-ypodomes-itan-i-istoriki-tou-parakatathiki-sto-podosfairo",
           "publishedAt": "2026-10-17T20:19:30+00:00",
           "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/17/5eacbd7d-5499.jpg?t=YE8TN38HyR-vKMZ7jH1JOw"
-        },
-        {
-          "title": "Μαρτίνες: Καθησυχαστικά νέα μετά τον τραυματισμό του - Τι αναφέρουν στην Αργεντινή",
-          "url": "https://www.onsports.gr/podosfairo/story/875525/martines-kathisyxastika-nea-meta-ton-travmatismo-tou-ti-anaferoun-stin-argentini",
-          "publishedAt": "2026-10-17T19:59:01+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/17/fe633bae-ap26242462181693.jpg?t=n5Vz3tFgZtS4-AFKJKL2pA"
-        },
-        {
-          "title": "Πλήγμα για τη Λεβερκούζεν: Χάνει τον Τεριέ ενόψει ΟΦΗ",
-          "url": "https://www.onsports.gr/podosfairo/europa-league/story/875478/pligma-gia-ti-leverkoyzen-xanei-ton-terie-enopsei-ofi",
-          "publishedAt": "2026-10-17T19:49:00+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/17/8c633a9c-w17-151555martinterrier.jpg?t=4ORvR-r8L3YZ05-wqDSnKA"
-        },
-        {
-          "title": "Μπέτις - Μπαρτσελόνα 2-5: Οι «μπλαουγκράνα» συνεχίζουν με... σπασμένα φρένα",
-          "url": "https://www.onsports.gr/podosfairo/story/875523/betis-bartselona-2-5-oi-mplaougkrana-synexizoun-me-spasmena-frena",
-          "publishedAt": "2026-10-17T19:17:18+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/17/f5b7c9a4-ap26290647284344.jpg?t=BFYoc_7b2Xiovc0rtEL7DA"
         }
       ],
-      "checkedAt": "2026-10-18T00:56:23.280262+00:00"
+      "checkedAt": "2026-10-18T05:47:09.368568+00:00"
     }
   ],
-  "savedAt": "2026-10-18T00:56:23.280274+00:00"
+  "savedAt": "2026-10-18T05:47:09.368577+00:00"
 }
