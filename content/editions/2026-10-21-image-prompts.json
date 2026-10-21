@@ -1,0 +1,7 @@
+{
+  "tool": "Built-in image-generator",
+  "prompts": {
+    "eu-parliament-mediterranean": "The European Parliament plenary chamber in Strasbourg with European flags, clean modern architecture, soft natural interior lighting, realistic editorial stock photography, institutional setting, wide angle, no people faces, documentary style",
+    "greek-economy-surplus": "A dignified wooden desk with neat financial reports, ledger books and calculator in a classic Athens office overlooking Piraeus harbor in natural daylight, realistic editorial photography, no people, neutral colors, clean professional composition"
+  }
+}
