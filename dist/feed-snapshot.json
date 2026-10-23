@@ -4,203 +4,215 @@
       "id": "kathimerini",
       "items": [
         {
-          "title": "Η Shein θα καταβάλλει 100 εκατ. δολάρια για να κλείσει έρευνα στις ΗΠΑ",
+          "title": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα 24 Οκτωβρίου",
+          "url": "https://www.kathimerini.gr/eortologio/564506785/eortologio-poioi-giortazoyn-simera-24-oktovrioy/",
+          "publishedAt": "2026-10-23T21:00:00+00:00",
+          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/24._.jpg"
+        },
+        {
+          "title": "Κλιματική κρίση και ενέργεια: Ποια χώρα είναι πιο «σπάταλη»;",
+          "url": "https://www.kathimerini.gr/visual/infographics/564541462/klimatiki-krisi-kai-energeia-poia-chora-einai-pio-spatali/",
+          "publishedAt": "2026-10-23T20:52:56+00:00",
+          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/DOC.20261022.107114351.s8_231026_CLIMATE_1_96.jpg"
+        },
+        {
+          "title": "Αναγέννηση μέσω της τέχνης στον Αθω",
+          "url": "https://www.kathimerini.gr/culture/564541621/anagennisi-meso-tis-technis-ston-atho/",
+          "publishedAt": "2026-10-23T20:41:17+00:00",
+          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/DOC.20261022.107117273.NGP-KhARKIANAKES-GONTIKAKES-scaled.jpg"
+        },
+        {
+          "title": "Γερμανία: Οι γυναίκες υποεκπροσωπούνται στις θέσεις ευθύνης",
+          "url": "https://www.kathimerini.gr/world/564544222/germania-oi-gynaikes-ypoekprosopoyntai-stis-theseis-eythynis/",
+          "publishedAt": "2026-10-23T20:34:33+00:00",
+          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/shutterstock_2237569391-scaled-1.jpg"
+        },
+        {
+          "title": "Ο Ολυμπιακός λύγισε στο φινάλε από τη Φενέρμπαχτσε",
+          "url": "https://www.kathimerini.gr/athletics/basketball/564544876/o-olympiakos-lygise-sto-finale-apo-ti-fenermpachtse/",
+          "publishedAt": "2026-10-23T20:28:37+00:00",
+          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/5401435-scaled-1.jpg"
+        },
+        {
+          "title": "Ο Μαρκ Κάρνεϊ απορρίπτει τους ισχυρισμούς για ανάμειξη στις αμερικανικές εκλογές",
+          "url": "https://www.kathimerini.gr/world/564543625/o-mark-karnei-aporriptei-toys-ischyrismoys-gia-anameixi-stis-amerikanikes-ekloges/",
+          "publishedAt": "2026-10-23T20:22:33+00:00",
+          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/Carney_Canada_Reuters.jpg"
+        },
+        {
+          "title": "Οι Τούρκοι «Ντάλτονς» ανησυχούν το Βερολίνο",
+          "url": "https://www.kathimerini.gr/world/564543904/oi-toyrkoi-ntaltons-anisychoyn-to-verolino/",
+          "publishedAt": "2026-10-23T20:16:03+00:00",
+          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/shutterstock_2562090387-scaled.jpg"
+        },
+        {
+          "title": "Τουρκολιβυκό μνημόνιο: Το Ελληνοαμερικανικό Συμβούλιο Ηγεσίας ζητά παρέμβαση Ρούμπιο",
+          "url": "https://www.kathimerini.gr/world/564544867/toyrkolivyko-mnimonio-to-ellinoamerikaniko-symvoylio-igesias-zita-paremvasi-roympio/",
+          "publishedAt": "2026-10-23T20:03:38+00:00",
+          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/2026-10-21T042229Z_1362986678_RC2G7OA8BXEC_RTRMADP_3_USA-RUBIO-INDIA-scaled-1.jpg"
+        },
+        {
+          "title": "Ουκρανικός πύραυλος έπληξε την πόλη Αριόλ στην κεντρική Ρωσία",
+          "url": "https://www.kathimerini.gr/world/564544162/oykranikos-pyraylos-eplixe-tin-poli-ariol-sti-kentriki-rosia/",
+          "publishedAt": "2026-10-23T19:56:00+00:00",
+          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/AP26217171007644-scaled.jpg"
+        },
+        {
+          "title": "Η Shein θα καταβάλει 100 εκατ. δολάρια για να κλείσει έρευνα στις ΗΠΑ",
           "url": "https://www.kathimerini.gr/world/564543700/i-shein-tha-katavallei-100-ekat-dolaria-gia-na-kleisei-ereyna-stis-ipa/",
           "publishedAt": "2026-10-23T19:46:36+00:00",
           "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/shutterstock_2077844101-scaled-1.jpg"
-        },
-        {
-          "title": "Γαλλία: Σε συναγερμό οι αρχές ενόψει νέου γύρου διαδηλώσεων – Κλειστά μουσεία, αναβάλλονται αγώνες",
-          "url": "https://www.kathimerini.gr/world/564544858/gallia-se-synagermo-oi-arches-enopsei-neoy-gyroy-diadiloseon-kleista-moyseia-anavallontai-agones/",
-          "publishedAt": "2026-10-23T19:38:14+00:00",
-          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/2026-10-22T171906Z_1245394877_RC225OAKEJPD_RTRMADP_3_EUROPE-BONDS-SELLOFF-1-scaled-1.jpg"
-        },
-        {
-          "title": "Ινδία: Εργαζόμενοι «εκπαιδεύουν» την AI βιντεοσκοπώντας τη δουλειά τους",
-          "url": "https://www.kathimerini.gr/world/564543583/india-ergazomenoi-ekpaideyoyn-tin-ai-vinteoskopontas-ti-doyleia-toys/",
-          "publishedAt": "2026-10-23T19:27:30+00:00",
-          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/shutterstock_2699947823-scaled-1.jpg"
-        },
-        {
-          "title": "Τα τοξικά απόνερα του πολέμου στο Ιράν",
-          "url": "https://www.kathimerini.gr/world/564543760/ta-toxika-aponera-toy-polemoy-sto-iran/",
-          "publishedAt": "2026-10-23T19:19:06+00:00",
-          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/shutterstock_2844971349-1.jpg"
-        },
-        {
-          "title": "Επιστολή Κύπρου στον ΟΗΕ: «Το τουρκολιβυκό μνημόνιο αγνοεί τα δικαιώματα των ελληνικών νησιών»",
-          "url": "https://www.kathimerini.gr/world/564544429/epistoli-kyproy-ston-oie-to-toyrkolivyko-mnimonio-agnoei-ta-dikaiomata-ton-ellinikon-nision/",
-          "publishedAt": "2026-10-23T19:09:25+00:00",
-          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/shutterstock_2598802609-scaled-2-1.jpg"
-        },
-        {
-          "title": "Γαλλία: Ο ύποπτος για την επίθεση στην Τραπ είχε παγιδεύσει το διαμέρισμά του",
-          "url": "https://www.kathimerini.gr/world/564544147/gallia-o-ypoptos-gia-tin-epithesi-stin-trap-eiche-pagideysei-to-diamerisma-toy/",
-          "publishedAt": "2026-10-23T18:54:00+00:00",
-          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/2026-10-23T132902Z_1791503896_RC219OA1BAHP_RTRMADP_3_FRANCE-SECURITY-SHOOTING-scaled-1-1-1.jpg"
-        },
-        {
-          "title": "Μπάσκετ: Προφυλακιστέος ο διαιτητής με τις 820.000 ευρώ",
-          "url": "https://www.kathimerini.gr/society/dikastiko/564544195/profylakistesos-o-diaititis-me-tis-820-000-eyro/",
-          "publishedAt": "2026-10-23T18:47:44+00:00",
-          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/shutterstock_2814867901-scaled.jpg"
-        },
-        {
-          "title": "Καλώδιο Κρήτης – Κύπρου: Απέπλευσε από τη Νάπολη το ερευνητικό σκάφος «Abeille Marengo»",
-          "url": "https://www.kathimerini.gr/politics/564544132/ilektriki-diasyndesi-kritis-kyproy-epanekkinisi-ton-ereynon-me-to-abeille-marengo/",
-          "publishedAt": "2026-10-23T18:45:30+00:00",
-          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/Screenshot_2026-10-14_183750-1-1.png"
-        },
-        {
-          "title": "ΑΙ: Η Wall Street προετοιμάζεται για το χειρότερο σενάριο",
-          "url": "https://www.kathimerini.gr/life/technology/564543616/ai-i-wall-street-proetoimazetai-gia-to-cheirotero-senario/",
-          "publishedAt": "2026-10-23T18:34:18+00:00",
-          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/shutterstock_2716695607-scaled-1.jpg"
-        },
-        {
-          "title": "Παναθηναϊκός: H «διδακτική νίκη» ήρθε στην ώρα της",
-          "url": "https://www.kathimerini.gr/athletics/analysis/564543841/panathinaikos-h-didaktiki-niki-irthe-stin-ora-tis/",
-          "publishedAt": "2026-10-23T18:30:36+00:00",
-          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/b6-15.jpg"
         }
       ],
-      "checkedAt": "2026-10-23T19:55:28.826030+00:00"
+      "checkedAt": "2026-10-23T23:04:28.242022+00:00"
     },
     {
       "id": "naftemporiki",
       "items": [
         {
-          "title": "Ο Τραμπ διαψεύδει τον Μπάρακ για επικείμενο πλήγμα στο Ιράν: «Δεν γνωρίζω τίποτα γι’ αυτό»",
-          "url": "https://www.naftemporiki.gr/kosmos/2179381/o-tramp-diapseydei-ton-mparak-gia-epikeimeno-pligma-sto-iran-den-gnorizo-tipota-gi-ayto/?utm_source=rss&utm_medium=rss&utm_campaign=o-tramp-diapseydei-ton-mparak-gia-epikeimeno-pligma-sto-iran-den-gnorizo-tipota-gi-ayto",
-          "publishedAt": "2026-10-23T19:36:52+00:00",
+          "title": "Κάλεσμα HALC σε Ρούμπιο να απορρίψει δημόσια το τουρκολιβυκό μνημόνιο",
+          "url": "https://www.naftemporiki.gr/kosmos/2179396/kalesma-halc-se-roympio-na-aporripsei-dimosia-to-toyrkolivyko-mnimonio/?utm_source=rss&utm_medium=rss&utm_campaign=kalesma-halc-se-roympio-na-aporripsei-dimosia-to-toyrkolivyko-mnimonio",
+          "publishedAt": "2026-10-23T21:02:37+00:00",
           "thumbnail": ""
         },
         {
-          "title": "Κ. Μητσοτάκης για επίθεση σε Ελληνορθόδοξη Εκκλησία στην Ιορδανία: Οφείλουμε να αντιμετωπίσουμε την τρομοκρατία",
-          "url": "https://www.naftemporiki.gr/politics/2179380/k-mitsotakis-gia-epithesi-se-ellinorthodoxi-ekklisia-stin-iordania-ofeiloyme-na-antimetopisoyme-tin-tromokratia-kai-na-exaleipsoyme-ton-fanatismo/?utm_source=rss&utm_medium=rss&utm_campaign=k-mitsotakis-gia-epithesi-se-ellinorthodoxi-ekklisia-stin-iordania-ofeiloyme-na-antimetopisoyme-tin-tromokratia-kai-na-exaleipsoyme-ton-fanatismo",
-          "publishedAt": "2026-10-23T19:23:15+00:00",
+          "title": "Moody’s: «Ανάσα» για τη Γαλλία, δεν υποβάθμισε το αξιόχρεο – Αρνητικές οι προοπτικές, «καμπανάκι» για το χρέος",
+          "url": "https://www.naftemporiki.gr/finance/world/2179397/moodys-anasa-gia-ti-gallia-den-ypovathmise-to-axiochreo-arnitikes-oi-prooptikes-kampanaki-gia-to-chreos/?utm_source=rss&utm_medium=rss&utm_campaign=moodys-anasa-gia-ti-gallia-den-ypovathmise-to-axiochreo-arnitikes-oi-prooptikes-kampanaki-gia-to-chreos",
+          "publishedAt": "2026-10-23T21:02:33+00:00",
           "thumbnail": ""
         },
         {
-          "title": "Στη Ρωσία την επόμενη εβδομάδα ο Πεζεσκιάν – Θα συναντηθεί με τον Πούτιν",
-          "url": "https://www.naftemporiki.gr/kosmos/2179378/sti-rosia-tin-epomeni-evdomada-o-pezeskian-tha-synantithei-me-ton-poytin/?utm_source=rss&utm_medium=rss&utm_campaign=sti-rosia-tin-epomeni-evdomada-o-pezeskian-tha-synantithei-me-ton-poytin",
-          "publishedAt": "2026-10-23T19:18:28+00:00",
+          "title": "Αργεντινή: Στο αρχείο η υπόθεση κατά Μιλέι για την υπόθεση του $LIBRA",
+          "url": "https://www.naftemporiki.gr/kosmos/2179395/argentini-sto-archeio-i-ypothesi-kata-milei-gia-tin-ypothesi-toy-libra/?utm_source=rss&utm_medium=rss&utm_campaign=argentini-sto-archeio-i-ypothesi-kata-milei-gia-tin-ypothesi-toy-libra",
+          "publishedAt": "2026-10-23T20:54:05+00:00",
           "thumbnail": ""
         },
         {
-          "title": "«No Boundaries. Just Art»: Η πρώτη έκθεση του Αλέξανδρου Μπουλμάγκα στο ΝΥΧ Εsperia",
-          "url": "https://www.naftemporiki.gr/society/2179375/no-boundaries-just-art-i-proti-ekthesi-toy-alexandroy-mpoylmagka-sto-nych-esperia/?utm_source=rss&utm_medium=rss&utm_campaign=no-boundaries-just-art-i-proti-ekthesi-toy-alexandroy-mpoylmagka-sto-nych-esperia",
-          "publishedAt": "2026-10-23T19:14:35+00:00",
+          "title": "Wall Street: Σε αρνητικό έδαφος και οι τρεις δείκτες",
+          "url": "https://www.naftemporiki.gr/finance/markets/2179394/wall-street-se-arnitiko-edafos-kai-oi-treis-deiktes/?utm_source=rss&utm_medium=rss&utm_campaign=wall-street-se-arnitiko-edafos-kai-oi-treis-deiktes",
+          "publishedAt": "2026-10-23T20:34:44+00:00",
           "thumbnail": ""
         },
         {
-          "title": "Προφυλακιστέος ο πρώην διαιτητής Πέτρος Παπαπέτρου με τα 820.000 ευρώ στο σπίτι: «Το ποσό μαζεύτηκε από αναλήψεις»",
-          "url": "https://www.naftemporiki.gr/sports/2179374/profylakisteos-o-diaititis-dasarchis-me-ta-820-000-eyro-sto-spiti-to-poso-mazeytike-apo-analipseis/?utm_source=rss&utm_medium=rss&utm_campaign=profylakisteos-o-diaititis-dasarchis-me-ta-820-000-eyro-sto-spiti-to-poso-mazeytike-apo-analipseis",
-          "publishedAt": "2026-10-23T19:04:25+00:00",
+          "title": "Ολυμπιακός – Φενέρμπαχτσε 61-64: Από το +16 στην ήττα, με μοιραίο το τελευταίο σουτ",
+          "url": "https://www.naftemporiki.gr/sports/2179392/olympiakos-fenermpachtse-61-64-apo-to-16-stin-itta-me-moiraio-to-teleytaio-soyt/?utm_source=rss&utm_medium=rss&utm_campaign=olympiakos-fenermpachtse-61-64-apo-to-16-stin-itta-me-moiraio-to-teleytaio-soyt",
+          "publishedAt": "2026-10-23T20:30:13+00:00",
           "thumbnail": ""
         },
         {
-          "title": "Μαρκ Κιούμπαν: Οι πράκτορες τεχνητής νοημοσύνης που επιδίδονται σε παραβιάσεις είναι σαν τις κατσαρίδες, αλλά μπορούν να ελεγχθούν",
-          "url": "https://www.naftemporiki.gr/kosmos/2179372/mark-kioympan-oi-praktores-technitis-noimosynis-poy-epididontai-se-paraviaseis-einai-san-tis-katsarides-alla-mporoyn-na-elegchthoyn/?utm_source=rss&utm_medium=rss&utm_campaign=mark-kioympan-oi-praktores-technitis-noimosynis-poy-epididontai-se-paraviaseis-einai-san-tis-katsarides-alla-mporoyn-na-elegchthoyn",
-          "publishedAt": "2026-10-23T19:01:43+00:00",
+          "title": "ΗΠΑ: Άρση δασμών για συγκεκριμένες εισαγωγές από Καναδά ενόψει ενδιάμεσων εκλογών",
+          "url": "https://www.naftemporiki.gr/finance/world/2179391/ipa-arsi-dasmon-gia-sygkekrimenes-eisagoges-apo-kanada-enopsei-endiameson-eklogon/?utm_source=rss&utm_medium=rss&utm_campaign=ipa-arsi-dasmon-gia-sygkekrimenes-eisagoges-apo-kanada-enopsei-endiameson-eklogon",
+          "publishedAt": "2026-10-23T20:20:54+00:00",
           "thumbnail": ""
         },
         {
-          "title": "Ακάθεκτο το πετρέλαιο «χτύπησε» 117 δολάρια το βαρέλι ενώ πυκνώνουν τα σύννεφα πολέμου",
-          "url": "https://www.naftemporiki.gr/finance/markets/2179348/akathekto-to-petrelaio-chtypise-117-dolaria-to-vareli-eno-pyknonoyn-ta-synnefa-polemoy/?utm_source=rss&utm_medium=rss&utm_campaign=akathekto-to-petrelaio-chtypise-117-dolaria-to-vareli-eno-pyknonoyn-ta-synnefa-polemoy",
-          "publishedAt": "2026-10-23T18:45:59+00:00",
+          "title": "Κένυα: Ανακοίνωσε δεύτερο θάνατο από έμπολα",
+          "url": "https://www.naftemporiki.gr/kosmos/2179388/kenya-anakoinose-deytero-thanato-apo-empola/?utm_source=rss&utm_medium=rss&utm_campaign=kenya-anakoinose-deytero-thanato-apo-empola",
+          "publishedAt": "2026-10-23T20:15:08+00:00",
           "thumbnail": ""
         },
         {
-          "title": "Γαλλία: Η Λε Πεν θα κέρδιζε εύκολα με 70% τον Μελανσόν στον δεύτερο γύρο, σύμφωνα με νέα δημοσκόπηση",
-          "url": "https://www.naftemporiki.gr/kosmos/2179368/gallia-i-le-pen-tha-kerdize-eykola-me-70-ton-melanson-ston-deytero-gyro-symfona-me-nea-dimoskopisi/?utm_source=rss&utm_medium=rss&utm_campaign=gallia-i-le-pen-tha-kerdize-eykola-me-70-ton-melanson-ston-deytero-gyro-symfona-me-nea-dimoskopisi",
-          "publishedAt": "2026-10-23T18:36:05+00:00",
+          "title": "S&P: Αμετάβλητη στο BBB η Ελλάδα – Σταθερές οι προοπτικές",
+          "url": "https://www.naftemporiki.gr/finance/economy/2179389/sp-ametavliti-sto-bbb-i-ellada-statheres-oi-prooptikes/?utm_source=rss&utm_medium=rss&utm_campaign=sp-ametavliti-sto-bbb-i-ellada-statheres-oi-prooptikes",
+          "publishedAt": "2026-10-23T20:13:29+00:00",
           "thumbnail": ""
         },
         {
-          "title": "Ουκρανικός Στρατός: Δηλώνει ότι θα διασφαλίσει την παροχή ανθρωπιστικής βοήθειας στην Ολέσκι",
-          "url": "https://www.naftemporiki.gr/kosmos/2179365/oykranikos-stratos-dilonei-oti-tha-diasfalisei-tin-parochi-anthropistikis-voitheias-stin-oleski/?utm_source=rss&utm_medium=rss&utm_campaign=oykranikos-stratos-dilonei-oti-tha-diasfalisei-tin-parochi-anthropistikis-voitheias-stin-oleski",
-          "publishedAt": "2026-10-23T18:30:25+00:00",
+          "title": "Καιρός: Ηλιοφάνεια το Σάββατο, έρχονται βροχές από την Κυριακή",
+          "url": "https://www.naftemporiki.gr/society/2179385/kairos-iliofaneia-to-savvato-erchontai-vroches-apo-tin-kyriaki/?utm_source=rss&utm_medium=rss&utm_campaign=kairos-iliofaneia-to-savvato-erchontai-vroches-apo-tin-kyriaki",
+          "publishedAt": "2026-10-23T20:00:04+00:00",
           "thumbnail": ""
         },
         {
-          "title": "Βρετανία: Ο ιδιοκτήτης της Telegraph προαναγγέλλει «δύσκολες επιλογές», ΜΜΕ κάνουν λόγο για απολύσεις",
-          "url": "https://www.naftemporiki.gr/kosmos/2179366/vretania-o-idioktitis-tis-telegraph-proanaggellei-dyskoles-epiloges-mme-kanoyn-logo-gia-apolyseis/?utm_source=rss&utm_medium=rss&utm_campaign=vretania-o-idioktitis-tis-telegraph-proanaggellei-dyskoles-epiloges-mme-kanoyn-logo-gia-apolyseis",
-          "publishedAt": "2026-10-23T18:15:30+00:00",
+          "title": "Εκεχειρία στην Ολέσκι: Ο ουκρανικός στρατός ανακοίνωσε ότι ξεκινάει από τα ξημερώματα της Τρίτης",
+          "url": "https://www.naftemporiki.gr/kosmos/2179384/ekecheiria-stin-oleski-o-oykranikos-stratos-anakoinose-oti-xekinaei-apo-ta-ximeromata-tis-tritis/?utm_source=rss&utm_medium=rss&utm_campaign=ekecheiria-stin-oleski-o-oykranikos-stratos-anakoinose-oti-xekinaei-apo-ta-ximeromata-tis-tritis",
+          "publishedAt": "2026-10-23T19:55:29+00:00",
           "thumbnail": ""
         }
       ],
-      "checkedAt": "2026-10-23T19:55:29.517620+00:00"
+      "checkedAt": "2026-10-23T23:04:28.837476+00:00"
     },
     {
       "id": "ert",
       "items": [
         {
-          "title": "Τραμπ: Μπορεί να πραγματοποιήσουμε ακόμη μια επιχείρηση στο Ιράν",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/tramp-mporei-na-pragmatopoiisoume-akomi-mia-epixeirisi-sto-iran/",
-          "publishedAt": "2026-10-23T19:45:09+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/ap26296694625725-scaled.jpg"
+          "title": "Η Ολυμπιονίκης και παγκόσμια πρωταθλήτρια στον Μαραθώνιο Τζεπτσιρτσίρ βρέθηκε θετική σε έλεγχο ντόπινγκ",
+          "url": "https://www.ertnews.gr/athlitismos/i-olympionikis-kai-pagkosmia-protathlitria-ston-marathonio-tzeptsirtsir-vrethike-thetiki-se-elegxo-ntopingk/",
+          "publishedAt": "2026-10-23T22:52:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/jepchirchir-peres.jpg"
         },
         {
-          "title": "Ανησυχία για τον προπονητή της Μπάγερν Κομπανί που κατέρρευσε στην προπόνηση – Τι αναφέρει η διοίκηση του βαυαρικού συλλόγου",
-          "url": "https://www.ertnews.gr/athlitismos/anisyxia-gia-ton-proponiti-tis-mpagern-kompani-pou-katerreyse-stin-proponisi-ti-anaferei-i-dioikisi-tou-vayarikou-syllogou/",
-          "publishedAt": "2026-10-23T19:42:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/kompany-vincent-2026.jpg"
+          "title": "ΟΗΕ: Επείγουσα ανάγκη ανθρωπιστικής βοήθειας στην πολιορκημένη Ταΐζ της Υεμένης",
+          "url": "https://www.ertnews.gr/eidiseis/oie-epeigousa-anagki-anthropistikis-voitheias-stin-poliorkimeni-taiz-tis-yemenis/",
+          "publishedAt": "2026-10-23T22:36:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/taiz-yemen.jpg"
         },
         {
-          "title": "ΟΗΕ: Καταδίκη της τρομοκρατικής επίθεσης στην Ορθόδοξη εκκλησία του Αγ. Γεωργίου στην Ιορδανία",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/oie-katadiki-tis-tromokratikis-epithesis-stin-orthodoksi-ekklisia-tou-ag-georgiou-stin-iordania/",
-          "publishedAt": "2026-10-23T19:40:05+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/000-d48x36d-scaled.jpg"
+          "title": "Οικουμενικός Πατριάρχης: Ηχηρό μήνυμα κατά της τρομοκρατίας μετά την επίθεση στον ελληνορθόδοξο Ναό της Ιορδανίας",
+          "url": "https://www.ertnews.gr/eidiseis/oikoumenikos-patriarxis-ixiro-minyma-kata-tis-tromokratias-meta-tin-epithesi-ston-ellinorthodokso-nao-tis-iordanias/",
+          "publishedAt": "2026-10-23T22:20:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/w23-16452031121589-768x432-1.jpg"
         },
         {
-          "title": "Τομ Μπάρακ: Πιθανό ένα πλήγμα στο Ιράν ακόμη και αυτό το Σαββατοκύριακο",
-          "url": "https://www.ertnews.gr/eidiseis/tom-mparak-pithano-ena-pligma-sto-iran-akomi-kai-ayto-to-savvatokyriako/",
-          "publishedAt": "2026-10-23T19:32:20+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/ap25230384756231.jpg"
+          "title": "Μπαρτζώκας: «Το ροτέισόν μας δεν είχε μεγάλο βάθος, χάσαμε τον ρυθμό μας στην επίθεση»",
+          "url": "https://www.ertnews.gr/athlitismos/mpartzokas-to-roteison-mas-den-eixe-megalo-vathos-xasame-ton-rythmo-mas-stin-epithesi/",
+          "publishedAt": "2026-10-23T22:04:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/bartzokas1_.jpg"
         },
         {
-          "title": "Mητσοτάκης: Καταδικάζω απερίφραστα την τρομοκρατική επίθεση στην Ελληνορθόδοξη Εκκλησία του Αγίου Γεωργίου στην Κάρακ της Ιορδανίας",
-          "url": "https://www.ertnews.gr/eidiseis/ellada/politiki/mitsotakis-katadikazo-aperifrasta-tin-tromokratiki-epithesi-stin-ellinorthodoksi-ekklisia-tou-agiou-georgiou-stin-karak-tis-iordanias/",
-          "publishedAt": "2026-10-23T19:17:22+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/03/mitsotakis-eurok-768x512-1.jpg"
+          "title": "«Η Χάιντι και τα βουνά» του Ανδρέα Φλουράκη στο Web Radio του Εθνικού Θεάτρου",
+          "url": "https://www.ertnews.gr/eidiseis/i-xainti-kai-ta-vouna-tou-andrea-flouraki-sto-web-radio-tou-ethnikou-theatrou/",
+          "publishedAt": "2026-10-23T21:56:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/38b63af9-5768-4e08-b31d-d13201c11d88.jpeg"
         },
         {
-          "title": "Βουλγαρία: Σάλος από τη βίαιη απώθηση δημοσιογράφου – Παραιτήθηκε ο επικεφαλής της Εθνικής Υπηρεσίας Ασφαλείας",
-          "url": "https://www.ertnews.gr/eidiseis/voulgaria-salos-apo-ti-viaii-apothisi-dimosiografou-paraitithike-o-epikefalis-tis-ethnikis-ypiresias-asfaleias/",
-          "publishedAt": "2026-10-23T19:03:24+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/stigmiotypo-othonis-2026-10-23-220127-e1792782146318.png"
+          "title": "Ρωσία: Τρία τάνκερ με ντίζελ κατευθύνονται προς τη Βόρεια Αμερική",
+          "url": "https://www.ertnews.gr/eidiseis/rosia-tria-tanker-me-ntizel-kateythynontai-pros-ti-voreia-ameriki/",
+          "publishedAt": "2026-10-23T21:47:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/000-d44b7uv-768x512-1.jpg"
         },
         {
-          "title": "Μακρόν: Σημείο καμπής για τη Δημοκρατία και τη χώρα, η τρομοκρατική επίθεση στην Τραπ",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/makron-simeio-kampis-gia-ti-dimokratia-kai-ti-xora-i-tromokratiki-epithesi-stin-trap/",
-          "publishedAt": "2026-10-23T18:58:41+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/000-d49f4cv-scaled.jpg"
+          "title": "S&P: Επιβεβαίωσε το ελληνικό αξιόχρεο στη βαθμίδα ΒΒΒ με σταθερές προοπτικές",
+          "url": "https://www.ertnews.gr/eidiseis/s-p-epivevaiose-to-elliniko-aksioxreo-sti-vathmida-vvv-me-statheres-prooptikes-2/",
+          "publishedAt": "2026-10-23T21:35:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/standard-poors-sp-768x430-1.jpg"
         },
         {
-          "title": "Επιστολή της Κυπριακής Δημοκρατίας στον ΟΕΗ για το τουρκολιβυκό μνημόνιο",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/epistoli-tis-kypriakis-dimokratias-ston-oei-gia-to-tourkolivyko-mnimonio/",
-          "publishedAt": "2026-10-23T18:56:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/03/ap26049586730183.jpg"
+          "title": "Η Μίλαν στο πλευρό του Μενιάν μετά τις ρατσιστικές επιθέσεις στο ματς με την Μπόρνμουθ",
+          "url": "https://www.ertnews.gr/athlitismos/i-milan-sto-pleyro-tou-menian-meta-tis-ratsistikes-epitheseis-sto-mats-me-tin-mpornmouth/",
+          "publishedAt": "2026-10-23T21:29:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/maignan-mike-2026.jpg"
         },
         {
-          "title": "Basketgate: Προφυλακίστηκε ο πρώην διαιτητής Πέτρος Παπαπέτρου",
-          "url": "https://www.ertnews.gr/athlitismos/basketgate-profylakistike-o-proin-diaititis-petros-papapetrou/",
-          "publishedAt": "2026-10-23T18:47:17+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/6858052-scaled-e1792781954409.jpg"
+          "title": "Τραμπ – Μασκ – Ζελένσκι: Ποιος κατηγορεί ποιον στη διαμάχη για τις δυσλειτουργίες του στρατιωτικού Starlink",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/tramp-mask-zelenski-poios-katigorei-poion-sti-diamaxi-gia-tis-dysleitourgies-tou-stratiotikou-starlink/",
+          "publishedAt": "2026-10-23T21:14:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/04/starlink-spacex.jpg"
         },
         {
-          "title": "Αντίστροφη μέτρηση για την επανέναρξη των ερευνών για το καλώδιο ηλεκτρικής διασύνδεσης",
-          "url": "https://www.ertnews.gr/eidiseis/antistrofi-metrisi-gia-tin-epanenarksi-ton-ereynon-gia-to-kalodio-ilektrikis-diasyndesis/",
-          "publishedAt": "2026-10-23T18:30:52+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/stigmiotypo-othonis-2026-10-23-212723.png"
+          "title": "Προτροπή από το Συμβούλιο Ελληνοαμερικανικής Ηγεσίας προς τον Μάρκο Ρούμπιο να απορρίψει δημόσια το τουρκολιβυκό μνημόνιο",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/protropi-apo-to-symvoulio-ellinoamerikanikis-igesias-pros-ton-marko-roumpio-na-aporripsei-dimosia-to-tourkolivyko-mnimonio/",
+          "publishedAt": "2026-10-23T20:50:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/rubio-768x512-1.jpg"
         }
       ],
-      "checkedAt": "2026-10-23T19:55:30.892697+00:00"
+      "checkedAt": "2026-10-23T23:04:29.793782+00:00"
     },
     {
       "id": "olympia",
       "items": [
+        {
+          "title": "24 Οκτωβρίου: Ψυχοσάββατο Αγίου Δημητρίου Ονόματα υπέρ αναπαύσεως",
+          "url": "https://www.olympia.gr/1671581/viral/24-oktovrioy-psychosavvato-agioy-dimitrioy-onomata-yper-anapayseos/",
+          "publishedAt": "2026-10-23T21:50:46+00:00",
+          "thumbnail": ""
+        },
+        {
+          "title": "Παρέμβαση κόλαφος της Μαρίας Δεναξα μέσα στην νύχτα: Η Ούρσουλα φον ντερ Λαιεν, σε πλήρες ντελίριο!",
+          "url": "https://www.olympia.gr/1671580/apopsi/paremvasi-kolafos-tis-marias-denaxa-mesa-stin-nychta-i-oyrsoyla-fon-nter-laien-se-plires-ntelirio/",
+          "publishedAt": "2026-10-23T21:00:07+00:00",
+          "thumbnail": ""
+        },
         {
           "title": "Ιδού ο εγκέφαλος του «καρφώματος» της Κίμπερλι!",
           "url": "https://www.olympia.gr/1671575/diethni/idoy-o-egkefalos-toy-karfomatos-tis-kimperli/",
@@ -248,88 +260,76 @@
           "url": "https://www.olympia.gr/1671567/diethni/aigyptos-giati-ekleise-i-ollandiki-presveia-sto-kairo/",
           "publishedAt": "2026-10-23T15:40:27+00:00",
           "thumbnail": ""
-        },
-        {
-          "title": "Εγκυμοσύνη και αύξηση βάρους",
-          "url": "https://www.olympia.gr/1671566/ygeia/egkymosyni-kai-ayxisi-varoys/",
-          "publishedAt": "2026-10-23T15:20:31+00:00",
-          "thumbnail": ""
-        },
-        {
-          "title": "Σφαγή Χριστιανών από τουρκοψυχους  ισλαμοφασιστες στην Ιορδανία",
-          "url": "https://www.olympia.gr/1671564/diethni/sfagi-christianon-apo-toyrkopsychoys-islamofasistes-stin-iordania/",
-          "publishedAt": "2026-10-23T15:00:44+00:00",
-          "thumbnail": ""
         }
       ],
-      "checkedAt": "2026-10-23T19:55:31.756167+00:00"
+      "checkedAt": "2026-10-23T23:04:30.448587+00:00"
     },
     {
       "id": "onsports",
       "items": [
         {
-          "title": "Βγήκε η απόφαση: Προφυλακίστηκε ο Πέτρος Παπαπέτρου για το Λιόλιος Gate",
-          "url": "https://www.onsports.gr/basket/basket-league/story/876171/vgike-i-apofasi-profylakizetai-o-petros-papapetrou-gia-to-liolios-gate",
-          "publishedAt": "2026-10-23T18:50:58+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/23/971446bb-5219530.jpg?t=HHMAjDlsqRekzfH8mKh7Gg"
+          "title": "Μπαρτζώκας: «Δεν ελέγξαμε τα συναισθήματά μας στα κρίσιμα σημεία» - Τι είπε για Κόντσαρ και Εντιάι",
+          "url": "https://www.onsports.gr/basket/euroleague/story/876183/bartzokas-den-elegksame-ta-synaisthimata-mas-sta-krisima-simeia-ti-eipe-gia-kontsar-kai-entiai",
+          "publishedAt": "2026-10-23T21:36:08+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/storage/2026/10/24/024a2b18-ipoundiiiiiiiiii-iiiiii-2026-10-24-003409.png?t=-0DEGmx250XI2l8bTryYKQ"
         },
         {
-          "title": "Ολυμπιακός: Κυκλοφορούν την Κυριακή (25/10) τα εισιτήρια με τη Μαρκό για το Κύπελλο Ελλάδας",
-          "url": "https://www.onsports.gr/podosfairo/story/876154/olympiakos-kykloforoyn-tin-kyriaki-25-10-ta-eisitiria-me-ti-marko",
-          "publishedAt": "2026-10-23T18:10:52+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/23/7127839.jpg?t=GS97iIBDf9LKHh2Zr8Jiug"
+          "title": "Λάρκιν: «Έτσι χτίζονται οι πρωταθλητές - Σπουδαίος χαρακτήρας και μεγάλη νίκη»",
+          "url": "https://www.onsports.gr/basket/euroleague/story/876181/larkin-etsi-xtizontai-oi-protathlites-spoudaios-xaraktiras-kai-megali-niki",
+          "publishedAt": "2026-10-23T21:12:31+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/23/4503c2c5-7134769.jpg?t=ObzhE97kcBN04QTAz6VTZg"
         },
         {
-          "title": "Λιόλιος Gate: Τι ανέφερε ο Πέτρος Παπαπέτρου στην απολογία του για τα χρήματα",
-          "url": "https://www.onsports.gr/basket/basket-league/story/876168/liolios-gate-ti-anefere-o-petros-papapetrou-stin-apologia-tou-gia-ta-xrimata",
-          "publishedAt": "2026-10-23T18:03:17+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/23/f9cbe5c2-5219384.jpg?t=M51WNDLOMWHYPvkIuggrFw"
+          "title": "Γιασικεβίτσιους για το Λιόλιος Gate: «Θέλουμε καθαρό το μπάσκετ, η υπόθεση να φτάσει μέχρι τέλους»",
+          "url": "https://www.onsports.gr/basket/euroleague/story/876180/giasikevitsious-gia-to-liolios-gate-theloume-katharo-to-basket-i-ypothesi-na-ftasei-mexri-telous",
+          "publishedAt": "2026-10-23T21:07:05+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/24/6684c4b3-7134633.jpg?t=x8pNmzMdCbKby8EZzx6rvw"
         },
         {
-          "title": "Κατάθεση... φωτιά: «Πώς ο Λιόλιος, ο Μαυραγάνης και ο Κορομηλάς έστησαν τον \"στρατό\" στη διαιτησία»",
-          "url": "https://www.onsports.gr/basket/story/876167/katathesi-fotia-pos-o-liolios-o-mavraganis-kai-o-koromilas-estisan-ton-strato-sti-diaitisia",
-          "publishedAt": "2026-10-23T17:56:43+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/21/0c173ccc-liolios.jpg?t=WdZ_gUkSr54NGVgjp-JEJw"
+          "title": "Βαθμολογία EuroLeague: Στην κορυφή ο Παναθηναϊκός AKTOR, υποχώρησε ο Ολυμπιακός",
+          "url": "https://www.onsports.gr/basket/euroleague/story/876179/vathmologia-euroleague-stin-koryfi-o-panathinaikos-aktor-ypoxorise-o-olympiakos",
+          "publishedAt": "2026-10-23T20:58:54+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/23/a54c8082-7134801.jpg?t=MItn-adqaqZ_--_oW_hUXA"
         },
         {
-          "title": "Μαργαρίτα Θάνου στον ANT1: «Ο Παναθηναϊκός φώναζε χρόνια με στοιχεία» (vid)",
-          "url": "https://www.onsports.gr/basket/story/876166/margarita-thanou-ston-ant1-o-panathinaikos-fonaze-xronia-me-stoixeia-vid",
-          "publishedAt": "2026-10-23T17:44:30+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/23/b7feff5b-image.jpg?t=FVnJ3gAxY91KIBmC2Tt6xg"
+          "title": "Παρί – Βαλένθια 93-104: Επέστρεψε στις νίκες με επιθετικό ρεσιτάλ",
+          "url": "https://www.onsports.gr/basket/euroleague/story/876178/pari---valenthia-93-104-epestrepse-stis-nikes-me-epithetiko-resital",
+          "publishedAt": "2026-10-23T20:54:19+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/23/6ea5cd24-32523903.jpg?t=zzGacuXAZEs38MTwaZEI1g"
         },
         {
-          "title": "Λιόλιος Gate: Έρχονται νέες συλλήψεις διαιτητών!",
-          "url": "https://www.onsports.gr/basket/basket-league/story/876165/liolios-gate-erxontai-nees-syllipseis-diaititon",
-          "publishedAt": "2026-10-23T17:28:01+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/23/2236cb11-2138542.jpg?t=rUZKbjdkZotD8Rsucbk5Jg"
+          "title": "Ολυμπιακός - Φενέρμπαχτσε: Τα highlights από τη δεύτερη ήττα των «ερυθρόλευκων» στη ΕuroLeague (vid)",
+          "url": "https://www.onsports.gr/basket/euroleague/video/876177/olympiakos-fenermpaxtse-ta-highlights-apo-ti-deyteri-itta-ton-erythrolefkon-sti-euroleague-vid",
+          "publishedAt": "2026-10-23T20:53:24+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/23/36b58892-5401376.jpg?t=zoTihr5jJ9aYn6EwoJ738A"
         },
         {
-          "title": "Σκάνδαλο στο μπάσκετ: Το ένταλμα σύλληψης του Βαγγέλη Λιόλου και οι 49 κατηγορίες που αντιμετωπίζει",
-          "url": "https://www.onsports.gr/basket/story/876164/skandalo-sto-basket-to-entalma-syllipsis-tou-vaggeli-liolou-kai-oi-49-katigories-pou-antimetopizei",
-          "publishedAt": "2026-10-23T17:27:21+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/23/liolios.jpg?t=Ax29K8xk4pNKTHp0iHaVkw"
+          "title": "Μπαρτζώκας: «Το ματς κρίθηκε από μια δυο αποφάσεις»",
+          "url": "https://www.onsports.gr/basket/euroleague/story/876176/bartzokas-to-mats-krithike-apo-mia-dyo-apofaseis",
+          "publishedAt": "2026-10-23T20:41:14+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/23/49e06c40-bartzokas.jpg?t=ylK9yHNrt7WzVkq_RexVrQ"
         },
         {
-          "title": "Σάκοτα: «Πρέπει να βελτιωθούμε - Να αλλάξουμε πρόσωπο ως ομάδα»",
-          "url": "https://www.onsports.gr/basket/basket-league/story/876146/sakota-prepei-na-veltiothoyme-na-allaksoume-prosopo-os-omada",
-          "publishedAt": "2026-10-23T17:23:49+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/03/6824863e-6986576.jpg?t=4sdXTwMHdwD2YsrT5tlWSQ"
+          "title": "Παναιτωλικός: Με απουσίες στο ματς με την ΑΕΚ",
+          "url": "https://www.onsports.gr/podosfairo/superleague/story/876169/panaitolikos-me-apousies-sto-mats-me-tin-aek",
+          "publishedAt": "2026-10-23T20:31:42+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/23/25e5e9c6-5392432.jpg?t=xc-ticY9klCHv8TjgZWQbA"
         },
         {
-          "title": "Ο δημοσιογράφος Σπύρος Καβαλιεράτος από το στενό κύκλο Λιόλιου εκτός Sport24",
-          "url": "https://www.onsports.gr/basket/story/876163/o-dimosiografos-spyros-kavalieratos-apo-to-steno-kyklo-lioliou-ektos-sport24",
-          "publishedAt": "2026-10-23T17:21:29+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/23/adedf111-1bd1599c-liolios-vaggelis-4.jpg?t=m81axUn7jmskg9kZmR3r6w"
+          "title": "Ολυμπιακός - Φενέρ 61-64: «Black-out» στο φινάλε και δεύτερη ήττα για τους «λαβωμένους» Πειραιώτες",
+          "url": "https://www.onsports.gr/basket/euroleague/story/876175/olympiakos-fener-61-64-black-out-sto-finale-kai-deyteri-itta-gia-tous-lavomenous-peiraiotes",
+          "publishedAt": "2026-10-23T20:22:33+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/23/0549e45b-5401397.jpg?t=L4jbNkctsrDaLHRDroJEjw"
         },
         {
-          "title": "Μαρούσι: Ζητά αποβολή του Προμηθέα από το πρωτάθλημα, καθαίρεση Μήλα και καταθέτει μηνύσεις",
-          "url": "https://www.onsports.gr/basket/story/876162/maroysi-zita-apovoli-tou-promithea-apo-to-protathlima-kathairesi-mila-kai-katathetei-minyseis",
-          "publishedAt": "2026-10-23T17:15:20+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/23/00ae4fea-ezgif-anakoinosi.jpg?t=5j76zmzF59bXTW3anIPkXg"
+          "title": "Συνήγορος Παπαπέτρου: «Σαθρό κατηγορητήριο, θα αποδειχθεί η αθωότητά του»",
+          "url": "https://www.onsports.gr/basket/basket-league/story/876174/synigoros-papapetrou-sathro-katigoritirio-tha-apodeixthei-i-athootita-tou",
+          "publishedAt": "2026-10-23T19:51:39+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/23/5a25dd72-4709502.jpg?t=jQUJQXZNuDH5L8zff2XDZw"
         }
       ],
-      "checkedAt": "2026-10-23T19:55:32.026679+00:00"
+      "checkedAt": "2026-10-23T23:04:30.726136+00:00"
     }
   ],
-  "savedAt": "2026-10-23T19:55:32.026691+00:00"
+  "savedAt": "2026-10-23T23:04:30.726144+00:00"
 }
