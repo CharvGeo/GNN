@@ -64,7 +64,7 @@
           "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/shutterstock_2077844101-scaled-1.jpg"
         }
       ],
-      "checkedAt": "2026-10-23T23:04:28.242022+00:00"
+      "checkedAt": "2026-10-24T01:31:59.543329+00:00"
     },
     {
       "id": "naftemporiki",
@@ -130,77 +130,95 @@
           "thumbnail": ""
         }
       ],
-      "checkedAt": "2026-10-23T23:04:28.837476+00:00"
+      "checkedAt": "2026-10-24T01:31:59.715404+00:00"
     },
     {
       "id": "ert",
       "items": [
         {
-          "title": "Η Ολυμπιονίκης και παγκόσμια πρωταθλήτρια στον Μαραθώνιο Τζεπτσιρτσίρ βρέθηκε θετική σε έλεγχο ντόπινγκ",
-          "url": "https://www.ertnews.gr/athlitismos/i-olympionikis-kai-pagkosmia-protathlitria-ston-marathonio-tzeptsirtsir-vrethike-thetiki-se-elegxo-ntopingk/",
-          "publishedAt": "2026-10-23T22:52:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/jepchirchir-peres.jpg"
+          "title": "Αργεντινή: Ταυτοποιήθηκαν τα λείψανα οκτώ εξαφανισθέντων επί δικτατορίας",
+          "url": "https://www.ertnews.gr/eidiseis/argentini-taytopoiithikan-ta-leipsana-okto-eksafanisthenton-epi-diktatorias/",
+          "publishedAt": "2026-10-24T01:22:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/argentini.jpg"
         },
         {
-          "title": "ΟΗΕ: Επείγουσα ανάγκη ανθρωπιστικής βοήθειας στην πολιορκημένη Ταΐζ της Υεμένης",
-          "url": "https://www.ertnews.gr/eidiseis/oie-epeigousa-anagki-anthropistikis-voitheias-stin-poliorkimeni-taiz-tis-yemenis/",
-          "publishedAt": "2026-10-23T22:36:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/taiz-yemen.jpg"
+          "title": "Κένυα: Επτά αγνοούμενοι από την κατάρρευση 16ώροφου κτιρίου στο Ναϊρόμπι",
+          "url": "https://www.ertnews.gr/eidiseis/kenya-epta-agnooumenoi-apo-tin-katarreysi-16orofou-ktiriou-sto-nairompi/",
+          "publishedAt": "2026-10-24T01:05:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/nairobi1.jpg"
         },
         {
-          "title": "Οικουμενικός Πατριάρχης: Ηχηρό μήνυμα κατά της τρομοκρατίας μετά την επίθεση στον ελληνορθόδοξο Ναό της Ιορδανίας",
-          "url": "https://www.ertnews.gr/eidiseis/oikoumenikos-patriarxis-ixiro-minyma-kata-tis-tromokratias-meta-tin-epithesi-ston-ellinorthodokso-nao-tis-iordanias/",
-          "publishedAt": "2026-10-23T22:20:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/w23-16452031121589-768x432-1.jpg"
+          "title": "Ο Ροναλντίνιο ξαναφορά ποδοσφαιρικά παπούτσια στα 46 του – Η συμφωνία με τη Ραβένα",
+          "url": "https://www.ertnews.gr/athlitismos/o-ronalntinio-ksanafora-podosfairika-papoutsia-sta-46-tou-i-symfonia-me-ti-ravena/",
+          "publishedAt": "2026-10-24T00:48:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/ap17118755943316.jpg"
         },
         {
-          "title": "Μπαρτζώκας: «Το ροτέισόν μας δεν είχε μεγάλο βάθος, χάσαμε τον ρυθμό μας στην επίθεση»",
-          "url": "https://www.ertnews.gr/athlitismos/mpartzokas-to-roteison-mas-den-eixe-megalo-vathos-xasame-ton-rythmo-mas-stin-epithesi/",
-          "publishedAt": "2026-10-23T22:04:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/bartzokas1_.jpg"
+          "title": "Δυτική Όχθη: Ισραηλινή επιχείρηση στη Χεβρώνα μετά την επίθεση με δύο νεκρούς στρατιώτες",
+          "url": "https://www.ertnews.gr/eidiseis/dytiki-oxthi-israilini-epixeirisi-sti-xevrona-meta-tin-epithesi-me-dyo-nekrous-stratiotes/",
+          "publishedAt": "2026-10-24T00:32:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/ap23185631778937-768x512-1.jpg"
         },
         {
-          "title": "«Η Χάιντι και τα βουνά» του Ανδρέα Φλουράκη στο Web Radio του Εθνικού Θεάτρου",
-          "url": "https://www.ertnews.gr/eidiseis/i-xainti-kai-ta-vouna-tou-andrea-flouraki-sto-web-radio-tou-ethnikou-theatrou/",
-          "publishedAt": "2026-10-23T21:56:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/38b63af9-5768-4e08-b31d-d13201c11d88.jpeg"
+          "title": "ΟΗΕ: Νέα υποψηφιότητα από τα ΗΑΕ για τη θέση του Γενικού Γραμματέα – Αποσύρθηκε ο Μακί Σαλ",
+          "url": "https://www.ertnews.gr/eidiseis/oie-nea-ypopsifiotita-apo-ta-iae-gia-ti-thesi-tou-genikou-grammatea-aposyrthike-o-maki-sal/",
+          "publishedAt": "2026-10-24T00:14:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/lana-nusseibeh.jpg"
         },
         {
-          "title": "Ρωσία: Τρία τάνκερ με ντίζελ κατευθύνονται προς τη Βόρεια Αμερική",
-          "url": "https://www.ertnews.gr/eidiseis/rosia-tria-tanker-me-ntizel-kateythynontai-pros-ti-voreia-ameriki/",
-          "publishedAt": "2026-10-23T21:47:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/000-d44b7uv-768x512-1.jpg"
+          "title": "Πεζεσκιάν – Πούτιν: Συνάντηση στη Μόσχα στο περιθώριο της συνόδου για το φυσικό αέριο",
+          "url": "https://www.ertnews.gr/eidiseis/pezeskian-poutin-synantisi-sti-mosxa-sto-perithorio-tis-synodou-gia-to-fysiko-aerio/",
+          "publishedAt": "2026-10-23T23:58:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/putin-1536x970-1-768x485-1.jpg"
         },
         {
-          "title": "S&P: Επιβεβαίωσε το ελληνικό αξιόχρεο στη βαθμίδα ΒΒΒ με σταθερές προοπτικές",
-          "url": "https://www.ertnews.gr/eidiseis/s-p-epivevaiose-to-elliniko-aksioxreo-sti-vathmida-vvv-me-statheres-prooptikes-2/",
-          "publishedAt": "2026-10-23T21:35:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/standard-poors-sp-768x430-1.jpg"
+          "title": "Ελ Σαλβαδόρ: Στέλνει ειδικές δυνάμεις στην Αϊτή για τον εντοπισμό τεσσάρων αγνοούμενων στρατιωτικών",
+          "url": "https://www.ertnews.gr/eidiseis/el-salvador-stelnei-eidikes-dynameis-stin-aiti-gia-ton-entopismo-tessaron-agnooumenon-stratiotikon/",
+          "publishedAt": "2026-10-23T23:41:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/haiti.jpg"
         },
         {
-          "title": "Η Μίλαν στο πλευρό του Μενιάν μετά τις ρατσιστικές επιθέσεις στο ματς με την Μπόρνμουθ",
-          "url": "https://www.ertnews.gr/athlitismos/i-milan-sto-pleyro-tou-menian-meta-tis-ratsistikes-epitheseis-sto-mats-me-tin-mpornmouth/",
-          "publishedAt": "2026-10-23T21:29:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/maignan-mike-2026.jpg"
+          "title": "Ρούμπιο: Καλεί τους Κουβανούς να συνεργαστούν με τη CIA «για να δημιουργήσουν θετική αλλαγή»",
+          "url": "https://www.ertnews.gr/eidiseis/roumpio-kalei-tous-kouvanous-na-synergastoun-me-ti-cia-gia-na-dimiourgisoun-thetiki-allagi/",
+          "publishedAt": "2026-10-23T23:24:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/marko-rubio-768x512-1.jpg"
         },
         {
-          "title": "Τραμπ – Μασκ – Ζελένσκι: Ποιος κατηγορεί ποιον στη διαμάχη για τις δυσλειτουργίες του στρατιωτικού Starlink",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/tramp-mask-zelenski-poios-katigorei-poion-sti-diamaxi-gia-tis-dysleitourgies-tou-stratiotikou-starlink/",
-          "publishedAt": "2026-10-23T21:14:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/04/starlink-spacex.jpg"
+          "title": "Έμπολα: Νεκρή και δεύτερη ασθενής στην Κένυα – Σε νοσηλεία Ελβετίδα στη Νιγηρία",
+          "url": "https://www.ertnews.gr/eidiseis/empola-nekri-kai-deyteri-asthenis-stin-kenya-se-nosileia-elvetida-sti-nigiria/",
+          "publishedAt": "2026-10-23T23:16:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/kenya3.jpg"
         },
         {
-          "title": "Προτροπή από το Συμβούλιο Ελληνοαμερικανικής Ηγεσίας προς τον Μάρκο Ρούμπιο να απορρίψει δημόσια το τουρκολιβυκό μνημόνιο",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/protropi-apo-to-symvoulio-ellinoamerikanikis-igesias-pros-ton-marko-roumpio-na-aporripsei-dimosia-to-tourkolivyko-mnimonio/",
-          "publishedAt": "2026-10-23T20:50:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/rubio-768x512-1.jpg"
+          "title": "Ουγκάντα: Μπλοκάρει τη διέλευση ταξιδιωτών με ιστορικό ταξιδιού στη ΛΔ Κονγκό λόγω Έμπολα",
+          "url": "https://www.ertnews.gr/eidiseis/ougkanta-mplokarei-ti-dieleysi-taksidioton-me-istoriko-taksidiou-sti-ld-kongko-logo-empola/",
+          "publishedAt": "2026-10-23T23:08:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/ebola-uganda.jpg"
         }
       ],
-      "checkedAt": "2026-10-23T23:04:29.793782+00:00"
+      "checkedAt": "2026-10-24T01:32:00.653746+00:00"
     },
     {
       "id": "olympia",
       "items": [
+        {
+          "title": "Σκάνδαλο στο ελληνικό μπάσκετ: Απέναντι στους κατηγορουμένους και ο θρύλος του ελληνικού αθλητισμού Παναγιώτης Γιαννάκης",
+          "url": "https://www.olympia.gr/1671588/ellada/skandalo-sto-elliniko-mpasket-apenanti-stoys-katigoroymenoys-kai-o-panagiotis-giannakis/",
+          "publishedAt": "2026-10-24T00:51:49+00:00",
+          "thumbnail": ""
+        },
+        {
+          "title": "Σκάνδαλο στο Μπάσκετ: Κατάθεση – φωτιά για στήσιμο του Προμηθέας – Λαύριο από Λιόλιο και Μαυραγάνη",
+          "url": "https://www.olympia.gr/1671587/ellada/skandalo-sto-mpasket-katathesi-fotia-gia-stisimo-toy-promitheas-layrio-apo-liolio-kai-mayragani/",
+          "publishedAt": "2026-10-24T00:43:10+00:00",
+          "thumbnail": ""
+        },
+        {
+          "title": "Ζητούσε Costa Navarino και SPA! Η καταγγελία για τα ακριβά γούστα της διαιτητή που σαρώνει  – Η δικογραφία από το σκάνδαλο στο ελληνικό μπάσκετ",
+          "url": "https://www.olympia.gr/1671585/ellada/zitoyse-costa-navarino-kai-spa-i-kataggelia-gia-ta-akriva-goysta-tis-diaititi-poy-saronei-apo-skandalo-sto-elliniko-mpasket/",
+          "publishedAt": "2026-10-24T00:31:15+00:00",
+          "thumbnail": ""
+        },
         {
           "title": "24 Οκτωβρίου: Ψυχοσάββατο Αγίου Δημητρίου Ονόματα υπέρ αναπαύσεως",
           "url": "https://www.olympia.gr/1671581/viral/24-oktovrioy-psychosavvato-agioy-dimitrioy-onomata-yper-anapayseos/",
@@ -242,31 +260,19 @@
           "url": "https://www.olympia.gr/1671576/amyna/askisi-elladas-israil-dokimes-ton-pyraylon-spike-nlos-kai-er-me-symmetochi-koryfaion-axiomatoychon-kai-monadon-ton-dyo-polemikon-naytikon/",
           "publishedAt": "2026-10-23T16:40:20+00:00",
           "thumbnail": ""
-        },
-        {
-          "title": "Σωτήρης Τσαφούλιας: Ο Ελληνας «μάγκας της τηλεόρασης»  που έριξε πόρτα στο Χόλυγουντ",
-          "url": "https://www.olympia.gr/1671572/viral/sotiris-tsafoylias-o-ellinas-magkas-tis-tileorasis-quot-poy-erixe-porta-sto-cholygoynt/",
-          "publishedAt": "2026-10-23T16:20:14+00:00",
-          "thumbnail": ""
-        },
-        {
-          "title": "Πέρασε το νομοσχέδιο για την απαγόρευση της χρήσης των social media από νέους",
-          "url": "https://www.olympia.gr/1671570/media/perase-to-nomoschedio-gia-tin-apagoreysi-tis-chrisis-ton-social-media-apo-neoys/",
-          "publishedAt": "2026-10-23T16:00:20+00:00",
-          "thumbnail": ""
-        },
-        {
-          "title": "Αίγυπτος: Γιατί έκλεισε η ολλανδική πρεσβεία στο Κάιρο",
-          "url": "https://www.olympia.gr/1671567/diethni/aigyptos-giati-ekleise-i-ollandiki-presveia-sto-kairo/",
-          "publishedAt": "2026-10-23T15:40:27+00:00",
-          "thumbnail": ""
         }
       ],
-      "checkedAt": "2026-10-23T23:04:30.448587+00:00"
+      "checkedAt": "2026-10-24T01:32:00.953527+00:00"
     },
     {
       "id": "onsports",
       "items": [
+        {
+          "title": "Premier League: Πήρε βαθμό η Νότιγχαμ στην έδρα της Ίπσουιτς",
+          "url": "https://www.onsports.gr/podosfairo/story/876184/premier-league-pire-vathmo-i-notigxam-stin-edra-tis-ipsouits",
+          "publishedAt": "2026-10-23T23:05:46+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/24/330410c4-hvvs9elxcae6miw.jfif?t=iPrHBoNDsexeJzgALkr1Pg"
+        },
         {
           "title": "Μπαρτζώκας: «Δεν ελέγξαμε τα συναισθήματά μας στα κρίσιμα σημεία» - Τι είπε για Κόντσαρ και Εντιάι",
           "url": "https://www.onsports.gr/basket/euroleague/story/876183/bartzokas-den-elegksame-ta-synaisthimata-mas-sta-krisima-simeia-ti-eipe-gia-kontsar-kai-entiai",
@@ -320,16 +326,10 @@
           "url": "https://www.onsports.gr/basket/euroleague/story/876175/olympiakos-fener-61-64-black-out-sto-finale-kai-deyteri-itta-gia-tous-lavomenous-peiraiotes",
           "publishedAt": "2026-10-23T20:22:33+00:00",
           "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/23/0549e45b-5401397.jpg?t=L4jbNkctsrDaLHRDroJEjw"
-        },
-        {
-          "title": "Συνήγορος Παπαπέτρου: «Σαθρό κατηγορητήριο, θα αποδειχθεί η αθωότητά του»",
-          "url": "https://www.onsports.gr/basket/basket-league/story/876174/synigoros-papapetrou-sathro-katigoritirio-tha-apodeixthei-i-athootita-tou",
-          "publishedAt": "2026-10-23T19:51:39+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/23/5a25dd72-4709502.jpg?t=jQUJQXZNuDH5L8zff2XDZw"
         }
       ],
-      "checkedAt": "2026-10-23T23:04:30.726136+00:00"
+      "checkedAt": "2026-10-24T01:32:01.069664+00:00"
     }
   ],
-  "savedAt": "2026-10-23T23:04:30.726144+00:00"
+  "savedAt": "2026-10-24T01:32:01.069674+00:00"
 }
