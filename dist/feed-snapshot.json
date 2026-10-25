@@ -64,7 +64,7 @@
           "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/DOC.20261023.107155658.s22_241026akinita-anakainish.jpg"
         }
       ],
-      "checkedAt": "2026-10-24T22:07:41.505271+00:00"
+      "checkedAt": "2026-10-25T00:23:05.006282+00:00"
     },
     {
       "id": "naftemporiki",
@@ -130,11 +130,59 @@
           "thumbnail": ""
         }
       ],
-      "checkedAt": "2026-10-24T22:07:42.225603+00:00"
+      "checkedAt": "2026-10-25T00:23:05.620763+00:00"
     },
     {
       "id": "ert",
       "items": [
+        {
+          "title": "ΗΠΑ: Πυρκαγιά σε εργοστάσιο της Quaker Oats στην Αϊόβα",
+          "url": "https://www.ertnews.gr/eidiseis/ipa-pyrkagia-se-ergostasio-tis-quaker-oats-stin-aiova/",
+          "publishedAt": "2026-10-24T23:49:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/quaker-oats.jpg"
+        },
+        {
+          "title": "Αϊτή: Βρέθηκαν οι σοροί τεσσάρων στρατιωτών από το Ελ Σαλβαδόρ που είχαν πέσει σε ενέδρα",
+          "url": "https://www.ertnews.gr/eidiseis/aiti-vrethikan-oi-soroi-tessaron-stratioton-apo-to-el-salvador-pou-eixan-pesei-se-enedra/",
+          "publishedAt": "2026-10-24T23:33:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/strartiotes-salvador.jpg"
+        },
+        {
+          "title": "Νιγηρία: Τουλάχιστον 20 νεκροί από επίθεση ενόπλων σε χωριό στην πολιτεία Ταράμπα",
+          "url": "https://www.ertnews.gr/eidiseis/nigiria-toulaxiston-20-nekroi-apo-epithesi-enoplon-se-xorio-stin-politeia-tarampa/",
+          "publishedAt": "2026-10-24T23:15:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/nigeria.jpg"
+        },
+        {
+          "title": "Αναφορές για ισχυρές εκρήξεις στη νότια Υεμένη",
+          "url": "https://www.ertnews.gr/eidiseis/anafores-gia-isxyres-ekrikseis-sti-notia-yemeni/",
+          "publishedAt": "2026-10-24T23:04:17+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/ap26226687153183-768x512-1-1.jpg"
+        },
+        {
+          "title": "Formula 1: Ο Αντονέλι πήρε την pole position στο Grand Prix των ΗΠΑ και βλέπει τον τίτλο",
+          "url": "https://www.ertnews.gr/athlitismos/formula-1-o-antoneli-pire-tin-pole-position-sto-grand-prix-ton-ipa-kai-vlepei-ton-titlo/",
+          "publishedAt": "2026-10-24T22:59:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/antonelli.jpg"
+        },
+        {
+          "title": "Σαουδική Αραβία: Αναχαιτίστηκε drone πάνω από το Ριάντ",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/saoudiki-aravia-anaxaitistike-drone-pano-apo-to-riant/",
+          "publishedAt": "2026-10-24T22:43:42+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/alert-1-2.jpg"
+        },
+        {
+          "title": "Τραμπ: Ανοιχτό το ενδεχόμενο επίθεσης στο Ιράν ακόμη και αύριο, αλλά μπορεί να καταλήξουμε σε συμφωνία",
+          "url": "https://www.ertnews.gr/eidiseis/tramp-anoixto-to-endexomeno-epithesis-sto-iran-akomi-kai-ayrio-alla-mporei-na-kataliksoume-se-symfonia/",
+          "publishedAt": "2026-10-24T22:38:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/trump1.jpg"
+        },
+        {
+          "title": "Στην κορυφή η Λάτσιο του Μανδά – Νέα νίκη με πρωταγωνιστή τον Έλληνα τερματοφύλακα",
+          "url": "https://www.ertnews.gr/athlitismos/stin-koryfi-i-latsio-tou-manda-nea-niki-me-protagonisti-ton-ellina-termatofylaka/",
+          "publishedAt": "2026-10-24T22:21:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/lazzio.jpg"
+        },
         {
           "title": "Χούθι: Νέα προειδοποίηση για το αεροδρόμιο του Ριάντ – Το χαρακτηρίζουν «στρατιωτικό στόχο»",
           "url": "https://www.ertnews.gr/eidiseis/xouthi-nea-proeidopoiisi-gia-to-aerodromio-tou-riant-to-xaraktirizoun-stratiotiko-stoxo/",
@@ -146,57 +194,9 @@
           "url": "https://www.ertnews.gr/athlitismos/atletiko-madritis-apodokimasies-apo-tous-opadous-alla-niki-me-xryso-gkol-tou-alvares/",
           "publishedAt": "2026-10-24T21:47:00+00:00",
           "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/alvares.jpg"
-        },
-        {
-          "title": "Κοζάνη: Μια μεγάλη αγκαλιά αγάπης για επτά παιδιά με σοβαρά προβλήματα υγείας – Τα παιδιά τραγούδησαν για τα παιδιά",
-          "url": "https://www.ertnews.gr/eidiseis/kozani-mia-megali-agkalia-agapis-gia-epta-paidia-me-sovara-provlimata-ygeias-ta-paidia-tragoudisan-gia-ta-paidia/",
-          "publishedAt": "2026-10-24T21:31:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/kozani1.jpg"
-        },
-        {
-          "title": "Πετρούνιας: «Θα κάνω καιρό να κατέβω από το βάθρο, όταν το αποφασίσω εγώ»",
-          "url": "https://www.ertnews.gr/eidiseis/petrounias-tha-kano-kairo-na-katevo-apo-to-vathro-otan-to-apofasiso-ego/",
-          "publishedAt": "2026-10-24T21:14:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/petrounias-1.jpg"
-        },
-        {
-          "title": "ΗΠΑ: Ο Μπαράκ Ομπάμα εξαπέλυσε επίθεση στην κυβέρνηση Τραμπ και προέτρεψε τους ψηφοφόρους να ψηφίσουν «το συντομότερο δυνατόν»",
-          "url": "https://www.ertnews.gr/eidiseis/ipa-o-mparak-ompama-eksapelyse-epithesi-stin-kyvernisi-tramp-kai-proetrepse-tous-psifoforous-na-psifisoun-to-syntomotero-dynaton/",
-          "publishedAt": "2026-10-24T21:00:14+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/obama-scaled.jpg"
-        },
-        {
-          "title": "Ρωσία: Ο κυβερνήτης του Ομσκ λέει ότι η περιοχή δέχτηκε επίθεση από ουκρανικά μη επανδρωμένα αεροσκάφη",
-          "url": "https://www.ertnews.gr/eidiseis/rosia-o-kyvernitis-tou-omsk-leei-oti-i-perioxi-dextike-epithesi-apo-oukranika-mi-epandromena-aeroskafi/",
-          "publishedAt": "2026-10-24T20:48:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/08/ap24154686800953-1.jpg"
-        },
-        {
-          "title": "Οι γαλλικές αρχές παρατείνουν την κράτηση του υπόπτου για την επίθεση στο προάστιο Τραπ του Παρισιού",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/oi-gallikes-arxes-parateinoun-tin-kratisi-tou-ypoptou-gia-tin-epithesi-sto-proastio-trap-tou-parisiou/",
-          "publishedAt": "2026-10-24T20:31:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/000-d48797a-scaled.jpg"
-        },
-        {
-          "title": "Αλβανία: Οχτώ τραυματίες από τα άγρια επεισόδια στο κέντρο των Τιράνων",
-          "url": "https://www.ertnews.gr/eidiseis/alvania-oxto-traymaties-apo-ta-agria-epeisodia-sto-kentro-ton-tiranon/",
-          "publishedAt": "2026-10-24T20:21:48+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/000-d4bm6hl-scaled.jpg"
-        },
-        {
-          "title": "Ιράν: Σπάνια ανακοίνωση για συνάντηση του ανώτατου θρησκευτικού ηγέτη Μοτζταμπά Χαμενεΐ",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/iran-spania-anakoinosi-gia-synantisi-tou-anotatou-thriskeytikou-igeti-motztampa-xamenei/",
-          "publishedAt": "2026-10-24T20:16:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/03/ap26072451950446.jpg"
-        },
-        {
-          "title": "Με Γιάγκουσιτς στον Βόλο ο πρωτoπόρος Παναθηναϊκός",
-          "url": "https://www.ertnews.gr/athlitismos/me-giagkousits-ston-volo-o-protoporos-panathinaikos/",
-          "publishedAt": "2026-10-24T20:14:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/jagousic-2026.jpg"
         }
       ],
-      "checkedAt": "2026-10-24T22:07:43.628028+00:00"
+      "checkedAt": "2026-10-25T00:23:06.718776+00:00"
     },
     {
       "id": "olympia",
@@ -262,11 +262,17 @@
           "thumbnail": ""
         }
       ],
-      "checkedAt": "2026-10-24T22:07:44.400908+00:00"
+      "checkedAt": "2026-10-25T00:23:07.364386+00:00"
     },
     {
       "id": "onsports",
       "items": [
+        {
+          "title": "Στη Νέα Φιλαδέλφεια η ΑΕΚ κάνει τα πράγματα να φαίνονται απλά!",
+          "url": "https://www.onsports.gr/opinion/story/876294/sti-nea-filadelfeia-i-aek-kanei-ta-pragmata-na-fainontai-apla",
+          "publishedAt": "2026-10-24T22:35:36+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/24/65c339ba-7135931.jpg?t=2NGJ_LQUgiKRx_rH5u_l6g"
+        },
         {
           "title": "Ο Άλβαρες έκρινε την αναμέτρηση και κράτησε την Ατλέτικο κοντά στην κορυφή",
           "url": "https://www.onsports.gr/podosfairo/story/876293/o-alvares-ekrine-tin-anametrisi-kai-kratise-tin-atletiko-konta-stin-koryfi",
@@ -320,16 +326,10 @@
           "url": "https://www.onsports.gr/spor/story/876285/panathinaikos-no-xiou-23-10-epivlitiki-niki-me-epta-gol-tou-nikolaidi",
           "publishedAt": "2026-10-24T19:57:56+00:00",
           "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/24/42d021c7-5404107.jpg?t=iXucYjFIizrq-31FcbkCIQ"
-        },
-        {
-          "title": "ΑΕΚ – Παναιτωλικός: Τα highlights της «πεντάρας» των «κιτρινόμαυρων»",
-          "url": "https://www.onsports.gr/podosfairo/superleague/video/876284/aek-panaitolikos-ta-highlights-tis-pentaras-ton-kitrinomavron",
-          "publishedAt": "2026-10-24T19:48:07+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/24/39fe3c05-5404055.jpg?t=Ooq2hu4HFFX-EBCJsgxYwQ"
         }
       ],
-      "checkedAt": "2026-10-24T22:07:44.637498+00:00"
+      "checkedAt": "2026-10-25T00:23:07.719855+00:00"
     }
   ],
-  "savedAt": "2026-10-24T22:07:44.637509+00:00"
+  "savedAt": "2026-10-25T00:23:07.719868+00:00"
 }
