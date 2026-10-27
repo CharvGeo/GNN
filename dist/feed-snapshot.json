@@ -4,6 +4,18 @@
       "id": "kathimerini",
       "items": [
         {
+          "title": "Χρυσή Μπάλα: Κορυφαίος παίκτης για το 2026 ο Χάρι Κέιν",
+          "url": "https://www.kathimerini.gr/athletics/football/564550075/chrysi-mpala-koryfaios-paiktis-gia-to-2026-o-chari-kein/",
+          "publishedAt": "2026-10-26T22:58:18+00:00",
+          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/2026-10-26T225506Z_1425220547_UP1EMAQ1RNT4K_RTRMADP_3_SOCCER-BALLON-scaled-1.jpg"
+        },
+        {
+          "title": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα 27 Οκτωβρίου",
+          "url": "https://www.kathimerini.gr/eortologio/564506845/eortologio-poioi-giortazoyn-simera-27-oktovrioy/",
+          "publishedAt": "2026-10-26T22:00:00+00:00",
+          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/27.___.jpg"
+        },
+        {
           "title": "Ισοβίτης έκανε προσφυγή για να τρώει το αγαπημένο του πρωινό στη φυλακή",
           "url": "https://www.kathimerini.gr/world/564549136/isovitis-ekane-prosfygi-gia-na-troei-to-agapimeno-toy-proino-sti-fylaki/",
           "publishedAt": "2026-10-26T21:52:13+00:00",
@@ -50,25 +62,31 @@
           "url": "https://www.kathimerini.gr/world/564549385/koyveit-thanatiki-poini-se-treis-andres-gia-schedio-dolofonias-toy-antiproedroy-tis-kyvernisis/",
           "publishedAt": "2026-10-26T20:36:37+00:00",
           "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/AP110308150116-scaled-1.jpg"
-        },
-        {
-          "title": "Pizza Fan: Ελεύθεροι με περιοριστικούς όρους 5 από τους κατηγορουμένους",
-          "url": "https://www.kathimerini.gr/society/564549430/pizza-fan-eleytheroi-me-perioristikoys-oroys-5-apo-toys-katigoroymenoys/",
-          "publishedAt": "2026-10-26T20:26:21+00:00",
-          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/fb-pizza-fan-kentriki-e1792659361228_1_-1.jpg"
-        },
-        {
-          "title": "Σερβία: Ο Πούτιν τείνει χείρα συνεργασίας στη Φοιτητική Λίστα",
-          "url": "https://www.kathimerini.gr/world/564549184/servia-o-poytin-teinei-cheira-synergasias-sti-foititiki-lista/",
-          "publishedAt": "2026-10-26T20:08:12+00:00",
-          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/AP26298850572638-scaled-1.jpg"
         }
       ],
-      "checkedAt": "2026-10-26T21:56:09.567843+00:00"
+      "checkedAt": "2026-10-27T01:25:29.920781+00:00"
     },
     {
       "id": "naftemporiki",
       "items": [
+        {
+          "title": "Ολυμπιακός: Διπλή καταγγελία σε Euroleague και ΕΣΑΚΕ κατά Γιαννακόπουλου και Παναθηναϊκού",
+          "url": "https://www.naftemporiki.gr/sports/2180593/olympiakos-dipli-kataggelia-se-euroleague-kai-esake-kata-giannakopoyloy-kai-panathinaikoy/?utm_source=rss&utm_medium=rss&utm_campaign=olympiakos-dipli-kataggelia-se-euroleague-kai-esake-kata-giannakopoyloy-kai-panathinaikoy",
+          "publishedAt": "2026-10-26T22:09:00+00:00",
+          "thumbnail": ""
+        },
+        {
+          "title": "Ο Τραμπ χαρακτηρίζει «στημένες» τις προεδρικές εκλογές στη Βραζιλία",
+          "url": "https://www.naftemporiki.gr/kosmos/2180590/o-tramp-charaktirizei-stimenes-tis-proedrikes-ekloges-sti-vrazilia/?utm_source=rss&utm_medium=rss&utm_campaign=o-tramp-charaktirizei-stimenes-tis-proedrikes-ekloges-sti-vrazilia",
+          "publishedAt": "2026-10-26T22:00:59+00:00",
+          "thumbnail": ""
+        },
+        {
+          "title": "Από τη δωρεά οργάνων στα… μακάβρια «φίλτρα αγάπης για τα κύτταρα»: Η βιομηχανία εκατομμυρίων της  K-beauty",
+          "url": "https://www.naftemporiki.gr/finance/world/2180591/apo-ti-dorea-organon-sta-filtra-agapis-gia-ta-kyttara-i-viomichania-ekatommyrion-tis-k-beauty/?utm_source=rss&utm_medium=rss&utm_campaign=apo-ti-dorea-organon-sta-filtra-agapis-gia-ta-kyttara-i-viomichania-ekatommyrion-tis-k-beauty",
+          "publishedAt": "2026-10-26T22:00:10+00:00",
+          "thumbnail": ""
+        },
         {
           "title": "Κρίσιμες εκλογές στο Ισραήλ: Τα κύρια διακυβεύματα και οι πολιτικοί πρωταγωνιστές",
           "url": "https://www.naftemporiki.gr/kosmos/2180589/krisimes-ekloges-sto-israil-ta-kyria-diakyveymata-kai-oi-politikoi-protagonistes/?utm_source=rss&utm_medium=rss&utm_campaign=krisimes-ekloges-sto-israil-ta-kyria-diakyveymata-kai-oi-politikoi-protagonistes",
@@ -110,97 +128,97 @@
           "url": "https://www.naftemporiki.gr/kosmos/2180578/iordania-aeroporika-pligmata-sti-notia-syria-gia-tin-epithesi-ston-agio-georgio/?utm_source=rss&utm_medium=rss&utm_campaign=iordania-aeroporika-pligmata-sti-notia-syria-gia-tin-epithesi-ston-agio-georgio",
           "publishedAt": "2026-10-26T20:33:41+00:00",
           "thumbnail": ""
-        },
-        {
-          "title": "Ο Φλάβιο Μπολσονάρου καταγγέλλει ότι δικαστήριο τού απαγόρευσε να φύγει από τη Βραζιλία",
-          "url": "https://www.naftemporiki.gr/kosmos/2180576/o-flavio-mpolsonaroy-kataggellei-oti-dikastirio-toy-apagoreyse-na-fygei-apo-ti-vrazilia/?utm_source=rss&utm_medium=rss&utm_campaign=o-flavio-mpolsonaroy-kataggellei-oti-dikastirio-toy-apagoreyse-na-fygei-apo-ti-vrazilia",
-          "publishedAt": "2026-10-26T20:23:17+00:00",
-          "thumbnail": ""
-        },
-        {
-          "title": "Ποινική δίωξη με βαριές κατηγορίες στους 59 συλληφθέντες για την υπόθεση των αρτοποιείων Χωριάτικο",
-          "url": "https://www.naftemporiki.gr/society/2180573/poiniki-dioxi-me-varies-katigories-stoys-59-syllifthentes-gia-tin-ypothesi-ton-artopoieion-choriatiko/?utm_source=rss&utm_medium=rss&utm_campaign=poiniki-dioxi-me-varies-katigories-stoys-59-syllifthentes-gia-tin-ypothesi-ton-artopoieion-choriatiko",
-          "publishedAt": "2026-10-26T20:10:08+00:00",
-          "thumbnail": ""
-        },
-        {
-          "title": "Η Ρουμανία εξάρθρωσε ρωσικό δίκτυο δολιοφθορών στρατιωτικών και βιομηχανικών στόχων",
-          "url": "https://www.naftemporiki.gr/kosmos/2180570/i-roymania-exarthrose-rosiko-diktyo-doliofthoron-stratiotikon-kai-viomichanikon-stochon/?utm_source=rss&utm_medium=rss&utm_campaign=i-roymania-exarthrose-rosiko-diktyo-doliofthoron-stratiotikon-kai-viomichanikon-stochon",
-          "publishedAt": "2026-10-26T20:05:20+00:00",
-          "thumbnail": ""
         }
       ],
-      "checkedAt": "2026-10-26T21:56:10.280239+00:00"
+      "checkedAt": "2026-10-27T01:25:30.141773+00:00"
     },
     {
       "id": "ert",
       "items": [
         {
-          "title": "Κουβέιτ: Καταδικάστηκαν σε θάνατο τρεις άνδρες – Σχεδίαζαν να δολοφονήσουν υπουργό",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/kouveit-katadikastikan-se-thanato-treis-andres-sxediazan-na-dolofonisoun-ypourgo/",
-          "publishedAt": "2026-10-26T21:50:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/ap22045609229052.jpg"
+          "title": "Ελ Σαλβαδόρ: Καταγγελίες για εκατοντάδες θανάτους κρατουμένων στις φυλακές μετά την επιβολή κατάστασης έκτακτης ανάγκης",
+          "url": "https://www.ertnews.gr/eidiseis/el-salvador-kataggelies-gia-ekatontades-thanatous-kratoumenon-stis-fylakes-meta-tin-epivoli-katastasis-ektaktis-anagkis/",
+          "publishedAt": "2026-10-27T01:14:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/salvador.jpg"
         },
         {
-          "title": "ΚΑΕ Ολυμπιακός: Διπλή καταγγελία σε Euroleague και ΕΣΑΚΕ κατά Γιαννακόπουλου και Παναθηναϊκού",
-          "url": "https://www.ertnews.gr/athlitismos/kae-olympiakos-dipli-kataggelia-se-euroleague-kai-esake-kata-giannakopoulou-kai-panathinaikou/",
-          "publishedAt": "2026-10-26T21:42:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/06/olympiacos-2-1024x576-1.jpg"
+          "title": "Μεξικό: Αγνοείται 67χρονος καθολικός ιερωμένος στη Σιναλόα",
+          "url": "https://www.ertnews.gr/eidiseis/meksiko-agnoeitai-67xronos-katholikos-ieromenos-sti-sinaloa/",
+          "publishedAt": "2026-10-27T00:57:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/mexico.webp"
         },
         {
-          "title": "Ισραήλ: Οι βασικοί αντίπαλοι του Μπενιαμίν Νετανιάχου στις εκλογές",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/israil-oi-vasikoi-antipaloi-tou-mpeniamin-netaniaxou-stis-ekloges/",
-          "publishedAt": "2026-10-26T21:33:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/ap26298641579305-1-scaled.jpg"
+          "title": "Σεισμός 3,6 Ρίχτερ κοντά στην Ηγουμενίτσα",
+          "url": "https://www.ertnews.gr/eidiseis/seismos-3-6-rixter-konta-stin-igoumenitsa/",
+          "publishedAt": "2026-10-27T00:44:40+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/07/seismografos-5-1200x675-1.jpg"
         },
         {
-          "title": "Γκολ ο Παυλίδης, ανατροπή η Μπενφίκα",
-          "url": "https://www.ertnews.gr/athlitismos/gkol-o-paylidis-anatropi-i-mpenfika/",
-          "publishedAt": "2026-10-26T21:22:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/09/pavlidis.jpg"
+          "title": "Αρχιεπίσκοπος Αμερικής: Να στηρίζουμε την ελληνική εξωτερική πολιτική και να διαφυλάσσουμε την εθνική ενότητα",
+          "url": "https://www.ertnews.gr/eidiseis/arxiepiskopos-amerikis-na-stirizoume-tin-elliniki-eksoteriki-politiki-kai-na-diafylassoume-tin-ethniki-enotita/",
+          "publishedAt": "2026-10-27T00:42:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/elpidoforos-gerapetritis.jpg"
         },
         {
-          "title": "Ιορδανία: Αεροπορικά πλήγματα στη νότια Συρία – Στόχος «κρησφύγετα τρομοκρατών»",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/iordania-aeroporika-pligmata-sti-notia-syria-stoxos-krisfygeta-tromokraton/",
-          "publishedAt": "2026-10-26T21:15:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/f-16.jpg"
+          "title": "Ουκρανία: Ένας νεκρός και δέκα τραυματίες από ρωσικά πλήγματα στο Κίεβο",
+          "url": "https://www.ertnews.gr/eidiseis/oukrania-enas-nekros-kai-deka-traymaties-apo-rosika-pligmata-sto-kievo/",
+          "publishedAt": "2026-10-27T00:26:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/kiev.jpg"
         },
         {
-          "title": "«Χρυσή μπάλα»: Κορυφαίος νέος παίκτης της χρονιάς ο Λαμίν Γιαμάλ",
-          "url": "https://www.ertnews.gr/athlitismos/xrysi-mpala-koryfaios-neos-paiktis-tis-xronias-o-lamin-giamal/",
-          "publishedAt": "2026-10-26T21:09:43+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/yamal-best-talent-2026.jpg"
+          "title": "Βενεζουέλα: «Επικοινωνιακό σόου» η επιστροφή της Ματσάδο, λέει η Ροδρίγκες",
+          "url": "https://www.ertnews.gr/eidiseis/venezouela-epikoinoniako-soou-i-epistrofi-tis-matsado-leei-i-rodrigkes/",
+          "publishedAt": "2026-10-27T00:10:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/matsado2-768x508-1.jpg"
         },
         {
-          "title": "Ελληνικός Ερυθρός Σταυρός: Ευρείας κλίμακας εκπαίδευση για τον απεγκλωβισμό τραυματιών από τροχαία ατυχήματα",
-          "url": "https://www.ertnews.gr/eidiseis/ellada/ellinikos-erythros-stayros-eyreias-klimakas-ekpaideysi-gia-ton-apegklovismo-traymation-apo-troxaia-atyximata/",
-          "publishedAt": "2026-10-26T21:00:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/ees.jpg"
+          "title": "Συρία: Τρία παιδιά ανάμεσα στους οκτώ νεκρούς από τις ιορδανικές αεροπορικές επιδρομές",
+          "url": "https://www.ertnews.gr/eidiseis/syria-tria-paidia-anamesa-stous-okto-nekrous-apo-tis-iordanikes-aeroporikes-epidromes/",
+          "publishedAt": "2026-10-26T23:53:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/syria.jpg"
         },
         {
-          "title": "Υπόθεση Pizza Fan: Αφέθηκαν ελεύθεροι με περιοριστικούς όρους οι πρώτοι πέντε συλληφθέντες",
-          "url": "https://www.ertnews.gr/eidiseis/ypothesi-pizza-fan-afethikan-eleytheroi-me-perioristikous-orous-oi-protoi-pente-syllifthentes/",
-          "publishedAt": "2026-10-26T20:57:47+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/7132871-scaled.jpg"
+          "title": "Χρυσή Μπάλα 2026: Όλα τα βραβεία της 70ής τελετής στο Λονδίνο",
+          "url": "https://www.ertnews.gr/athlitismos/xrysi-mpala-2026-ola-ta-vraveia-tis-70is-teletis-sto-londino/",
+          "publishedAt": "2026-10-26T23:44:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/hrisi-bala.jpg"
         },
         {
-          "title": "Κεραμέως για Pizza Fan: Θα στηρίξουμε τους εργαζόμενους",
-          "url": "https://www.ertnews.gr/eidiseis/ellada/politiki/kerameos-gia-pizza-fan-tha-stiriksoume-tous-ergazomenous/",
-          "publishedAt": "2026-10-26T20:47:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/32520554-scaled.jpg"
+          "title": "Ιράν: «Πολύ καλές» οι συνομιλίες με Σαουδική Αραβία, Πακιστάν και Τουρκία, λέει ο Ρεζαΐ",
+          "url": "https://www.ertnews.gr/eidiseis/iran-poly-kales-oi-synomilies-me-saoudiki-aravia-pakistan-kai-tourkia-leei-o-rezai/",
+          "publishedAt": "2026-10-26T23:35:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/tehran-sinomilies.jpg"
         },
         {
-          "title": "Νέα Πέραμος: Χωρίς τις αισθήσεις του ανασύρθηκε 59χρονος μετά από πυρκαγιά σε φανοποιείο",
-          "url": "https://www.ertnews.gr/eidiseis/ellada/nea-peramos-xoris-tis-aisthiseis-tou-anasyrthike-59xronos-meta-apo-pyrkagia-se-fanopoieio/",
-          "publishedAt": "2026-10-26T20:34:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/09/ekav-1.jpg"
+          "title": "Κλείσιμο με άνοδο για το χρηματιστήριο της Νέας Υόρκης",
+          "url": "https://www.ertnews.gr/eidiseis/kleisimo-me-anodo-gia-to-xrimatistirio-tis-neas-yorkis-5/",
+          "publishedAt": "2026-10-26T23:18:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/ap24226472067979-768x466-1.jpg"
         }
       ],
-      "checkedAt": "2026-10-26T21:56:11.628620+00:00"
+      "checkedAt": "2026-10-27T01:25:31.018617+00:00"
     },
     {
       "id": "olympia",
       "items": [
+        {
+          "title": "Καβγάς Άδωνι – Ζωής με βαριές προσωπικές αιχμές",
+          "url": "https://www.olympia.gr/1671842/politiki/agrios-kavgas-adoni-zois-sti-voyli-poios-sas-katestrepse-kai-sas-ekane-tetoio-psonio-eisai-fasistas-i-kontra-gia-to-israil-kai-to-synthima-kai-a-kai-oy/",
+          "publishedAt": "2026-10-26T23:10:24+00:00",
+          "thumbnail": ""
+        },
+        {
+          "title": "Η μεγάλη ανατροπή στις εκλογές στη Σερβία",
+          "url": "https://www.olympia.gr/1671844/diethni/i-megali-anatropi-stis-ekloges-sti-servia/",
+          "publishedAt": "2026-10-26T23:00:53+00:00",
+          "thumbnail": ""
+        },
+        {
+          "title": "Άγρια κόντρα Πολάκη-Γεωργιάδη στη Βουλή και ραντεβού… στα Χανιά",
+          "url": "https://www.olympia.gr/1671840/politiki/agria-kontra-polaki-georgiadi-sti-voyli-kai-rantevoy-sta-chania-na-pareis-logisti-na-soy-krata-vivlia-aytos-me-to-choriatiko-tha-thelisei-na-sas-gnorisei/",
+          "publishedAt": "2026-10-26T22:14:08+00:00",
+          "thumbnail": ""
+        },
         {
           "title": "Πένθος για την οικογένεια της Ελένης Καρακάση",
           "url": "https://www.olympia.gr/1671837/viral/penthos-gia-tin-oikogeneia-tis-elenis-karakasi/",
@@ -242,94 +260,76 @@
           "url": "https://www.olympia.gr/1671822/apopsi/i-kypriaki-koyltoyra-yvreon-apenanti-stin-anagkaiotita-enos-iremoy-dialogoy/",
           "publishedAt": "2026-10-26T18:20:07+00:00",
           "thumbnail": ""
-        },
-        {
-          "title": "Άγιε, Μεγαλομάρτυς Δημήτριε, Χριστόν τον Θεόν ικέτευε, δωρήσασθαι ημίν το μέγα έλεος – To απολυτίκιον του Αγίου Δημητρίου",
-          "url": "https://www.olympia.gr/1671826/viral/agie-megalomartys-dimitrie-christon-ton-theon-iketeye-dorisasthai-imin-to-mega-eleos-to-apolytikion-toy-agioy-dimitrioy-3/",
-          "publishedAt": "2026-10-26T18:00:57+00:00",
-          "thumbnail": ""
-        },
-        {
-          "title": "WSJ: Οι ΗΠΑ προωθούν τον Όρμπαν για Γενικό Γραμματέα του ΟΗΕ ως κοινό υποψήφιο με τη Ρωσία και την Κίνα",
-          "url": "https://www.olympia.gr/1671816/diethni/wsj-oi-ipa-proothoyn-ton-ormpan-gia-geniko-grammatea-toy-oie-os-koino-ypopsifio-me-ti-rosia-kai-tin-kina/",
-          "publishedAt": "2026-10-26T17:40:50+00:00",
-          "thumbnail": ""
-        },
-        {
-          "title": "Σφαγή Ορθοδόξων Χριστιανών στην Ορόμια της Αιθιοπίας: Πάνω από 40 νεκροί σε επιθέσεις σε χωριά και εκκλησίες",
-          "url": "https://www.olympia.gr/1671818/ellada/sfagi-orthodoxon-christianon-stin-oromia-tis-aithiopias-pano-apo-40-nekroi-se-epitheseis-se-choria-kai-ekklisies/",
-          "publishedAt": "2026-10-26T17:20:09+00:00",
-          "thumbnail": ""
         }
       ],
-      "checkedAt": "2026-10-26T21:56:12.552633+00:00"
+      "checkedAt": "2026-10-27T01:25:31.677160+00:00"
     },
     {
       "id": "onsports",
       "items": [
         {
-          "title": "Ο ΛεΜπρόν Τζέιμς δεν θέλει να καθιερωθεί ως σέντερ στους Σίξερς",
-          "url": "https://www.onsports.gr/basket/nba/story/876486/o-lempron-tzeims-den-thelei-na-kathierothei-os-senter-stous-siksers",
-          "publishedAt": "2026-10-26T21:29:00+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/26/22ba44f7-ap26299622470554.jpg?t=wCpsdYtUYGaSRooKFnOXgw"
+          "title": "Επιστροφή στη G-League για τον Ομέρ Γιούρτσεβεν",
+          "url": "https://www.onsports.gr/basket/story/876488/epistrofi-sti-g-league-gia-ton-omer-giourtseven",
+          "publishedAt": "2026-10-27T00:23:04+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/26/bc65d2fe-6979017.jpg?t=mDBodV25W_pFNHVW5lv5Ow"
         },
         {
-          "title": "Κορυφαίος νέος για τρίτη συνεχόμενη χρονιά ο Γιαμάλ",
-          "url": "https://www.onsports.gr/podosfairo/story/876505/koryfaios-neos-gia-triti-synexomeni-xronia-o-giamal",
-          "publishedAt": "2026-10-26T21:21:00+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/26/6a82ec16-yamal.jpg?t=MuK-juTWzA3d5kfVp6J8AQ"
+          "title": "Χρυσή Μπάλα: Η κορυφή ανήκει στον Χάρι Κέιν",
+          "url": "https://www.onsports.gr/podosfairo/story/876513/xrysi-bala-i-koryfi-anikei-ston-xari-kein",
+          "publishedAt": "2026-10-26T23:10:41+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/27/06072a92-ap26299830089400.jpg?t=pTOvwGcoeOoBe7WMOgkIgA"
         },
         {
-          "title": "Δικηγόρος Κορομηλά: «Πραγματικά μία άδικη προσωρινή κράτηση»",
-          "url": "https://www.onsports.gr/basket/story/876504/dikigoros-koromila-pragmatika-mia-adiki-prosorini-kratisi",
-          "publishedAt": "2026-10-26T21:00:21+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/26/ead1c56b-5175548.jpg?t=ZNlu6VazT5045fjKEHClkg"
+          "title": "Αλέξια Πουτέγιας: Κατέκτησε για τρίτη φορά τη Χρυσή Μπάλα Γυναικών",
+          "url": "https://www.onsports.gr/podosfairo/story/876512/aleksia-poutegias-katektise-gia-triti-fora-ti-xrysi-bala-gynaikon",
+          "publishedAt": "2026-10-26T22:47:14+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/27/5fe270ee-ap26299815548511.jpg?t=nm3A1S6OBPf1krIdavPFiA"
         },
         {
-          "title": "Άρης: Ο Σούταλο συμπλήρωσε κίτρινες κάρτες - Χάνει ένα από τα επόμενα τέσσερα ματς",
-          "url": "https://www.onsports.gr/podosfairo/superleague/story/876487/aris-o-soytalo-symplirose-kitrines-kartes-xanei-ena-apo-ta-epomena-tessera-mats",
-          "publishedAt": "2026-10-26T20:58:00+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/26/6131a2bc-5406753.jpg?t=e5xEIcP7HxtBamj5cifJJw"
+          "title": "Χρυσή Μπάλα: Ο Χάρι Κέιν αναδείχθηκε κορυφαίος σέντερ φορ του 2026",
+          "url": "https://www.onsports.gr/podosfairo/story/876511/xrysi-bala-o-xari-kein-anadeixthike-koryfaios-senter-for-tou-2026",
+          "publishedAt": "2026-10-26T22:29:32+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/27/e6c42647-ap26299805448671.jpg?t=RBr80vkN1ksx2mqG_f2xNw"
         },
         {
-          "title": "Δικηγόρος Πηλοΐδη: «Τα στοιχεία της δικογραφίας ήταν ελλιπή»",
-          "url": "https://www.onsports.gr/basket/story/876503/dikigoros-piloidi-ta-stoixeia-tis-dikografias-itan-ellipi",
-          "publishedAt": "2026-10-26T20:44:50+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/26/51d651e9-4322502.jpg?t=ChT-yxHKe2omSC0xPFWvxA"
+          "title": "Χρυσή Μπάλα: Κορυφαία ομάδα της χρονιάς η Παρί Σεν Ζερμέν",
+          "url": "https://www.onsports.gr/podosfairo/story/876510/xrysi-bala-koryfaia-omada-tis-xronias-i-pari-sen-zermen",
+          "publishedAt": "2026-10-26T22:23:13+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/27/12f501d7-ap26224763813632.jpg?t=PbGcSc1aWBOXvYJM1qaAKQ"
         },
         {
-          "title": "Γιαννακόπουλος: «Όσοι υπερασπιζόσασταν τόσες φορές στα δικαστήρια δεν δυσφήμησαν το μπάσκετ;»",
-          "url": "https://www.onsports.gr/basket/story/876502/giannakopoulos-osoi-yperaspizosastan-toses-fores-sta-dikastiria-den-dysfimisan-to-basket",
-          "publishedAt": "2026-10-26T20:39:58+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/09/15/dpg-zots.jpg?t=Y3dDThuwkC-KdT9j2inq2w"
+          "title": "Χρυσή Μπάλα: Τιμήθηκε με το βραβείο Socrates o Μπουκάγιο Σάκα",
+          "url": "https://www.onsports.gr/podosfairo/story/876509/xrysi-bala-timithike-me-to-vraveio-socrates-o-boukagio-saka",
+          "publishedAt": "2026-10-26T22:16:28+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/27/88322830-ap26299784693805.jpg?t=VCwnDyt4_MHU-j_eWlhGmw"
         },
         {
-          "title": "Αστέρας Τρίπολης: Η αποστολή για το παιχνίδι με την Κηφισιά",
-          "url": "https://www.onsports.gr/podosfairo/story/876485/asteras-tripolis-i-apostoli-gia-to-paixnidi-me-tin-kifisia",
-          "publishedAt": "2026-10-26T20:27:00+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/26/antonopoulos.jpg?t=lQIopvcw7QFfOXr9nLWhwg"
+          "title": "Τζον Πουλακίδας: Στο training camp των Σαν Ντιέγκο Κλίπερς",
+          "url": "https://www.onsports.gr/basket/story/876508/tzon-poulakidas-sto-training-camp-ton-san-diegko-klipers",
+          "publishedAt": "2026-10-26T22:05:02+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/09/5dccd200-ap26099171988018.jpg?t=3kYk0Kn7DEeQuQbR6p8-OQ"
         },
         {
-          "title": "Ολυμπιακός: Συλλήψεις στο «Γ. Καραϊσκάκης» στον αγώνα με την Καλαμάτα",
-          "url": "https://www.onsports.gr/podosfairo/superleague/story/876501/olympiakos-syllipseis-sto-g-karaiskakis-ston-agona-me-tin-kalamata",
-          "publishedAt": "2026-10-26T20:09:59+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/26/e9e362ef-7051032.jpg?t=Yb29UU74GvUZptfz-utYfw"
+          "title": "Χρυσή Μπάλα: Κορυφαίος τερματοφύλακας της χρονιάς ο Ουνάι Σιμόν",
+          "url": "https://www.onsports.gr/podosfairo/story/876507/xrysi-bala-koryfaios-termatofylakas-tis-xronias-o-ounai-simon",
+          "publishedAt": "2026-10-26T21:57:48+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/26/5dc121a8-unai-simon.jpg?t=3G2P65iGB3dFUj5qZNMTwQ"
         },
         {
-          "title": "Δικηγόρος Τσαρούχα: «Ειμαι πολύ χαρούμενος»",
-          "url": "https://www.onsports.gr/basket/story/876500/dikigoros-tsaroyxa-eimai-poly-xaroymenos",
-          "publishedAt": "2026-10-26T20:01:55+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/26/f65876fb-5166080.jpg?t=f9TIyDJxP6QjF0TM5Smm6g"
+          "title": "Κηφισιά: Η αποστολή για την αναμέτρηση με τον Αστέρα AKTOR",
+          "url": "https://www.onsports.gr/podosfairo/story/876492/kifisia-i-apostoli-gia-tin-anametrisi-me-ton-astera-aktor",
+          "publishedAt": "2026-10-26T21:57:10+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/26/bf93eb0f-6778630.jpg?t=bRuVlvQUllYlvdzdUYep0w"
         },
         {
-          "title": "Μπέλιγχαμ: «Κερδίσαμε τη μάχη, ο πόλεμος συνεχίζεται» - Το μήνυμά του μετά τη νίκη στο «El Clasico»",
-          "url": "https://www.onsports.gr/podosfairo/story/876483/beligxam-kerdisame-ti-maxi-o-polemos-synexizetai-to-minyma-tou-meta-ti-niki-sto-el-clasico",
-          "publishedAt": "2026-10-26T19:56:00+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/26/25004893-snapinstato866363168186408904360625177162150839968546412n.jpg?t=jhVe5AQE1VPmUl3UNVtz1g"
+          "title": "Χρυσή Μπάλα: Κορυφαίος προπονητής για το 2026 ο Λουίς Ντε Λα Φουέντε",
+          "url": "https://www.onsports.gr/podosfairo/story/876506/koryfaios-proponitis-gia-to-2026-o-louis-de-la-fouente",
+          "publishedAt": "2026-10-26T21:48:36+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/26/974f3830-de-la-fuente.jpg?t=ZrqM5gg8VYBwRW6BdlloQA"
         }
       ],
-      "checkedAt": "2026-10-26T21:56:12.722606+00:00"
+      "checkedAt": "2026-10-27T01:25:31.798742+00:00"
     }
   ],
-  "savedAt": "2026-10-26T21:56:12.722617+00:00"
+  "savedAt": "2026-10-27T01:25:31.798754+00:00"
 }
