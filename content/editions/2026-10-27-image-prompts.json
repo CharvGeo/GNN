@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-27",
+  "editorial_focus": "28th October national defense readiness and deterrence, consumer & borrower protections on family property, and Antonis Samaras statecraft reflection from To Vima conference",
+  "prompts": [
+    {
+      "file": "dist/assets/2026-10-27/greek-defense-deterrence.jpg",
+      "slug": "apotropi-atzenta-2030-minyma-28is-oktovrioy-kyriarxia",
+      "prompt": "Hellenic Armed Forces ceremony and disciplined parade formation in Athens under the Greek national flag in crisp morning sunlight, documentary editorial photography, wide angle, institutional realism, respectful, no close-up faces",
+      "aspect_ratio": "16:9"
+    },
+    {
+      "file": "dist/assets/2026-10-27/greek-mortgage-property.jpg",
+      "slug": "nomosxedio-servicers-daneioliptes-diafaneia-oikogeneiaki-stegi",
+      "prompt": "A classic Greek residential neighborhood in Athens with neoclassical balconies, warm natural daylight, an architectural property deed blueprint and brass keys on a wooden table, documentary editorial style, no people, authentic Mediterranean atmosphere",
+      "aspect_ratio": "16:9"
+    },
+    {
+      "file": "dist/assets/2026-10-27/samaras-maximos-night.jpg",
+      "slug": "to-tilefonima-samara-ston-vladimiro-mesa-sti-nyxta",
+      "prompt": "The exterior neoclassical facade and courtyard of the Maximos Mansion in Athens at late night under dignified warm street lamps, quiet nocturnal atmosphere, editorial documentary photography, wide angle, authentic realistic setting, no people",
+      "aspect_ratio": "16:9"
+    }
+  ]
+}
