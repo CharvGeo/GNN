@@ -64,11 +64,17 @@
           "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/10/c5-17.jpg"
         }
       ],
-      "checkedAt": "2026-10-28T23:39:20.358197+00:00"
+      "checkedAt": "2026-10-29T02:56:32.104545+00:00"
     },
     {
       "id": "naftemporiki",
       "items": [
+        {
+          "title": "Τα ηλεκτρονικά συστήματα ασφαλείας στον ισπανικό σιδηρόδρομο, η αλυσίδα των λαθών και το τρένο «βολίδα»",
+          "url": "https://www.naftemporiki.gr/techscience/2181507/ta-ilektronika-systimata-asfaleias-ston-ispaniko-sidirodromo-i-alysida-ton-lathon-kai-to-treno-volida/?utm_source=rss&utm_medium=rss&utm_campaign=ta-ilektronika-systimata-asfaleias-ston-ispaniko-sidirodromo-i-alysida-ton-lathon-kai-to-treno-volida",
+          "publishedAt": "2026-10-29T02:47:54+00:00",
+          "thumbnail": ""
+        },
         {
           "title": "Ισπανία: Τα ηχητικά ντοκουμέντα της τραγωδίας",
           "url": "https://www.naftemporiki.gr/kosmos/2181505/ispania-ta-ichitika-ntokoymenta-tis-tragodias/?utm_source=rss&utm_medium=rss&utm_campaign=ispania-ta-ichitika-ntokoymenta-tis-tragodias",
@@ -122,19 +128,31 @@
           "url": "https://www.naftemporiki.gr/paraskiniaka/2181485/i-istoria-eipe-ochi-o-kasidiaris-den-to-katalave/?utm_source=rss&utm_medium=rss&utm_campaign=i-istoria-eipe-ochi-o-kasidiaris-den-to-katalave",
           "publishedAt": "2026-10-28T20:34:31+00:00",
           "thumbnail": ""
-        },
-        {
-          "title": "Ισραήλ: Και το δεύτερο αραβικό κόμμα κατά του Νετανιάχου – «Μπορούμε να μετάσχουμε σε κυβερνητικό συνασπισμό»",
-          "url": "https://www.naftemporiki.gr/kosmos/2181480/israil-kai-to-deytero-araviko-komma-kata-toy-netaniachoy-mporoyme-na-metaschoyme-se-kyvernitiko-synaspismo/?utm_source=rss&utm_medium=rss&utm_campaign=israil-kai-to-deytero-araviko-komma-kata-toy-netaniachoy-mporoyme-na-metaschoyme-se-kyvernitiko-synaspismo",
-          "publishedAt": "2026-10-28T20:24:23+00:00",
-          "thumbnail": ""
         }
       ],
-      "checkedAt": "2026-10-28T23:39:20.646054+00:00"
+      "checkedAt": "2026-10-29T02:56:32.382416+00:00"
     },
     {
       "id": "ert",
       "items": [
+        {
+          "title": "Σαουδική Αραβία: Aναχαιτίστηκε βαλλιστικός πύραυλος που εκτοξεύτηκε από την Υεμένη",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/saoudiki-aravia-anaxaitistike-vallistikos-pyraylos-pou-ektokseytike-apo-tin-yemeni/",
+          "publishedAt": "2026-10-29T02:19:22+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/ap26064806922405-1-scaled-e1772771882472-768x442-1-1-1.jpg"
+        },
+        {
+          "title": "Σιδηροδρομική τραγωδία: Σε τριήμερο πένθος η Ισπανία – Τρία ηχητικά ντοκουμέντα σε βάρος του κέντρου ελέγχου",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/sidirodromiki-tragodia-se-triimero-penthos-i-ispania-tria-ixitika-ntokoumenta-se-varos-tou-kentrou-elegxou/",
+          "publishedAt": "2026-10-29T01:26:53+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/000-d4p42t3.jpg"
+        },
+        {
+          "title": "Γιώργος Γεραπετρίτης: Η Ελλάδα δεν θα ανεχθεί παρανομίες στις θαλάσσιες ζώνες",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/politiki/giorgos-gerapetritis-i-ellada-den-tha-anexthei-paranomies-stis-thalassies-zones/",
+          "publishedAt": "2026-10-29T00:19:23+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/hvvzvmeweaa3sp9-scaled.jpg"
+        },
         {
           "title": "Wall Street Journal: Επιστολή Βανς στην Τεχεράνη «για να αποτραπεί αμερικανική επίθεση τις επόμενες εβδομάδες»",
           "url": "https://www.ertnews.gr/eidiseis/diethni/wall-street-journal-epistoli-vans-stin-texerani-gia-na-apotrapei-amerikaniki-epithesi-tis-epomenes-evdomades/",
@@ -142,7 +160,7 @@
           "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/ap26254080332301-768x512-1.jpg"
         },
         {
-          "title": "Σιδηροδρομική τραγωδία στην Ισπανία: Σοβαρά επεισόδια σε διαμαρτυρία έξω από το Υπουργείο μεταφορών στη Μαδρίτη",
+          "title": "Σιδηροδρομική τραγωδία στην Ισπανία: Σοβαρά επεισόδια σε διαμαρτυρία έξω από το Υπουργείο Μεταφορών στη Μαδρίτη",
           "url": "https://www.ertnews.gr/eidiseis/diethni/sidirodromiki-tragodia-stin-ispania-sovara-epeisodia-se-diamartyria-ekso-apo-to-ypourgeio-metaforon-sti-madriti/",
           "publishedAt": "2026-10-28T23:13:27+00:00",
           "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/24293d1d-5fe8-4002-bbc9-039008a8d05f-16-9-discover-aspect-ratio-default-0-x2760y1247-1.webp"
@@ -157,7 +175,7 @@
           "title": "Ασπρόπυργος: Ολοκληρώθηκε η μεταφορά προπανίου από το βυτιοφόρο που ανατράπηκε",
           "url": "https://www.ertnews.gr/eidiseis/ellada/aspropyrgos-oloklirothike-i-metafora-propaniou-apo-to-vytioforo-pou-anatrapike/",
           "publishedAt": "2026-10-28T22:25:19+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2024/09/pyrosvestis.png"
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/fotia-etaireia-anakyklosis-jpeg.webp"
         },
         {
           "title": "Χρυσοχοΐδης στο ΕΡΤnews: Το ελληνικό FBI έχει μια οσμή από το αμερικανικό – Ένα ανοργάνωτο κράτος δεν μπορεί να εξαρθρώσει το οργανωμένο έγκλημα",
@@ -176,31 +194,19 @@
           "url": "https://www.ertnews.gr/eidiseis/o-paok-fonakse-paron-sto-ntermpi-ton-dikefalon-gia-to-kypello-nikise-3-1-tin-aek-stin-toumpa/",
           "publishedAt": "2026-10-28T20:24:00+00:00",
           "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/paok-1-1.jpg"
-        },
-        {
-          "title": "Επικοινωνία Ερντογάν – Τραμπ: Στο επίκεντρο η Μέση Ανατολή, τα Στενά του Ορμούζ και ο πόλεμος στην Ουκρανία",
-          "url": "https://www.ertnews.gr/eidiseis/epikoinonia-erntogan-tramp-sto-epikentro-i-mesi-anatoli-ta-stena-tou-ormouz-kai-o-polemos-stin-oukrania/",
-          "publishedAt": "2026-10-28T19:46:06+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/trump-erdogan.jpg"
-        },
-        {
-          "title": "ΗΠΑ: Τα deepfakes των ενδιάμεσων εκλογών",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/ipa-ta-deepfakes-ton-endiameson-eklogon/",
-          "publishedAt": "2026-10-28T19:43:19+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/10/usa-deepfakes.jpg"
-        },
-        {
-          "title": "Live streaming: Δείτε τον αγώνα ποδοσφαίρου Μπάγερν Μονάχου-Μαγδεμβούργο για τον β΄ γύρο του Κυπέλλου Γερμανίας (21:45, ΕΡΤ2 ΣΠΟΡ)",
-          "url": "https://www.ertnews.gr/athlitismos/live-streaming-deite-ton-agona-podosfairou-mpagern-monaxou-magdemvourgo-gia-ton-v-gyro-tou-kypellou-germanias-21-45-ert2-spor/",
-          "publishedAt": "2026-10-28T19:30:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2025/12/cup-german-soccer.jpg"
         }
       ],
-      "checkedAt": "2026-10-28T23:39:21.438821+00:00"
+      "checkedAt": "2026-10-29T02:56:33.269826+00:00"
     },
     {
       "id": "olympia",
       "items": [
+        {
+          "title": "Ομολογία-σοκ από πρώην κυβερνητικό σύμβουλο: Τα κάναμε θάλασσα με το καλώδιο στην Κάσο",
+          "url": "https://www.olympia.gr/1671987/apopsi/omologia-sok-apo-proin-kyvernitiko-symvoylo-ta-kaname-thalassa-me-to-kalodio-stin-kaso/",
+          "publishedAt": "2026-10-29T00:40:17+00:00",
+          "thumbnail": ""
+        },
         {
           "title": "Ισπανία: Διαδήλωση έξω από το υπουργείο μεταφορών μετά το σιδηροδρομικό ατυχημα με τους 69 νεκρούς",
           "url": "https://www.olympia.gr/1671985/diethni/ispania-diadilosi-exo-apo-to-ypoyrgeio-metaforon-meta-to-sidirodromiko-atychima-me-toys-69-nekroys/",
@@ -254,15 +260,9 @@
           "url": "https://www.olympia.gr/1671973/apopsi/sygkroysi-syrmon-ypsilis-tachytitas-stin-ispania-anamoni-gia-ta-aitia-tis-adikaiologitis-tragodias/",
           "publishedAt": "2026-10-28T17:40:20+00:00",
           "thumbnail": ""
-        },
-        {
-          "title": "Ολγα Γεροβασίλη: Η επέτειος του «ΟΧΙ» δεν είναι απλώς μια σελίδα στο βιβλίο της Ιστορίας",
-          "url": "https://www.olympia.gr/1671969/politiki/olga-gerovasili-i-epeteios-toy-ochi-den-einai-aplos-mia-selida-sto-vivlio-tis-istorias/",
-          "publishedAt": "2026-10-28T17:20:03+00:00",
-          "thumbnail": ""
         }
       ],
-      "checkedAt": "2026-10-28T23:39:21.700972+00:00"
+      "checkedAt": "2026-10-29T02:56:33.569006+00:00"
     },
     {
       "id": "onsports",
@@ -328,8 +328,8 @@
           "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/10/28/d213a7a0-5412249.jpg?t=JftQDE3kRxDeTJodndu_Hg"
         }
       ],
-      "checkedAt": "2026-10-28T23:39:21.818615+00:00"
+      "checkedAt": "2026-10-29T02:56:33.866804+00:00"
     }
   ],
-  "savedAt": "2026-10-28T23:39:21.818628+00:00"
+  "savedAt": "2026-10-29T02:56:33.866816+00:00"
 }
