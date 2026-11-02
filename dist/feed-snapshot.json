@@ -64,7 +64,7 @@
           "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/11/shutterstock_2497955603-scaled-1.jpg"
         }
       ],
-      "checkedAt": "2026-11-01T23:01:44.497253+00:00"
+      "checkedAt": "2026-11-02T02:23:11.854504+00:00"
     },
     {
       "id": "naftemporiki",
@@ -130,77 +130,89 @@
           "thumbnail": ""
         }
       ],
-      "checkedAt": "2026-11-01T23:01:45.074335+00:00"
+      "checkedAt": "2026-11-02T02:23:12.507708+00:00"
     },
     {
       "id": "ert",
       "items": [
         {
-          "title": "Κίμι Αντονέλι: Ο νεότερος παγκόσμιος πρωταθλητής στην ιστορία της Formula 1",
-          "url": "https://www.ertnews.gr/athlitismos/kimi-antoneli-o-neoteros-pagkosmios-protathlitis-stin-istoria-tis-formula-1/",
-          "publishedAt": "2026-11-01T22:45:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/ap26305813388111.jpg"
+          "title": "Ρόδος: Μήνυμα του 112 για ισχυρές βροχοπτώσεις τα ξημερώματα της Δευτέρας – Σύσταση για περιορισμό των μετακινήσεων",
+          "url": "https://www.ertnews.gr/eidiseis/rodos-minyma-tou-112-gia-isxyres-vroxoptoseis-ta-ksimeromata-tis-deyteras-systasi-gia-periorismo-ton-metakiniseon/",
+          "publishedAt": "2026-11-02T02:02:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/plimmyres2-768x432-1.jpg"
         },
         {
-          "title": "Βουλγαρία: Η Ιλιάνα Γιότοβα, υποστηρίκτρια του διαλόγου με τη Μόσχα, κερδίζει στις προεδρικές εκλογές",
-          "url": "https://www.ertnews.gr/eidiseis/voulgaria-i-iliana-giotova-ypostiriktria-tou-dialogou-me-ti-mosxa-kerdizei-stis-proedrikes-ekloges/",
-          "publishedAt": "2026-11-01T22:28:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/ap26305790412682.jpg"
+          "title": "Εθνικό Αστεροσκοπείο Αθηνών/ΜΕΤΕΟ: Πάνω από 140 χιλιοστά βροχής στη Θάσο",
+          "url": "https://www.ertnews.gr/eidiseis/ethniko-asteroskopeio-athinon-meteo-pano-apo-140-xiliosta-vroxis-sti-thaso/",
+          "publishedAt": "2026-11-02T01:45:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/eurokinissi-thasos.jpg"
         },
         {
-          "title": "ΗΠΑ: Δημοκρατική βουλευτής στηρίζει Ρεπουμπλικανό υποψήφιο στη μάχη για τη Γερουσία στο Μίσιγκαν",
-          "url": "https://www.ertnews.gr/eidiseis/ipa-dimokratiki-vouleytis-stirizei-repoumplikano-ypopsifio-sti-maxi-gia-ti-gerousia-sto-misigkan/",
-          "publishedAt": "2026-11-01T22:14:17+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/haley-stevens.jpg"
+          "title": "Τραμπ: «Δεν έχω τελειώσει με το Ιράν, κάποια στιγμή θα καταφέρουμε συντριπτικό πλήγμα»",
+          "url": "https://www.ertnews.gr/eidiseis/tramp-den-exo-teleiosei-me-to-iran-kapoia-stigmi-tha-kataferoume-syntriptiko-pligma/",
+          "publishedAt": "2026-11-02T01:28:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/063-2303049118.jpg"
         },
         {
-          "title": "Serie A: Πήρε βαθμολογική ανάσα η Γιουβέντους, 2-0 τη Νάπολι",
-          "url": "https://www.ertnews.gr/athlitismos/serie-a-pire-vathmologiki-anasa-i-giouventous-2-0-ti-napoli/",
-          "publishedAt": "2026-11-01T21:57:54+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/juventus-napoli-2026.jpg"
+          "title": "Πετρέλαιο: Πτώση άνω του 1% στις τιμές εν μέσω συνομιλιών για τον τερματισμό του πολέμου στο Ιράν",
+          "url": "https://www.ertnews.gr/eidiseis/petrelaio-ptosi-ano-tou-1-stis-times-en-meso-synomilion-gia-ton-termatismo-tou-polemou-sto-iran/",
+          "publishedAt": "2026-11-02T01:11:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/23245rgenn-2048x1365-1-1-768x512-1.jpeg"
         },
         {
-          "title": "ΗΠΑ: Εννέα νεκροί κατά τη συντριβή μικρού αεροπλάνου στη Φλόριντα – Συγκλονιστικές εικόνες",
-          "url": "https://www.ertnews.gr/eidiseis/ipa-ennea-nekroi-kata-ti-syntrivi-mikrou-aeroplanou-sti-florinta-sygklonistikes-eikones/",
-          "publishedAt": "2026-11-01T21:43:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/florida-aeroskafos.jpg"
+          "title": "Ρωσία: Κυβερνοεπίθεση στην εφαρμογή του υπουργείου Εκτάκτων Αναγκών",
+          "url": "https://www.ertnews.gr/eidiseis/rosia-kyvernoepithesi-stin-efarmogi-tou-ypourgeiou-ektakton-anagkon/",
+          "publishedAt": "2026-11-02T00:56:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/ap23242464737893-768x518-1.jpg"
         },
         {
-          "title": "Νίκολιτς: «Είμαι υπεύθυνος για το αποτέλεσμα, ο Παναθηναϊκός το ήθελε περισσότερο από εμάς και αυτό είναι απαράδεκτο»",
-          "url": "https://www.ertnews.gr/athlitismos/nikolits-eimai-ypeythynos-gia-to-apotelesma-o-panathinaikos-to-ithele-perissotero-apo-emas-kai-ayto-einai-aparadekto/",
-          "publishedAt": "2026-11-01T21:34:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/nikolic-2026.jpg"
+          "title": "Ισπανία: Δώδεκα ξένοι υπήκοοι ανάμεσα στους νεκρούς του σιδηροδρομικού δυστυχήματος",
+          "url": "https://www.ertnews.gr/eidiseis/ispania-dodeka-ksenoi-ypikooi-anamesa-stous-nekrous-tou-sidirodromikou-dystyximatos/",
+          "publishedAt": "2026-11-02T00:40:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/000-d4xa3zy.jpg"
         },
         {
-          "title": "Νίστρουπ: «Η ΑΕΚ είναι σπουδαία ομάδα, δεν έχουμε κερδίσει κάτι ακόμα»",
-          "url": "https://www.ertnews.gr/athlitismos/nistroup-i-aek-einai-spoudaia-omada-den-exoume-kerdisei-kati-akoma/",
-          "publishedAt": "2026-11-01T21:25:06+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/5419533-e1793555744369-1.jpg"
+          "title": "Βενεζουέλα: Τουλάχιστον 19 νεκροί από βομβαρδισμό στρατοπέδου Κολομβιανών ανταρτών",
+          "url": "https://www.ertnews.gr/eidiseis/venezouela-toulaxiston-19-nekroi-apo-vomvardismo-stratopedou-kolomvianon-antarton/",
+          "publishedAt": "2026-11-02T00:23:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/kolomvia-venezuela.jpg"
         },
         {
-          "title": "ΗΠΑ: Ο Αμερικανός σκηνοθέτης Μάικλ Μαν τραυματίστηκε κατά λάθος από σφαίρα",
-          "url": "https://www.ertnews.gr/eidiseis/ipa-o-amerikanos-skinothetis-maikl-man-traymatistike-kata-lathos-apo-sfaira/",
-          "publishedAt": "2026-11-01T21:17:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/michael-mann-scaled.jpg"
+          "title": "Ζελένσκι: Αναστολή των επιθέσεων σε ρωσικά διυλιστήρια με αντάλλαγμα πυραύλους Patriot από τις ΗΠΑ",
+          "url": "https://www.ertnews.gr/eidiseis/zelenski-anastoli-ton-epitheseon-se-rosika-diylistiria-me-antallagma-pyraylous-patriot-apo-tis-ipa/",
+          "publishedAt": "2026-11-02T00:08:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/000-d4n42zq.jpg"
         },
         {
-          "title": "ΗΠΑ: Ομοσπονδιακή δικαστής απορρίπτει την προσφυγή της κυβέρνησης Τραμπ για τις εκλογές στην Αλάσκα",
-          "url": "https://www.ertnews.gr/eidiseis/ipa-omospondiaki-dikastis-aporriptei-tin-prosfygi-tis-kyvernisis-tramp-gia-tis-ekloges-stin-alaska/",
-          "publishedAt": "2026-11-01T20:59:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/ap26304712547402-scaled.jpg"
+          "title": "Υεμένη: Σαουδαραβικοί βομβαρδισμοί στο λιμάνι Ρας Ίσα στη Χοντάιντα",
+          "url": "https://www.ertnews.gr/eidiseis/yemeni-saoudaravikoi-vomvardismoi-sto-limani-ras-isa-sti-xontainta/",
+          "publishedAt": "2026-11-01T23:57:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/000-d4gv6ku.jpg"
         },
         {
-          "title": "Ιράν: Δύο τάνκερ «εξερράγησαν» μετά από πρόσκρουση σε νάρκες στα Στενά του Ορμούζ",
-          "url": "https://www.ertnews.gr/eidiseis/iran-dyo-tanker-ekserragisan-meta-apo-proskrousi-se-narkes-sta-stena-tou-ormouz/",
-          "publishedAt": "2026-11-01T20:42:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/03/mayuree-naree-1.jpg"
+          "title": "Διακοπή κυκλοφορίας στο κέντρο της Αθήνας λόγω ελέγχου σε ύποπτο αντικείμενο",
+          "url": "https://www.ertnews.gr/eidiseis/diakopi-kykloforias-sto-kentro-tis-athinas-logo-elegxou-se-ypopto-antikeimeno/",
+          "publishedAt": "2026-11-01T23:48:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/d796e9dc-4839120.webp"
         }
       ],
-      "checkedAt": "2026-11-01T23:01:46.346672+00:00"
+      "checkedAt": "2026-11-02T02:23:13.584887+00:00"
     },
     {
       "id": "olympia",
       "items": [
+        {
+          "title": "Νεκρή στα 34 της μόλις χρόνια μια σπουδαία αθλήτρια, η Κιάρα Μαγκίν",
+          "url": "https://www.olympia.gr/1672309/viral/nekri-sta-34-tis-molis-chronia-mia-spoydaia-athlitria-i-kiara-magkin/",
+          "publishedAt": "2026-11-02T00:27:08+00:00",
+          "thumbnail": ""
+        },
+        {
+          "title": "Στο επίκεντρο των Αμερικανικών εκλογών τα Data Centres",
+          "url": "https://www.olympia.gr/1672305/apopsi/sto-epikentro-ton-amerikanikon-eklogon-ta-data-centres/",
+          "publishedAt": "2026-11-02T00:07:31+00:00",
+          "thumbnail": ""
+        },
         {
           "title": "Σοβαρό ατύχημα σε ποδηλατικούς αγώνες",
           "url": "https://www.olympia.gr/1672303/ellada/sovaro-atychima-se-podilatikoys-agones/",
@@ -248,25 +260,25 @@
           "url": "https://www.olympia.gr/1672293/diethni/tromokratiki-apeili-sti-moscha-i-fsb-synelave-efivo-kai-eycharistei-tis-ipa/",
           "publishedAt": "2026-11-01T16:40:28+00:00",
           "thumbnail": ""
-        },
-        {
-          "title": "Κυψέλη: Κατέρρευσε κεραμοσκεπή από κατοικία",
-          "url": "https://www.olympia.gr/1672292/ellada/kypseli-katerreyse-keramoskepi-apo-katoikia/",
-          "publishedAt": "2026-11-01T16:20:04+00:00",
-          "thumbnail": ""
-        },
-        {
-          "title": "Ημέρα Πολύτεκνης Οικογένειας: Σήμερα τιμούμε τους Αγίους Προστάτες των Πολυτέκνων, Τερεντίου και Νεονίλλης και των επτά τέκνων τους",
-          "url": "https://www.olympia.gr/1672290/ellada/imera-polyteknis-oikogeneias-simera-timoyme-toys-agioys-prostates-ton-polyteknon-terentioy-kai-neonillis-kai-ton-epta-teknon-toys/",
-          "publishedAt": "2026-11-01T16:00:09+00:00",
-          "thumbnail": ""
         }
       ],
-      "checkedAt": "2026-11-01T23:01:46.938119+00:00"
+      "checkedAt": "2026-11-02T02:23:14.336177+00:00"
     },
     {
       "id": "onsports",
       "items": [
+        {
+          "title": "Ο Απόλλων Καλαμαριάς συμφώνησε με τον Ζόραν Μιλίνκοβιτς",
+          "url": "https://www.onsports.gr/podosfairo/superleague-2/story/877159/o-apollon-kalamarias-symfonise-me-ton-zoran-milinkovits",
+          "publishedAt": "2026-11-02T00:17:05+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/11/01/15a44fc9-1044229.jpg?t=NGOYTVbNVgzF8THh_bfyQQ"
+        },
+        {
+          "title": "Ιστορική στιγμή στη Formula 1: Ο Αντονέλι έγινε ο νεότερος παγκόσμιος πρωταθλητής!",
+          "url": "https://www.onsports.gr/auto-moto/story/877166/istoriki-stigmi-sti-formula-1-o-antoneli-egine-o-neoteros-pagkosmios-protathlitis",
+          "publishedAt": "2026-11-01T22:47:10+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/11/02/0826ad85-ap26305837775656.jpg?t=lxYCSYYCz0AxMvkLRBsOog"
+        },
         {
           "title": "Η Γιουβέντους «λύγισε» τη Νάπολι με 2-0 και πήρε βαθμολογική ανάσα",
           "url": "https://www.onsports.gr/podosfairo/story/877164/i-giouventous-lygise-ti-napoli-me-2-0-kai-pire-vathmologiki-anasa",
@@ -314,22 +326,10 @@
           "url": "https://www.onsports.gr/opinion/story/877155/o-paltino-egine-epitelous-antino",
           "publishedAt": "2026-11-01T20:32:24+00:00",
           "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/11/01/49814c9c-antino-panathinaikos-aek.jpg?t=jre1HlvRxymAy4QDPNrUCQ"
-        },
-        {
-          "title": "Παναθηναϊκός - ΑΕΚ: «Αναλαμβάνω την ευθύνη, ήταν μάθημα για μένα» | Η συνέντευξη Τύπου του Νίκολιτς",
-          "url": "https://www.onsports.gr/podosfairo/superleague/story/877157/panathinaikos-aek-analamvano-tin-efthyni-itan-mathima-gia-mena-i-synentefksi-typou-tou-nikolits",
-          "publishedAt": "2026-11-01T20:30:13+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/11/01/117d06ae-5418940.jpg?t=7yUB8R6V2QkPzm4nltlTdg"
-        },
-        {
-          "title": "Τετέι: «Μπήκαμε με ψυχή, να μείνουμε προσγειωμένοι»",
-          "url": "https://www.onsports.gr/podosfairo/superleague/story/877156/tetei-mpikame-me-psyxi-na-meinoume-prosgeiomenoi",
-          "publishedAt": "2026-11-01T20:23:23+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/11/01/842d0298-5419486.jpg?t=47lpUBErZ2uRx38SqIaNHA"
         }
       ],
-      "checkedAt": "2026-11-01T23:01:47.182746+00:00"
+      "checkedAt": "2026-11-02T02:23:14.613110+00:00"
     }
   ],
-  "savedAt": "2026-11-01T23:01:47.182757+00:00"
+  "savedAt": "2026-11-02T02:23:14.613127+00:00"
 }
