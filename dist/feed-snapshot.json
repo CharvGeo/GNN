@@ -64,7 +64,7 @@
           "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/11/5434880-scaled-1.jpg"
         }
       ],
-      "checkedAt": "2026-11-08T22:48:44.809335+00:00"
+      "checkedAt": "2026-11-09T02:06:19.940440+00:00"
     },
     {
       "id": "naftemporiki",
@@ -130,77 +130,83 @@
           "thumbnail": ""
         }
       ],
-      "checkedAt": "2026-11-08T22:48:45.074685+00:00"
+      "checkedAt": "2026-11-09T02:06:20.571653+00:00"
     },
     {
       "id": "ert",
       "items": [
         {
-          "title": "Αργεντινή: Εκκλήσεις για ενότητα από τον Πάπα Λέοντα ΙΔ΄ – Στο επίκεντρο ο κοινωνικός διχασμός και η φτώχεια",
-          "url": "https://www.ertnews.gr/eidiseis/argentini-ekkliseis-gia-enotita-apo-ton-papa-leonta-id-sto-epikentro-o-koinonikos-dixasmos-kai-i-ftoxeia/",
-          "publishedAt": "2026-11-08T22:37:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/pope2.jpg"
+          "title": "Σουδάν: Συνελήφθη πρώην συνεργάτης του δικτάτορα Μπασίρ που καταζητείται για εγκλήματα πολέμου",
+          "url": "https://www.ertnews.gr/eidiseis/soudan-synelifthi-proin-synergatis-tou-diktatora-mpasir-pou-kataziteitai-gia-egklimata-polemou/",
+          "publishedAt": "2026-11-09T01:56:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/000-d6u88t3.jpg"
         },
         {
-          "title": "Μαρσέιγ: Πήρε το «διπλό» στη Λανς με γκολ του Αμπνταλά στο 82΄",
-          "url": "https://www.ertnews.gr/athlitismos/marseig-pire-to-diplo-sti-lans-me-gkol-tou-ampntala-sto-82/",
-          "publishedAt": "2026-11-08T22:24:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/w08-00055paris1-1.jpg"
+          "title": "Ρωσία: Επίθεση σε βιομηχανική περιοχή στο Λένινγκραντ – Καταρρίφθηκαν 81 drones",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/rosia-epithesi-se-viomixaniki-perioxi-sto-leningkrant-katarrifthikan-81-drones/",
+          "publishedAt": "2026-11-09T01:42:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/screenshot-1-6-768x472-1-1-1-1.jpg"
         },
         {
-          "title": "La Liga: Δύο γκολ ο Φερμίν Λόπεθ και «διπλό» με ανατροπή στο ντέρμπι κορυφής με την Ατλέτικο η Μπαρτσελόνα",
-          "url": "https://www.ertnews.gr/athlitismos/la-liga-dyo-gkol-o-fermin-lopeth-kai-diplo-me-anatropi-sto-ntermpi-koryfis-me-tin-atletiko-i-mpartselona/",
-          "publishedAt": "2026-11-08T22:16:51+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/atletico-barcelona-2026.jpg"
+          "title": "Νέο φάρμακο μπορεί να αντιμετωπίσει μία από τις συχνότερες αιτίες υψηλής αρτηριακής πίεσης",
+          "url": "https://www.ertnews.gr/eidiseis/neo-farmako-mporei-na-antimetopisei-mia-apo-tis-syxnoteres-aities-ypsilis-artiriakis-piesis/",
+          "publishedAt": "2026-11-09T01:39:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/piesi-pixabay.jpg"
         },
         {
-          "title": "Ιράκ: Επίθεση με drone στο κοίτασμα φυσικού αερίου Χορ Μορ – Σταμάτησε η παραγωγή",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/irak-epithesi-me-drone-sto-koitasma-fysikou-aeriou-xor-mor-stamatise-i-paragogi/",
-          "publishedAt": "2026-11-08T22:10:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/iraq.jpg"
+          "title": "Ανοιχτός σε δικλίδες ασφαλείας για την Τεχνητή Νοημοσύνη εμφανίζεται ο Τραμπ",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/anoixtos-se-diklides-asfaleias-gia-tin-texniti-noimosyni-emfanizetai-o-tramp/",
+          "publishedAt": "2026-11-09T01:22:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/ap26312846390092.jpg"
         },
         {
-          "title": "Γερμανία: Την Ίλζε Άιγκνερ θα προτείνει ο καγκελάριος Μερτς ως υποψήφια ομοσπονδιακή πρόεδρο",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/germania-tin-ilze-aigkner-tha-proteinei-o-kagkelarios-merts-os-ypopsifia-omospondiaki-proedro/",
-          "publishedAt": "2026-11-08T21:53:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/ap17325349100872-scaled.jpg"
+          "title": "Ινδία: Η μεγάλη γιορτή του φωτός, με χιλιάδες λυχνάρια και πυροτεχνήματα – Εντυπωσιακές εικόνες από το Ντιβάλι",
+          "url": "https://www.ertnews.gr/eidiseis/india-i-megali-giorti-tou-fotos-me-xiliades-lyxnaria-kai-pyrotexnimata-entyposiakes-eikones-apo-to-ntivali/",
+          "publishedAt": "2026-11-09T01:06:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/diwali2.jpg"
         },
         {
-          "title": "Ο Τραμπ παραδέχθηκε ότι η πολιτική του απελάσεων μεταναστών ήταν «πολύ σκληρή»",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/o-tramp-paradexthike-oti-i-politiki-tou-apelaseon-metanaston-itan-poly-skliri/",
-          "publishedAt": "2026-11-08T21:38:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/ap26311037876068-scaled.jpg"
+          "title": "Μεγάλο «διπλό» της Μπαρτσελόνα επί της Ατλέτικο με πρωταγωνιστή τον Φερμίν Λόπεθ",
+          "url": "https://www.ertnews.gr/athlitismos/megalo-diplo-tis-mpartselona-epi-tis-atletiko-me-protagonisti-ton-fermin-lopeth/",
+          "publishedAt": "2026-11-09T00:50:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/w09-01108fermin.jpg"
         },
         {
-          "title": "Ιράν: Άλλες τρεις εκτελέσεις ανδρών που κατηγορούνταν για «ένοπλες ταραχές» στις διαδηλώσεις του Ιανουαρίου",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/iran-alles-treis-ekteleseis-andron-pou-katigorountan-gia-enoples-taraxes-stis-diadiloseis-tou-ianouariou/",
-          "publishedAt": "2026-11-08T21:22:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/ap763046431898.jpg"
+          "title": "ΗΠΑ: Τι δήλωσε ο Τραμπ για την παραμονή Ρούμπιο στο Στέιτ Ντιπάρτμεντ",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/ipa-ti-dilose-o-tramp-gia-tin-paramoni-roumpio-sto-steit-ntipartment/",
+          "publishedAt": "2026-11-09T00:33:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/ap26301063573767.jpg"
         },
         {
-          "title": "Ολυμπιακός – ΠΑΟΚ 1-1: Ισοπαλία απομάκρυνσης από την κορυφή",
-          "url": "https://www.ertnews.gr/athlitismos/olympiakos-paok-1-1-isopalia-apomakrynsis-apo-tin-koryfi/",
-          "publishedAt": "2026-11-08T21:05:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/7160100-scaled.jpg"
+          "title": "Γάζα: Πέντε νεκροί, ανάμεσά τους τρία παιδιά, από κατάρρευση αμμόλοφου λόγω των έντονων βροχοπτώσεων",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/gaza-pente-nekroi-anamesa-tous-tria-paidia-apo-katarreysi-ammolofou-logo-ton-entonon-vroxoptoseon/",
+          "publishedAt": "2026-11-09T00:16:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/ap26312800210386.jpg"
         },
         {
-          "title": "Από τα σουπερμάρκετ στα νοσοκομεία: Στο στόχαστρο των χάκερ τα συστήματα ψύξης",
-          "url": "https://www.ertnews.gr/diethni/apo-ta-soupermarket-sta-nosokomeia-sto-stoxastro-ton-xaker-ta-systimata-psyksis/",
-          "publishedAt": "2026-11-08T21:03:02+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/supermarches-scaled.jpg"
+          "title": "Πυρά Σαπίρο κατά Χέγκσεθ: Είναι ένα οκτάχρονο παιδί που παίζει καθημερινά με στρατιωτάκια",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/pyra-sapiro-kata-xegkseth-einai-ena-oktaxrono-paidi-pou-paizei-kathimerina-me-stratiotakia/",
+          "publishedAt": "2026-11-08T23:59:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/ap26308699856686.jpg"
         },
         {
-          "title": "Ένταση στο συνέδριο της ΚΕΔΕ: Καταγγελίες Δούκα για νοθεία – Έντονη αντιπαράθεση για την ψηφοφορία",
-          "url": "https://www.ertnews.gr/eidiseis/ellada/entasi-sto-synedrio-tis-kede-kataggelies-douka-gia-notheia-entoni-antiparathesi-gia-tin-psifoforia/",
-          "publishedAt": "2026-11-08T20:49:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/7155116-scaled.jpg"
+          "title": "Τραμπ: Συνάντηση με Σι και Πούτιν τις επόμενες ημέρες στην Κίνα – Κρίσιμα ζητήματα στην ατζέντα",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/tramp-synantisi-me-si-kai-poutin-tis-epomenes-imeres-stin-kina-krisima-zitimata-stin-atzenta/",
+          "publishedAt": "2026-11-08T23:43:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/trump-si-putin.jpg"
         }
       ],
-      "checkedAt": "2026-11-08T22:48:46.022452+00:00"
+      "checkedAt": "2026-11-09T02:06:21.617331+00:00"
     },
     {
       "id": "olympia",
       "items": [
+        {
+          "title": "Φήμες για τηλεφώνημα Τραμπ – Ερντογάν χωρίς ανακοίνωση: Περίεργες συμπτώσεις με εντολή Άιζενκοτ και καλώδιο Κρήτης-Κύπρου",
+          "url": "https://www.olympia.gr/1672875/diethni/fimes-gia-tilefonima-tramp-erntogan-choris-anakoinosi-perierges-symptoseis-me-entoli-aizenkot-kai-kalodio-kritis-kyproy/",
+          "publishedAt": "2026-11-08T23:50:00+00:00",
+          "thumbnail": ""
+        },
         {
           "title": "Βρέθηκε πτώμα άνδρα σε βαλίτσα",
           "url": "https://www.olympia.gr/1672856/viral/vrethike-ptoma-andra-se-valitsa/",
@@ -254,19 +260,19 @@
           "url": "https://www.olympia.gr/1672849/viral/paremvasi-tis-elenas-akrita-gia-ton-erriko-petilon-me-epithesi-kai-ston-spyro-mpimpila-epesan-kapoioi-pano-toy-na-ton-xeskisoyn/",
           "publishedAt": "2026-11-08T16:20:05+00:00",
           "thumbnail": ""
-        },
-        {
-          "title": "Χαραυγή: Το Πέτρινο Μπαλκόνι του Πωγωνίου",
-          "url": "https://www.olympia.gr/1672844/viral/charaygi-to-petrino-mpalkoni-toy-pogonioy/",
-          "publishedAt": "2026-11-08T16:00:38+00:00",
-          "thumbnail": ""
         }
       ],
-      "checkedAt": "2026-11-08T22:48:46.322922+00:00"
+      "checkedAt": "2026-11-09T02:06:22.341629+00:00"
     },
     {
       "id": "onsports",
       "items": [
+        {
+          "title": "Ligue 1: Ο Αμπνταλά «υπέγραψε» το διπλό της Μαρσέιγ απέναντι στη Λανς",
+          "url": "https://www.onsports.gr/podosfairo/story/877937/ligue-1-o-ampntala-ypegrapse-to-diplo-tis-marseig-apenanti-sti-lans",
+          "publishedAt": "2026-11-09T00:17:00+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/11/09/e3563074-hwoijbdw4aaxvq7.jpg?t=r8piR8XQwpLM6rsqVAFC8g"
+        },
         {
           "title": "Λίσι: «Στόχος μας παραμένει να κατακτήσουμε το πρωτάθλημα»",
           "url": "https://www.onsports.gr/podosfairo/superleague/story/877936/lisi-stoxos-mas-paramenei-na-kataktisoume-to-protathlima",
@@ -320,16 +326,10 @@
           "url": "https://www.onsports.gr/opinion/story/877910/etsi-itan-pio-glyko-niki-protathlimatiki-afieromeni-ston-kosmo-tou",
           "publishedAt": "2026-11-08T21:30:50+00:00",
           "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/11/08/2d21177a-5434447.jpg?t=SYv7JQeP0YZD_6JFRF2PmQ"
-        },
-        {
-          "title": "Λίσι: «Είχαμε ευκαιρίες να κερδίσουμε -  Να συνεχίσουμε σε αυτήν τη γραμμή»",
-          "url": "https://www.onsports.gr/podosfairo/superleague/story/877927/lisi-eixame-efkairies-na-kerdisoume-na-synexisoume-se-aftin-ti-grammi",
-          "publishedAt": "2026-11-08T21:21:34+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/11/08/995564d4-7159886.jpg?t=w6shzLHOc9ZnHFToRX9CPA"
         }
       ],
-      "checkedAt": "2026-11-08T22:48:46.435585+00:00"
+      "checkedAt": "2026-11-09T02:06:22.613374+00:00"
     }
   ],
-  "savedAt": "2026-11-08T22:48:46.435595+00:00"
+  "savedAt": "2026-11-09T02:06:22.613386+00:00"
 }
