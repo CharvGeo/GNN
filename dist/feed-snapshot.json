@@ -64,11 +64,23 @@
           "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/11/AP26295730744780-1.jpg"
         }
       ],
-      "checkedAt": "2026-11-18T23:10:08.704036+00:00"
+      "checkedAt": "2026-11-19T04:15:46.548326+00:00"
     },
     {
       "id": "naftemporiki",
       "items": [
+        {
+          "title": "Χρηματιστήριο: Τα σενάρια που οδηγούν το ράλι της ΕΥΔΑΠ",
+          "url": "https://www.naftemporiki.gr/finance/markets/2191027/chrimatistirio-ta-senaria-poy-odigoyn-to-rali-tis-eydap/?utm_source=rss&utm_medium=rss&utm_campaign=chrimatistirio-ta-senaria-poy-odigoyn-to-rali-tis-eydap",
+          "publishedAt": "2026-11-19T04:00:24+00:00",
+          "thumbnail": ""
+        },
+        {
+          "title": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα, Πέμπτη 19 Νοεμβρίου",
+          "url": "https://www.naftemporiki.gr/society/2191141/eortologio-poioi-giortazoyn-simera-pempti-19-noemvrioy/?utm_source=rss&utm_medium=rss&utm_campaign=eortologio-poioi-giortazoyn-simera-pempti-19-noemvrioy",
+          "publishedAt": "2026-11-19T03:00:19+00:00",
+          "thumbnail": ""
+        },
         {
           "title": "Wall Street: Μεικτά πρόσημα με «βαρίδι» τον Dow Jones – Πτώση 2,9% για τη Nvidia",
           "url": "https://www.naftemporiki.gr/finance/markets/2191162/wall-street-meikta-prosima-me-varidi-ton-dow-jones-ptosi-29-gia-ti-nvidia/?utm_source=rss&utm_medium=rss&utm_campaign=wall-street-meikta-prosima-me-varidi-ton-dow-jones-ptosi-29-gia-ti-nvidia",
@@ -116,87 +128,75 @@
           "url": "https://www.naftemporiki.gr/kosmos/2191138/kamia-kyvernoepithesi-epimenoyn-oi-amerikanoi-axiomatoychoi-gia-tis-diadochikes-vlaves-se-krisimes-ypodomes/?utm_source=rss&utm_medium=rss&utm_campaign=kamia-kyvernoepithesi-epimenoyn-oi-amerikanoi-axiomatoychoi-gia-tis-diadochikes-vlaves-se-krisimes-ypodomes",
           "publishedAt": "2026-11-18T20:09:30+00:00",
           "thumbnail": ""
-        },
-        {
-          "title": "Λίβανος: Πέντε μέλη της Χεζμπολάχ κατηγορούνται για «σύσταση ένοπλης ομάδας»",
-          "url": "https://www.naftemporiki.gr/kosmos/2191137/livanos-pente-meli-tis-chezmpolach-katigoroyntai-gia-systasi-enoplis-omadas/?utm_source=rss&utm_medium=rss&utm_campaign=livanos-pente-meli-tis-chezmpolach-katigoroyntai-gia-systasi-enoplis-omadas",
-          "publishedAt": "2026-11-18T20:00:53+00:00",
-          "thumbnail": ""
-        },
-        {
-          "title": "Οι ΗΠΑ επιβάλλουν κυρώσεις σε Λιβανέζους υπηκόους και οντότητες που φέρεται να συνδέονται με τη Χεζμπολάχ",
-          "url": "https://www.naftemporiki.gr/finance/world/2191135/oi-ipa-epivalloyn-kyroseis-se-livanezoys-ypikooys-kai-ontotites-poy-feretai-na-syndeontai-me-ti-chezmpolach/?utm_source=rss&utm_medium=rss&utm_campaign=oi-ipa-epivalloyn-kyroseis-se-livanezoys-ypikooys-kai-ontotites-poy-feretai-na-syndeontai-me-ti-chezmpolach",
-          "publishedAt": "2026-11-18T19:53:16+00:00",
-          "thumbnail": ""
         }
       ],
-      "checkedAt": "2026-11-18T23:10:08.942170+00:00"
+      "checkedAt": "2026-11-19T04:15:47.232958+00:00"
     },
     {
       "id": "ert",
       "items": [
         {
-          "title": "UKMTO: Πλήγμα σε δεξαμενόπλοιο στα Στενά του Ορμούζ – Ασφαλές το πλήρωμα",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/ukmto-pligma-se-deksamenoploio-sta-stena-tou-ormouz-asfales-to-pliroma/",
-          "publishedAt": "2026-11-18T23:01:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/stigmiotypo-othonis-2026-11-19-005129.png"
+          "title": "Ο πόλεμος κλέβει την παιδική ηλικία – Σχεδόν 589 εκατομμύρια παιδιά ζουν υπό την απειλή των συγκρούσεων",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/o-polemos-klevei-tin-paidiki-ilikia-sxedon-589-ekatommyria-paidia-zoun-ypo-tin-apeili-ton-sygkrouseon/",
+          "publishedAt": "2026-11-19T04:11:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/ap25146350085409-768x512-3-1.jpg"
         },
         {
-          "title": "Νέα μήνυση κατά του Αλεξάντερ Ζβέρεφ για δηλώσεις σχετικά με την υπόθεση κακοποίησης της πρώην συντρόφου του",
-          "url": "https://www.ertnews.gr/athlitismos/nea-minysi-kata-tou-aleksanter-zveref-gia-diloseis-sxetika-me-tin-ypothesi-kakopoiisis-tis-proin-syntrofou-tou/",
-          "publishedAt": "2026-11-18T22:57:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2025/05/zverev.jpg"
+          "title": "Επίδομα θέρμανσης: Ξεπέρασαν τις 860.000 οι αιτήσεις – Τα συνηθέστερα λάθη που μπορεί να στοιχίσουν την ενίσχυση",
+          "url": "https://www.ertnews.gr/eidiseis/oikonomia/epidoma-thermansis-kseperasan-tis-860-000-oi-aitiseis-ta-synithestera-lathi-pou-mporei-na-stoixisoun-tin-enisxysi/",
+          "publishedAt": "2026-11-19T03:55:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/epidoma-thermansis-768x512-1-1.jpg"
         },
         {
-          "title": "Συμφωνία για στρατιωτική συνεργασία Βενεζουέλας – ΗΠΑ",
-          "url": "https://www.ertnews.gr/eidiseis/symfonia-gia-stratiotiki-synergasia-venezouelas-ipa/",
-          "publishedAt": "2026-11-18T22:39:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/000-d7wf2t3-scaled.jpg"
+          "title": "Σι, Τραμπ και Πούτιν στην ομαδική φωτογραφία των ηγετών της APEC",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/si-tramp-kai-poutin-stin-omadiki-fotografia-ton-igeton-tis-apec/",
+          "publishedAt": "2026-11-19T03:42:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/stigmiotypo-othonis-2026-11-19-054757.png"
         },
         {
-          "title": "Αντετοκούνμπο: «Οι παίκτες του NBA είναι κακομαθημένοι… »",
-          "url": "https://www.ertnews.gr/athlitismos/antetokounmpo-oi-paiktes-tou-nba-einai-kakomathimenoi/",
-          "publishedAt": "2026-11-18T22:22:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/antetokunbo-miaimi-2026.jpg"
+          "title": "Αντίστροφη μέτρηση για την ιστορική συνάντηση Τραμπ, Πούτιν και Σι – Οι γεωπολιτικές ισορροπίες, οι προσδοκίες και οι  διαφωνίες",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/antistrofi-metrisi-gia-tin-istoriki-synantisi-tramp-poutin-kai-si-oi-geopolitikes-isorropies-oi-prosdokies-kai-oi-diafonies/",
+          "publishedAt": "2026-11-19T03:27:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/000-d7x48z2-scaled.jpg"
         },
         {
-          "title": "EuroCup: «Ξύπνησε» στο δεύτερο ημίχρονο, έκανε την ολική ανατροπή και… πάτησε με 88-80 τη Μανρέσα o ΠΑΟΚ",
-          "url": "https://www.ertnews.gr/athlitismos/eurocup-ksypnise-sto-deytero-imixrono-ekane-tin-oliki-anatropi-kai-patise-me-88-80-ti-manresa-o-paok/",
-          "publishedAt": "2026-11-18T22:11:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/manresa-paok-2026.jpg"
+          "title": "Μασκ: «Αισθάνομαι ανόητος» για τα 500 εκατ. δολάρια που δαπάνησα στις εκλογές για τους Ρεπουμπλικάνους",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/mask-aisthanomai-anoitos-gia-ta-500-ekat-dolaria-pou-dapanisa-stis-ekloges-gia-tous-repoumplikanous/",
+          "publishedAt": "2026-11-19T03:12:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/ap26308785206793.jpg"
         },
         {
-          "title": "ΗΠΑ: Κλείσιμο χωρίς κατεύθυνση στο χρηματιστήριο της Νέας Υόρκης",
-          "url": "https://www.ertnews.gr/eidiseis/ipa-kleisimo-xoris-kateythynsi-sto-xrimatistirio-tis-neas-yorkis-11/",
-          "publishedAt": "2026-11-18T21:57:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/03/ap20075850903519-768x512-1.jpg"
+          "title": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα 19 Νοεμβρίου",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/eortologio-poioi-giortazoun-simera-19-noemvriou-3/",
+          "publishedAt": "2026-11-19T03:03:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/ttttt.jpg"
         },
         {
-          "title": "ΗΠΑ: Η Ουάσινγκτον επιβάλλει κυρώσεις σε φιλανθρωπική οργάνωση που συνδέεται με τη Χεζμπολάχ",
-          "url": "https://www.ertnews.gr/eidiseis/ipa-i-ouasingkton-epivallei-kyroseis-se-filanthropiki-organosi-pou-syndeetai-me-ti-xezmpolax/",
-          "publishedAt": "2026-11-18T21:38:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/06/000-b8kq8t6-scaled.jpg"
+          "title": "Τραμπ από τη Σύνοδο της APEC: Οι ΗΠΑ θα συνεχίσουν να προωθούν την ειρήνη στην περιοχή του Ειρηνικού",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/tramp-apo-ti-synodo-tis-apec-oi-ipa-tha-synexisoun-na-proothoun-tin-eirini-stin-perioxi-tou-eirinikou/",
+          "publishedAt": "2026-11-19T02:52:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/ap26323075162926.jpg"
         },
         {
-          "title": "Σπανούλης: «Η Λε Μαν έχει τον υψηλότερο ρυθμό στο EuroCup, τα πήγαμε πολύ καλά στην επίθεση»",
-          "url": "https://www.ertnews.gr/athlitismos/spanoulis-i-le-man-exei-ton-ypsilotero-rythmo-sto-eurocup-ta-pigame-poly-kala-stin-epithesi/",
-          "publishedAt": "2026-11-18T21:19:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/5446743-1.jpg"
+          "title": "Παραγουάη: Ζημιές έως 1 δισ. δολάρια από την κατάρρευση της τράπεζας Ueno",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/paragouai-zimies-eos-1-dis-dolaria-apo-tin-katarreysi-tis-trapezas-ueno/",
+          "publishedAt": "2026-11-19T02:50:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/000-d6ca447-768x511-1.jpg"
         },
         {
-          "title": "Μαρινάκης: Δεν μπορεί να υπάρξει πραγματική κοινωνική πολιτική χωρίς δημοσιονομική υπευθυνότητα",
-          "url": "https://www.ertnews.gr/eidiseis/marinakis-den-mporei-na-yparksei-pragmatiki-koinoniki-politiki-xoris-dimosionomiki-ypeythynotita/",
-          "publishedAt": "2026-11-18T21:03:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/marinakis-scaled.jpg"
+          "title": "Βρετανία: Σε δημοπρασία αναμνηστικά από Batman, Indiana Jones και Game of Thrones",
+          "url": "https://www.ertnews.gr/eidiseis/vretania-se-dimoprasia-anamnistika-apo-batman-indiana-jones-kai-game-of-thrones/",
+          "publishedAt": "2026-11-19T02:35:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/w18-215029doc-20260908-32325494-13221264.jpg"
         },
         {
-          "title": "Ιράν: Τρία πετρελαιοφόρα έπιασαν φωτιά αφού χτύπησαν σε νάρκες έξω από τα Στενά του Ορμούζ",
-          "url": "https://www.ertnews.gr/eidiseis/iran-tria-petrelaiofora-epiasan-fotia-afou-xtypisan-se-narkes-ekso-apo-ta-stena-tou-ormouz/",
-          "publishedAt": "2026-11-18T20:55:33+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/06/ap26167496323276-1-scaled.jpg"
+          "title": "Ελ Σαλβαδόρ: Η 38χρονη Μαϊτέ Ιραέτα διεκδικεί την προεδρία απέναντι στον Ναγίμπ Μπουκέλε",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/el-salvador-i-38xroni-maite-iraeta-diekdikei-tin-proedria-apenanti-ston-nagimp-mpoukele/",
+          "publishedAt": "2026-11-19T02:18:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/000-d7wn726-scaled.jpg"
         }
       ],
-      "checkedAt": "2026-11-18T23:10:09.681036+00:00"
+      "checkedAt": "2026-11-19T04:15:48.371477+00:00"
     },
     {
       "id": "olympia",
@@ -262,11 +262,35 @@
           "thumbnail": ""
         }
       ],
-      "checkedAt": "2026-11-18T23:10:09.885854+00:00"
+      "checkedAt": "2026-11-19T04:15:49.152928+00:00"
     },
     {
       "id": "onsports",
       "items": [
+        {
+          "title": "Οι Μαϊάμι Χιτ σε ρυθμούς... GTA υπέταξαν τους Μπακς με σπουδαία εμφάνιση Αντετοκούνμπο",
+          "url": "https://www.onsports.gr/basket/nba/story/878906/oi-maiami-xit-se-rythmoys-gta-ypetaksan-tous-baks-me-spoudaia-emfanisi-antetokoynmpo",
+          "publishedAt": "2026-11-19T03:20:21+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/11/19/fc555a28-ap26323119265212.jpg?t=U79zoQ_FaaCDceHa2p1-tA"
+        },
+        {
+          "title": "Νιου Ορλίνς Πέλικανς: Μόνο οι Φοίνιξ Σανς έχουν εκδηλώσει ενδιαφέρον για τον Ντεζούντε Μάρεϊ",
+          "url": "https://www.onsports.gr/basket/nba/story/878897/niou-orlins-pelikans-mono-oi-foiniks-sans-exoun-ekdilosei-endiaferon-gia-ton-dezoynte-marei",
+          "publishedAt": "2026-11-19T02:10:00+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/11/18/ebf7503b-ap26314737723995.jpg?t=54mI3wS4L0QHCRPQsS7_vg"
+        },
+        {
+          "title": "Άρης: Στην προεπιλογή του Καναδά για τα προκριματικά του Παγκοσμίου Κυπέλλου 2027 ο Κεμ Μπιρτς",
+          "url": "https://www.onsports.gr/basket/basket-league/story/878880/aris-stin-proepilogi-tou-kanada-gia-ta-prokrimatika-tou-pagkosmiou-kypellou-2027-o-kem-birts",
+          "publishedAt": "2026-11-19T00:13:00+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/11/18/4d24f337-5446803.jpg?t=BdrXOUqQT-Bi5y8N9_LlRQ"
+        },
+        {
+          "title": "Θύρα 13: Το μήνυμα για τα 60 χρόνια από την ίδρυσή της (Video)",
+          "url": "https://www.onsports.gr/podosfairo/superleague/story/878905/thyra-13-to-minyma-gia-ta-60-xronia-apo-tin-idrysi-tis-video",
+          "publishedAt": "2026-11-18T23:04:48+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/11/19/1a06d965-5441991.jpg?t=Gy4p1MymOkUmlH7Y0ixNHw"
+        },
         {
           "title": "ΑΕΚ: Κυβερνοεπίθεση στην επίσημη ιστοσελίδα της ΠΑΕ από Τούρκους χάκερ με προκλητικό μήνυμα",
           "url": "https://www.onsports.gr/podosfairo/story/878904/aek-kyvernoepithesi-stin-episimi-istoselida-tis-pae-apo-toyrkous-xaker-me-proklitiko-minyma",
@@ -302,34 +326,10 @@
           "url": "https://www.onsports.gr/podosfairo/superleague/story/878901/olympiakos-o-pouerta-emfanistike-me-pateritses-meta-ton-travmatismo-tou",
           "publishedAt": "2026-11-18T21:18:18+00:00",
           "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/11/18/9ef425ae-puerta.jpg?t=TMjxicymSCccrjaHYVhNEw"
-        },
-        {
-          "title": "Τριέρ - Προμηθέας 102-89: Βαριά ήττα στη Γερμανία για τους Πατρινούς",
-          "url": "https://www.onsports.gr/basket/story/878900/trier-promitheas-102-89-varia-itta-sti-germania-gia-tous-patrinoys",
-          "publishedAt": "2026-11-18T21:10:31+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/11/18/bc365fa4-promitheas.jpg?t=A721BtpGZi5IuWEkc3jBQg"
-        },
-        {
-          "title": "Άρης: Ρεκόρ καριέρας στις ασίστ για τον Ντιμιτρίγιεβιτς",
-          "url": "https://www.onsports.gr/basket/story/878899/aris-rekor-karieras-stis-asist-gia-ton-dimitrigievits",
-          "publishedAt": "2026-11-18T21:03:37+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/11/18/2be2ef3d-5453178.jpg?t=PZygEgD6WBs2c1_sa8VdDg"
-        },
-        {
-          "title": "Σπανούλης: «Τα πήγαμε πολύ καλά, θέλουμε να παίζουμε σκληρή άμυνα»",
-          "url": "https://www.onsports.gr/basket/story/878898/spanoylis-ta-pigame-poly-kala-theloume-na-paizoume-skliri-amyna",
-          "publishedAt": "2026-11-18T20:39:22+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/11/18/45bc7a43-7171831.jpg?t=kZej2TE71tVj1Y7AgDSeoA"
-        },
-        {
-          "title": "Ζάκυνθος: Εκ νέου ακατάλληλο το γήπεδο - Εξετάζεται ξανά το σενάριο αποχώρησης από τη Super League 2",
-          "url": "https://www.onsports.gr/podosfairo/superleague-2/story/878858/zakynthos-ek-neou-akatallilo-to-gipedo-eksetazetai-ksana-to-senario-apoxorisis-apo-ti-super-league-2",
-          "publishedAt": "2026-11-18T20:29:00+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/11/18/cb5545a4-zakinthos.jpg?t=KPoOZ8aEmI5UQ8hfpdXw8w"
         }
       ],
-      "checkedAt": "2026-11-18T23:10:09.972906+00:00"
+      "checkedAt": "2026-11-19T04:15:49.303530+00:00"
     }
   ],
-  "savedAt": "2026-11-18T23:10:09.972919+00:00"
+  "savedAt": "2026-11-19T04:15:49.303543+00:00"
 }
