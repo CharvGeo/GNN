@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-21",
+  "editorial_focus": "Dispute between PASOK, ELAS, PASP and Haris Doukas over the historic Polytechnic flag, Armed Forces Day historic open doors at the Pentagon, and Greek re-industrialization and manufacturing priorities.",
+  "prompts": [
+    {
+      "file": "dist/assets/2026-11-21/polytechneio-flag-controversy.jpg",
+      "slug": "diamaxi-simea-polytexneio-pasok-elas-kommatikos-sfeterismos",
+      "prompt": "Documentary editorial style photograph of the historical Greek Parliament building in central Athens with the Greek national flag waving under solemn overcast autumn afternoon light, dignified wide angle view, no people, journalistic realism",
+      "aspect_ratio": "16:9"
+    },
+    {
+      "file": "dist/assets/2026-11-21/armed-forces-day-pentagon.jpg",
+      "slug": "imera-enoplon-dynameon-anoikto-pentagono-minyma-apotropis",
+      "prompt": "Documentary editorial photograph of the Hellenic Ministry of National Defense building complex in Athens in bright daylight, Greek flags displayed, dignified institutional view, wide angle realism, no individual face close-ups",
+      "aspect_ratio": "16:9"
+    },
+    {
+      "file": "dist/assets/2026-11-21/greek-industry-manufacturing.jpg",
+      "slug": "tourismos-kai-metapoiisi-anagkaia-strofi-stin-paragogi",
+      "prompt": "Modern precision industrial manufacturing facility in Greece with clean metal machinery, engineering parts and technical blueprints on a table in natural workshop light, documentary editorial style, no people",
+      "aspect_ratio": "16:9"
+    }
+  ]
+}
