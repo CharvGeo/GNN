@@ -5,13 +5,14 @@
     {
       "file": "dist/assets/2026-11-21/polytechneio-flag-controversy.jpg",
       "slug": "diamaxi-simea-polytexneio-pasok-elas-kommatikos-sfeterismos",
-      "prompt": "Documentary editorial style photograph of the historical Greek Parliament building in central Athens with the Greek national flag waving under solemn overcast autumn afternoon light, dignified wide angle view, no people, journalistic realism",
-      "aspect_ratio": "16:9"
+      "prompt": "Authentic historical photograph of the Averof building of the National Technical University of Athens (Metsovion Polytechnion) on Patision street with neoclassical portico and marble entrance",
+      "aspect_ratio": "16:9",
+      "source": "User uploaded historical photo of the NTUA Averof building"
     },
     {
       "file": "dist/assets/2026-11-21/armed-forces-day-pentagon.jpg",
       "slug": "imera-enoplon-dynameon-anoikto-pentagono-minyma-apotropis",
-      "prompt": "Documentary editorial photograph of the Hellenic Ministry of National Defense building complex in Athens in bright daylight, Greek flags displayed, dignified institutional view, wide angle realism, no individual face close-ups",
+      "prompt": "Editorial documentary photograph of the Hellenic Ministry of National Defense building complex (Pentagono) in Athens under bright clear daylight. Wide angle institutional view, featuring strictly and prominently only ONE single Greek national flag waving from a single flagpole above or in front of the building entrance. Exactly one Greek flag only, no multiple flags, no other flags. Dignified architectural view, wide angle, authentic realistic setting, no people.",
       "aspect_ratio": "16:9"
     },
     {
