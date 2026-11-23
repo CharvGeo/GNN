@@ -4,6 +4,12 @@
       "id": "kathimerini",
       "items": [
         {
+          "title": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα 23 Νοεμβρίου",
+          "url": "https://www.kathimerini.gr/eortologio/564567613/eortologio-poioi-giortazoyn-simera-23-noemvrioy/",
+          "publishedAt": "2026-11-22T22:00:00+00:00",
+          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/11/23._1.jpg"
+        },
+        {
           "title": "Αρθρο του Ηλία Πεντάζου στην «Κ»: Ο Ταλαρίκο και το πολιτικό κενό στην Ελλάδα",
           "url": "https://www.kathimerini.gr/economy/564605044/arthro-toy-ilia-pentazoy-stin-k-o-talariko-kai-to-politiko-keno-stin-ellada/",
           "publishedAt": "2026-11-22T21:47:20+00:00",
@@ -56,19 +62,19 @@
           "url": "https://www.kathimerini.gr/culture/564603409/den-echo-skopo-na-se-exapatiso/",
           "publishedAt": "2026-11-22T19:40:00+00:00",
           "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/11/d1-11.jpg"
-        },
-        {
-          "title": "Ιουλιανού, Σμύρνης, Φυλής: Τα λείψανα ενός αστικού θριάμβου",
-          "url": "https://www.kathimerini.gr/culture/564603382/ioylianoy-smyrnis-fylis-ta-leipsana-enos-astikoy-thriamvoy/",
-          "publishedAt": "2026-11-22T19:30:00+00:00",
-          "thumbnail": "https://www.kathimerini.gr/wp-content/uploads/2026/11/c6-11.jpg"
         }
       ],
-      "checkedAt": "2026-11-22T21:58:43.205880+00:00"
+      "checkedAt": "2026-11-23T02:34:43.063744+00:00"
     },
     {
       "id": "naftemporiki",
       "items": [
+        {
+          "title": "Φωτιά σε διπλοκατοικία στο Λιτόχωρο Πιερίας: Απεγκλωβίστηκαν τέσσερα άτομα – Παρελήφθησαν από ασθενοφόρα",
+          "url": "https://www.naftemporiki.gr/society/2192731/fotia-se-diplokatoikia-sto-litochoro-pierias-apegklovistikan-tessera-atoma-parelifthisan-apo-asthenofora/?utm_source=rss&utm_medium=rss&utm_campaign=fotia-se-diplokatoikia-sto-litochoro-pierias-apegklovistikan-tessera-atoma-parelifthisan-apo-asthenofora",
+          "publishedAt": "2026-11-22T21:59:18+00:00",
+          "thumbnail": ""
+        },
         {
           "title": "Βουλή Αντιπροσώπων ΗΠΑ: Ορόσημο 258 εδρών για τους Δημοκρατικούς – Η μεγαλύτερη πλειοψηφία από το 1992",
           "url": "https://www.naftemporiki.gr/kosmos/2192730/voyli-antiprosopon-ipa-orosimo-258-edron-gia-toys-dimokratikoys-i-megalyteri-pleiopsifia-apo-to-1992/?utm_source=rss&utm_medium=rss&utm_campaign=voyli-antiprosopon-ipa-orosimo-258-edron-gia-toys-dimokratikoys-i-megalyteri-pleiopsifia-apo-to-1992",
@@ -122,81 +128,75 @@
           "url": "https://www.naftemporiki.gr/society/2192707/lamia-nekros-sto-spiti-toy-58chronos-exi-skylia-den-epetrepan-tin-eisodo-ton-diasoston/?utm_source=rss&utm_medium=rss&utm_campaign=lamia-nekros-sto-spiti-toy-58chronos-exi-skylia-den-epetrepan-tin-eisodo-ton-diasoston",
           "publishedAt": "2026-11-22T19:21:05+00:00",
           "thumbnail": ""
-        },
-        {
-          "title": "Ολυμπιακός – Ηρακλής 6-2: Κόκκινη θύελλα παρέσυρε τον Γηραιό",
-          "url": "https://www.naftemporiki.gr/sports/2192704/kokkini-thyella-paresyre-ton-irakli/?utm_source=rss&utm_medium=rss&utm_campaign=kokkini-thyella-paresyre-ton-irakli",
-          "publishedAt": "2026-11-22T18:59:24+00:00",
-          "thumbnail": ""
         }
       ],
-      "checkedAt": "2026-11-22T21:58:43.767229+00:00"
+      "checkedAt": "2026-11-23T02:34:43.348144+00:00"
     },
     {
       "id": "ert",
       "items": [
         {
-          "title": "Σουδάν: Επιθέσεις με drones σε κατοικίες και κτήριο του ΟΗΕ στην πρωτεύουσα Χαρτούμ",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/soudan-epitheseis-me-drones-se-katoikies-kai-ktirio-tou-oie-stin-proteyousa-xartoum/",
-          "publishedAt": "2026-11-22T21:54:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/ap26326480594854.jpg"
+          "title": "Βραζιλία: 74χρονος με Αλτσχάιμερ επέζησε 11 ημέρες χαμένος στον Αμαζόνιο – Έτρωγε άγρια φρούτα και κοιμόταν σε φύλλα",
+          "url": "https://www.ertnews.gr/eidiseis/vrazilia-74xronos-me-altsxaimer-epezise-11-imeres-xamenos-ston-amazonio-etroge-agria-frouta-kai-koimotan-se-fylla/",
+          "publishedAt": "2026-11-23T02:17:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/amazonios.jpg"
         },
         {
-          "title": "ΠΟΥ: Έκκληση για ειρήνη σε περιοχές της ΛΔ του Κονγκό που έχουν πληγεί από τον Έμπολα",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/pou-ekklisi-gia-eirini-se-perioxes-tis-ld-tou-kongko-pou-exoun-pligei-apo-ton-empola/",
-          "publishedAt": "2026-11-22T21:40:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/ap25029413197530.jpg"
+          "title": "Σουδάν: Ζημιές σε σπίτια και κτήριο του ΟΗΕ προκάλεσαν επιθέσεις με drones στο Χαρτούμ",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/soudan-zimies-se-spitia-kai-ktirio-tou-oie-prokalesan-epitheseis-me-drones-sto-xartoum/",
+          "publishedAt": "2026-11-23T02:00:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/ap26326480594854-768x512-1.jpg"
         },
         {
-          "title": "Premier League: Εφιαλτικό ντεμπούτο για Ποτσετίνο στη Μάντσεστερ Γιουνάιτεντ, 4-0 από τη Λίβερπουλ",
-          "url": "https://www.ertnews.gr/athlitismos/premier-league-efialtiko-ntempouto-gia-potsetino-sti-mantsester-giounaitent-4-0-apo-ti-liverpoul/",
-          "publishedAt": "2026-11-22T21:34:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/liverpool-manunited-2026.jpg"
+          "title": "Συνεδριάζει σήμερα το NATO για τους ρωσικούς πυραύλους που εισήλθαν στον εναέριο χώρο της Πολωνίας",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/synedriazei-simera-to-nato-gia-tous-rosikous-pyraylous-pou-eisilthan-ston-enaerio-xoro-tis-polonias/",
+          "publishedAt": "2026-11-23T01:44:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/6592851-768x436-2.jpg"
         },
         {
-          "title": "Ο Τραμπ προειδοποιεί για νέα πλήγματα εναντίον του Ιράν μετά την Πρωτοχρονιά αν δεν υπάρξει συμφωνία",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/o-tramp-proeidopoiei-gia-nea-pligmata-enantion-tou-iran-meta-tin-protoxronia-an-den-yparksei-symfonia/",
-          "publishedAt": "2026-11-22T21:21:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/ap26323366899807-scaled.jpg"
+          "title": "Ανησυχία του ΟΗΕ για τις επιθέσεις σε πλοία ανοιχτά της Βεγγάζης",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/anisyxia-tou-oie-gia-tis-epitheseis-se-ploia-anoixta-tis-veggazis/",
+          "publishedAt": "2026-11-23T01:27:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/stigmiotypo-othonis-2026-11-23-023921.png"
         },
         {
-          "title": "Champions League: Ο Ρόχας «σφυρίζει» στο Κόμο-ΑΕΚ",
-          "url": "https://www.ertnews.gr/athlitismos/champions-league-o-roxas-sfyrizei-sto-komo-aek/",
-          "publishedAt": "2026-11-22T21:05:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/rojas-javier.jpg"
+          "title": "COP31: Γιατί ναυάγησαν οι συνομιλίες για το κλίμα  – Οι διαφωνίες για τα ορυκτά καύσιμα και το χάσμα μεταξύ πλούσιων και φτωχών χωρών",
+          "url": "https://www.ertnews.gr/eidiseis/cop31-giati-nayagisan-oi-synomilies-gia-to-klima-oi-diafonies-gia-ta-orykta-kaysima-kai-to-xasma-metaksy-plousion-kai-ftoxon-xoron/",
+          "publishedAt": "2026-11-23T01:10:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/ap26324356608674-2-scaled.jpg"
         },
         {
-          "title": "Θεσσαλονίκη: Αδερφάκια δύο και τριών ετών ήταν μόνα σε διαμέρισμα και έκλαιγαν για ώρες – Μεταφέρθηκαν σε νοσοκομείο, συνελήφθησαν οι γονείς",
-          "url": "https://www.ertnews.gr/eidiseis/ellada/thessaloniki-aderfakia-dyo-kai-trion-eton-itan-mona-se-diamerisma-kai-eklaigan-gia-ores-metaferthikan-se-nosokomeio-synelifthisan-oi-goneis/",
-          "publishedAt": "2026-11-22T20:47:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/pexels-samthingshd-3104178-scaled.jpg"
+          "title": "Ουκρανία: Τουλάχιστον 12 νεκροί από τις νέες ρωσικές επιθέσεις στο Κίεβο – Μάχη των διασωστών στα συντρίμμια πολυκατοικίας",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/oukrania-toulaxiston-12-nekroi-apo-tis-nees-rosikes-epitheseis-sto-kievo-maxi-ton-diasoston-sta-syntrimmia-polykatoikias/",
+          "publishedAt": "2026-11-23T00:52:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/000-d8a64nq.jpg"
         },
         {
-          "title": "Συρία: Έκρηξη νάρκης στην Ιντλίμπ – Σκοτώθηκαν πέντε παιδιά",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/syria-ekriksi-narkis-stin-intlimp-skotothikan-pente-paidia/",
-          "publishedAt": "2026-11-22T20:31:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/ap26252527031144.jpg"
+          "title": "Καλιφόρνια: Εννέα τραυματίες από πυροβολισμούς σε συναυλία – Σε κρίσιμη κατάσταση ένας 26χρονος",
+          "url": "https://www.ertnews.gr/eidiseis/kalifornia-ennea-traymaties-apo-pyrovolismous-se-synaylia-se-krisimi-katastasi-enas-26xronos/",
+          "publishedAt": "2026-11-23T00:35:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/kalifornia.jpg"
         },
         {
-          "title": "Αναλυτές προειδοποιούν ότι οι «κόμβοι επιστροφής» μεταναστών στη Ρουάντα εγείρουν ανησυχίες για τα ανθρώπινα δικαιώματα",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/analytes-proeidopoioun-oti-oi-komvoi-epistrofis-metanaston-sti-rouanta-egeiroun-anisyxies-gia-ta-anthropina-dikaiomata/",
-          "publishedAt": "2026-11-22T20:16:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/ap26247374573217-1.jpg"
+          "title": "Ιράν: Προειδοποίηση από τους Φρουρούς της Επανάστασης για κίνδυνο εσωτερικής αναταραχής",
+          "url": "https://www.ertnews.gr/eidiseis/iran-proeidopoiisi-apo-tous-frourous-tis-epanastasis-gia-kindyno-esoterikis-anataraxis/",
+          "publishedAt": "2026-11-23T00:20:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/ap26306552043771-scaled.jpg"
         },
         {
-          "title": "ΠΑΟΚ – Κηφισιά 4-0: «Ασπρόμαυρο» πάρτι με διοργανωτή τον Ζίβκοβιτς",
-          "url": "https://www.ertnews.gr/roi-idiseon/paok-kifisia-4-0-aspromayro-parti-me-diorganoti-ton-zivkovits/",
-          "publishedAt": "2026-11-22T20:00:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/7177163-scaled.jpg"
+          "title": "Τραμπ: Επαγγελματίες χορευτές κλακέτας οι Ιρανοί που αποφεύγουν την ουσία – Απειλές για  νέες επιθέσεις μετά την Πρωτοχρονιά",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/tramp-epaggelmaties-xoreytes-klaketas-oi-iranoi-pou-apofeygoun-tin-ousia-apeiles-gia-nees-epitheseis-meta-tin-protoxronia/",
+          "publishedAt": "2026-11-23T00:02:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/trump-3-06042026-768x511-1-1-2-1.jpg"
         },
         {
-          "title": "LaLiga: Η Μπαρτσελόνα επέστρεψε από το 0-2 και νίκησε τη Βιγιαρεάλ",
-          "url": "https://www.ertnews.gr/athlitismos/laliga-i-mpartselona-epestrepse-apo-to-0-2-kai-nikise-ti-vigiareal/",
-          "publishedAt": "2026-11-22T19:42:00+00:00",
-          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/11/barcelona-villareal-2026.jpg"
+          "title": "Σεισμική δόνηση 3,9 Ρίχτερ ανοιχτά της Αστυπάλαια",
+          "url": "https://www.ertnews.gr/eidiseis/seismiki-donisi-3-9-rixter-anoixta-tis-astypalaia/",
+          "publishedAt": "2026-11-22T23:53:00+00:00",
+          "thumbnail": "https://www.ertnews.gr/wp-content/uploads/2026/07/seismografos.jpg"
         }
       ],
-      "checkedAt": "2026-11-22T21:58:44.942434+00:00"
+      "checkedAt": "2026-11-23T02:34:44.616759+00:00"
     },
     {
       "id": "olympia",
@@ -217,6 +217,12 @@
           "title": "Ο Μπέρνι Σάντερς καλεί σε άμεσο πάγωμα της προηγμένης AI πριν είναι πολύ αργά",
           "url": "https://www.olympia.gr/1674085/diethni/o-mperni-santers-kalei-se-ameso-pagoma-tis-proigmenis-ai-prin-einai-poly-arga/",
           "publishedAt": "2026-11-22T18:20:46+00:00",
+          "thumbnail": ""
+        },
+        {
+          "title": "4 χρόνια χωρίς την Εμμα: Η συγκινητική ανάρτηση της μητέρας της",
+          "url": "https://www.olympia.gr/1674093/viral/4-chronia-choris-tin-emma-i-sygkinitiki-anartisi-tis-miteras-tis/",
+          "publishedAt": "2026-11-22T18:00:37+00:00",
           "thumbnail": ""
         },
         {
@@ -254,19 +260,37 @@
           "url": "https://www.olympia.gr/1674076/diethni/kai-alli-frikti-istoria-viasmoy-paidioy-apo-koryfaioys-islamistes-feretai-na-sygkalyfthike-apo-to-vretaniko-kratos/",
           "publishedAt": "2026-11-22T16:00:20+00:00",
           "thumbnail": ""
-        },
-        {
-          "title": "Ισραήλ: Σε νέα φάση εισέρχονται οι πολιτικές διαπραγματεύσεις για τον σχηματισμό κυβέρνησης",
-          "url": "https://www.olympia.gr/1674074/diethni/1674074/",
-          "publishedAt": "2026-11-22T15:40:14+00:00",
-          "thumbnail": ""
         }
       ],
-      "checkedAt": "2026-11-22T21:58:45.867842+00:00"
+      "checkedAt": "2026-11-23T02:34:44.973823+00:00"
     },
     {
       "id": "onsports",
       "items": [
+        {
+          "title": "Αταλάντα - Ίντερ 4-4: Ματσάρα με οκτώ γκολ και απίθανη επιστροφή των γηπεδούχων",
+          "url": "https://www.onsports.gr/podosfairo/story/879283/atalanta-inter-4-4-matsara-me-okto-gol-kai-apithani-epistrofi-ton-gipedoyxon",
+          "publishedAt": "2026-11-22T22:07:38+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/11/23/39eb3131-ap26302580704588.jpg?t=6BJwPBCpCMKNO2dP0yvxnw"
+        },
+        {
+          "title": "Παναθηναϊκός: Τα μηνύματα συμπαράστασης στον Αντίνο μετά τον σοβαρό τραυματισμό του",
+          "url": "https://www.onsports.gr/podosfairo/superleague/story/879282/panathinaikos-ta-minymata-symparastasis-ston-antino-meta-ton-sovaro-travmatismo-tou",
+          "publishedAt": "2026-11-22T22:04:01+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/11/23/97180058-7176252.jpg?t=wBPNL-v5Vu5FEznPuE18fQ"
+        },
+        {
+          "title": "Ρίο Ενγκουμόχα: Έγραψε ιστορία στο Λίβερπουλ – Μάντσεστερ Γιουνάιτεντ",
+          "url": "https://www.onsports.gr/podosfairo/story/879256/rio-engkoumoxa-egrapse-istoria-sto-liverpoul-mantsester-giounaitent",
+          "publishedAt": "2026-11-22T21:59:00+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/11/22/dc022bee-ap26326650747111.jpg?t=IBAIXbZGxCrrfcYghETxUA"
+        },
+        {
+          "title": "Έντι Ταβάρες: Έφτασε τις 700 συμμετοχές με τη Ρεάλ Μαδρίτης",
+          "url": "https://www.onsports.gr/basket/euroleague/story/879281/enti-tavares-eftase-tis-700-symmetoxes-me-ti-real-madritis",
+          "publishedAt": "2026-11-22T21:48:11+00:00",
+          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/11/22/9b728e7a-tavares.jpg?t=Dr8atoHla3TRaqxbzuCOyQ"
+        },
         {
           "title": "Ο Παναθηναϊκός του Νίστρουπ είναι ασταμάτητος κόντρα σε όλους και όλα!",
           "url": "https://www.onsports.gr/opinion/story/879269/o-panathinaikos-tou-nistroup-einai-astamatitos-kontra-se-olous-kai-ola",
@@ -302,34 +326,10 @@
           "url": "https://www.onsports.gr/basket/euroleague/story/879270/besiktas-travmatistike-o-gouein-geimpriel-xanei-to-mats-me-ton-panathinaiko",
           "publishedAt": "2026-11-22T20:31:00+00:00",
           "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/11/22/33eaa9f7-hxvubrqxgaaqeyd.jpg?t=4VRPxAscEkIWn6y3tPhKkA"
-        },
-        {
-          "title": "Παναθηναϊκός: Το μήνυμα συμπαράστασης του Ουναΐ στον Αντίνο μετά τον τραυματισμό του",
-          "url": "https://www.onsports.gr/podosfairo/superleague/story/879274/panathinaikos-to-minyma-symparastasis-tou-ounahi-ston-antino-meta-ton-travmatismo-tou",
-          "publishedAt": "2026-11-22T20:20:15+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/11/22/0c92d79f-5334727.jpg?t=D-alIPZJM1EG5bpftWYU5Q"
-        },
-        {
-          "title": "Αλγουαθίλ στη συν. Τύπου: «Το δεύτερο ημίχρονο είναι αυτό που θέλουμε να βλέπουμε από τον Ολυμπιακό»",
-          "url": "https://www.onsports.gr/podosfairo/superleague/story/879273/algouathil-sti-syn-typou-to-deytero-imixrono-einai-afto-pou-theloume-na-vlepoume-apo-ton-olympiako",
-          "publishedAt": "2026-11-22T20:14:09+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/11/22/0735d704-7176604.jpg?t=rdOO0DkpRZhUxrIwchK1ZQ"
-        },
-        {
-          "title": "Παναθηναϊκός: «Οι διαπλεκόμενοι όλων των αποχρώσεων, έχουν το θράσος να κουνάνε το δάχτυλο…»",
-          "url": "https://www.onsports.gr/podosfairo/superleague/story/879272/panathinaikos-oi-diaplekomenoi-olon-ton-apoxroseon-exoun-to-thrasos-na-kounane-to-daxtylo",
-          "publishedAt": "2026-11-22T20:02:20+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/11/22/51e5bf59-5459113.jpg?t=VHQTDVdbeqV7-TdxcFcOuA"
-        },
-        {
-          "title": "Λίσι: «Κάναμε ένα πολύ καλό παιχνίδι, η Κηφισιά έχει δείξει καλή απόδοση με τις ομάδες του Big-4»",
-          "url": "https://www.onsports.gr/podosfairo/superleague/story/879271/lisi-kaname-ena-poly-kalo-paixnidi-i-kifisia-exei-deiksei-kali-apodosi-me-tis-omades-tou-big-4",
-          "publishedAt": "2026-11-22T19:55:50+00:00",
-          "thumbnail": "https://cdn.onsmd.gr/img/400/max/90/2026/09/16/0a6eca5c-lisci.jpg?t=__v7BI-vjooMXTPjg3-bgw"
         }
       ],
-      "checkedAt": "2026-11-22T21:58:46.020969+00:00"
+      "checkedAt": "2026-11-23T02:34:45.120877+00:00"
     }
   ],
-  "savedAt": "2026-11-22T21:58:46.020986+00:00"
+  "savedAt": "2026-11-23T02:34:45.120889+00:00"
 }
